@@ -1,0 +1,57 @@
+{
+  "titolo": "Diario di Dolmenwood",
+  "sottotitolo": "Cronache della compagnia di Morchia",
+  "sistema": "Dolmenwood RPG / Old-School Essentials — Necrotic Gnome",
+  "avventura_corrente": "Winter's Daughter",
+  "introduzione": "Quattro nativi di Morchia si mettono in cammino dentro Dolmenwood perché uno di loro ha sognato una dama elfica che gli ha promesso amore in cambio di un anello sepolto in un tumulo. Non è mai una buona idea. Questo è il resoconto di cosa è successo dopo.",
+  "personaggi": [
+    {
+      "nome": "Oleggio Brucaboschi",
+      "giocatore": "Andrea",
+      "stirpe": "Breggle",
+      "nota_stirpe": "Nel diario scritto a mano: «breggolo». I breggle sono la stirpe caprina di Dolmenwood: corna, zoccoli e un'innata superiorità morale.",
+      "ruolo": "Il sognatore. È il suo sogno ad avere trascinato tutti quanti qui dentro, ed è lui a scoprire per primo di essere stato usato.",
+      "iniziale": "O"
+    },
+    {
+      "nome": "Slurbel Piedemuffo",
+      "giocatore": "Flama",
+      "stirpe": "Mossling",
+      "nota_stirpe": "Nel diario: «albero secco». I mossling sono piccoli umanoidi nodosi e legnosi, la cui carne fertile ospita muschi, muffe e funghi — al tavolo, affettuosamente, «muschiolino».",
+      "ruolo": "Martello da demolizione e mani lunghe. Sfonda le porte, addormenta i goblin e ruba le mele.",
+      "iniziale": "S"
+    },
+    {
+      "nome": "Andante Tagliaserpi",
+      "giocatore": "Vanni",
+      "stirpe": "Umano",
+      "nota_stirpe": "Cavaliere.",
+      "ruolo": "La coscienza cavalleresca del gruppo. Pretende colloqui d'onore anche dai morti, e porta una spada magica arrogante che lo obbliga ad attaccare sempre il nemico più grosso.",
+      "iniziale": "A"
+    },
+    {
+      "nome": "Secchio di Brodo",
+      "giocatore": "l'autore del diario",
+      "stirpe": "Elfo",
+      "nota_stirpe": "Creatura magica: può attraversare il confine fra i mondi dove i mortali non passano.",
+      "ruolo": "Interprete e tramite. Parla silvano, sente le aure, e quando tutti gli altri sono pietrificati dalla paura è l'unico che riesce a parlare con i fantasmi.",
+      "iniziale": "B"
+    },
+    {
+      "nome": "Urca Snobrughiera",
+      "giocatore": "Francesca",
+      "stirpe": "Spaventaboschi",
+      "nota_stirpe": "Incontrata dentro il tumulo mentre suonava il flauto davanti a una statua bendata. Cerca un mercante goblin da sposare.",
+      "ruolo": "Comparsa nelle sessioni 1-4. Non compare nella sessione 5: dalle fonti non è chiaro se sia entrata stabilmente nel gruppo. [da verificare con il gruppo]",
+      "iniziale": "U"
+    }
+  ],
+  "glossario": [
+    { "voce": "Principe Gelido", "desc": "Antico signore fatato che regnò su Dolmenwood tenendola sotto un inverno eterno, bandito nel mondo delle fate novecento anni fa. Il vento è il suo fiato." },
+    { "voce": "Nevicata al Crepuscolo", "desc": "Principessa elfica delle nevi, imprigionata in una torre bianca su un lago ghiacciato. Contatta i mortali attraverso i sogni." },
+    { "voce": "Sir Cidio", "desc": "Cavaliere mortale, eroe della guerra contro i fatati, innamorato della principessa. Il suo spirito è legato a un anello nel proprio sarcofago." },
+    { "voce": "Druni", "desc": "Congrega di stregoni benevoli, padroni dei cerchi di pietre, che segnano il loro territorio con gufi di ferro appesi agli alberi. Nessuno li ha mai visti." },
+    { "voce": "Morchia", "desc": "Paese natale della compagnia, in riva a un fiume, governato dall'uomo-capra Lord Malbelato." },
+    { "voce": "Ferro algido", "desc": "Metallo velenoso per le fate: +1 al danno contro fate e demi-fatati, −1 contro tutto il resto." }
+  ]
+}

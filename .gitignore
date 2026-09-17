@@ -1,0 +1,8 @@
+# audio originale delle sessioni: troppo pesante per git
+fonti/audio/
+
+# artefatti macOS
+.DS_Store
+
+# file intermedi di generazione (rigenerabili con genera.py)
+build/

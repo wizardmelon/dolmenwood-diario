@@ -1,0 +1,242 @@
+{
+  "numero": 5,
+  "slug": "sessione-05",
+  "titolo": "L'anello del cavaliere morto",
+  "sottotitolo": "In cui si profana una tomba, si scopre di essere stati usati, e si bussa alla cucina di un troll",
+  "avventura": "Winter's Daughter",
+  "durata": "1h 56m di registrazione",
+  "occhiello": "Prima sessione registrata in audio. Trascritta con Whisper large-v3 e ricostruita incrociando la trascrizione automatica dell'iPhone e il diario delle sessioni 1-4.",
+  "capitoli": [
+    {
+      "titolo": "Il riepilogo davanti alla mappa",
+      "testo": [
+        "La sessione si apre come si aprono tutte le sessioni: quattro teste chine su una mappa e nessuno che ricorda con certezza da dove si sia arrivati.",
+        "Si ricostruisce a fatica: la stanza dei quattro pilastri con i bassorilievi di guerra fra dolmenwoodiani ed elfi delle nevi; la porta sorvegliata dai segugi di pietra che pretendevano nomi; la stanza delle statue di soldati, quella con il dipinto e con la spada che Andante si è — legittimamente, insiste lui — appropriato.",
+        "I nomi giusti erano due: **Cheder** e **Sir Cidio**. Pronunciati quelli, i segugi hanno ceduto il passo e la compagnia è entrata nella stanza rotonda dove, al centro, una voce supplichevole aveva chiesto: *«Aiutatemi a tornare da lei.»*",
+        "Da lì riparte la sessione 5."
+      ],
+      "dialoghi": []
+    },
+    {
+      "titolo": "Il fantasma nella stanza rotonda",
+      "testo": [
+        "Il fantasma è pallido e traslucido, come ogni fantasma che si rispetti. Indossa un'armatura completa — non da battaglia, ma da cerimonia: pesante, riccamente decorata, e fantasma anch'essa.",
+        "Il Custode chiede a tutti un tiro salvezza contro Incantesimo. Va male. Molto male: due dadi su quattro rotolano su un **1 naturale**. Andante Tagliaserpi e Oleggio Brucaboschi restano pietrificati dalla paura, sordi e muti davanti all'apparizione.",
+        "Solo **Secchio di Brodo** supera la prova. Ed è l'unico che sente ciò che il fantasma dice — e l'unico che, guardandolo, sa immediatamente chi è: non l'ha mai visto, ma le leggende, le storie, l'araldica sull'armatura non lasciano dubbi. È Sir Cidio."
+      ],
+      "dialoghi": [
+        { "chi": "Sir Cidio", "cosa": "Vi prego. Portatemi da lei. Sono secoli che vivo qui." },
+        { "chi": "Secchio di Brodo", "cosa": "Da lei chi, messere? Non vorremmo sbagliare persona." },
+        { "chi": "Sir Cidio", "cosa": "Tu sai dov'è. Tu sei stato nel suo mondo. Portatemi da lei, ti prego." },
+        { "chi": "Slurbel Piedemuffo", "cosa": "In realtà ci stiamo andando anche noi, da lei. Il problema è che i nostri amici, in questo momento, sono spaventati." },
+        { "chi": "Custode", "cosa": "Fate un tiro col d6. Con 4, 5 o 6 vi riprendete. Altrimenti restate lì, immobili." },
+        { "chi": "Andante Tagliaserpi", "cosa": "Uno." },
+        { "chi": "Oleggio Brucaboschi", "cosa": "...due." }
+      ]
+    },
+    {
+      "titolo": "Le ossa, le ametiste e l'anello",
+      "testo": [
+        "Mentre due quarti del gruppo restano paralizzati, Secchio di Brodo e Slurbel decidono di andare a controllare se l'anello esiste davvero. Il fantasma ha indicato il sarcofago alle proprie spalle.",
+        "Dentro c'è lo scheletro del cavaliere, senza armatura, con le braccia composte sul petto nella posa classica dei morti. Al posto degli occhi, due **ametiste**. Ai polsi, un paio di braccialetti. Su un dito, l'anello.",
+        "Dietro al sarcofago, appeso, un ritratto: un'elfa dai lunghi capelli luccicanti, tunica bianca, una stella sulla fronte. L'amata.",
+        "Secchio di Brodo, che è creatura magica, non ha bisogno di toccare l'anello per capire: sprigiona un'aura potentissima. Non è un anellino qualunque."
+      ],
+      "dialoghi": [
+        { "chi": "Secchio di Brodo", "cosa": "Questo anello ha un'aura enorme. Io non vorrei prenderlo." },
+        { "chi": "Slurbel Piedemuffo", "cosa": "Richiudiamo tutto e ce ne andiamo?" },
+        { "chi": "Secchio di Brodo", "cosa": "Sai come va a finire, quando prendi un anello che non è tuo." },
+        { "chi": "Andante Tagliaserpi", "nota": "riavutosi dalla paura, vedendo il sarcofago aperto", "cosa": "Che state facendo? Non si profanano le tombe!" },
+        { "chi": "Slurbel Piedemuffo", "cosa": "Ma siamo venuti qua apposta! Per questo anello! E io sono una pianta, cosa ne so io di tombe." }
+      ]
+    },
+    {
+      "titolo": "Il patto del cavaliere morto",
+      "testo": [
+        "Quando anche Andante e Oleggio si riprendono, la conversazione diventa una trattativa. Sir Cidio spiega la sua condizione: **vive solo attraverso l'anello**, non può allontanarsene. Se vogliono portarlo alla torre, devono portare l'anello.",
+        "Andante — che è cavaliere e la prende sul personale — pretende un colloquio d'onore.",
+        "Il Custode chiarisce la regola: fuori da tre metri dall'anello, Sir Cidio svanisce. Non è trascinato fisicamente; semplicemente, gli conviene restare vicino."
+      ],
+      "dialoghi": [
+        { "chi": "Andante Tagliaserpi", "cosa": "Ser Cidio, è un piacere incontrarla. Lei è un cavaliere degno di nota." },
+        { "chi": "Secchio di Brodo", "cosa": "Io no, sia chiaro. Non mi alzerei mai a tanto. Sono un umile viaggiatore." },
+        { "chi": "Sir Cidio", "cosa": "Ma il vostro mestiere è nobile." },
+        { "chi": "Sir Cidio", "cosa": "Ti prego, aiutami a ricongiungermi con lei." },
+        { "chi": "Andante Tagliaserpi", "cosa": "Che le è successo, messere?" },
+        { "chi": "Sir Cidio", "cosa": "È rimasta chiusa nella sua torre. Solo questo anello potrà riportarmi a lei. Prendetelo, vi prego, e portatemi da lei." },
+        { "chi": "Andante Tagliaserpi", "cosa": "Messere, perché vuole tornare nel regno che lei stesso ha bandito?" },
+        { "chi": "Sir Cidio", "cosa": "Perché l'amore vince su tutto." },
+        { "chi": "Andante Tagliaserpi", "nota": "cavaliere a cavaliere", "cosa": "Io la rispetto, messere, ma qualcosa non va. Abbiamo ricevuto una missiva, chiamiamola così, dalla sua signora: si è promessa in sposa al mio amico, in cambio dell'anello. Qualcosa non torna." },
+        { "chi": "Andante Tagliaserpi", "cosa": "Che intenzioni ha, lei, con la fanciulla?" },
+        { "chi": "Sir Cidio", "cosa": "Io voglio solo sposarla. È lì che mi aspetta." },
+        { "chi": "Sir Cidio", "nota": "a Oleggio", "cosa": "Mi dispiace se ti ha mentito. Anche a me aveva fatto una promessa. Anche io sono stato manipolato. Ma sarai ricompensato." },
+        { "chi": "Oleggio Brucaboschi", "cosa": "Con cosa?" },
+        { "chi": "Sir Cidio", "cosa": "Con quello che vuoi. Gioielli a non finire. Una runa che, se indossata, annullerà la tua morte. E un amuleto che esaudirà un tuo desiderio." },
+        { "chi": "Andante Tagliaserpi", "nota": "sottovoce, al tavolo", "cosa": "Ma non è morto una volta sola, messere? E poi, mi sa che c'è l'asterisco. Il contratto. Dal lunedì al venerdì dalle otto..." }
+      ]
+    },
+    {
+      "titolo": "Il cuore spezzato di Oleggio",
+      "testo": [
+        "È qui che la sessione cambia tono. Oleggio, che per quattro sessioni ha camminato dentro un sogno d'amore, capisce di essere stato usato. Non lo ferisce tanto l'inganno: lo ferisce che **adesso ha un rivale**.",
+        "Appena Sir Cidio si allontana di qualche passo, Oleggio raduna i compagni e confessa."
+      ],
+      "dialoghi": [
+        { "chi": "Oleggio Brucaboschi", "cosa": "Mi rammarico. Mi dispiace. Vi ho portati in una trappola, ma non potevo saperlo: mi hanno preso per la gola. Anzi, più in basso. Avete capito." },
+        { "chi": "Oleggio Brucaboschi", "cosa": "Questa ricompensa non esiste. Lo sento da come parla, da come mi guarda. Probabilmente nella torre moriremo. Ma sappiate che io combatterò per voi." },
+        { "chi": "Slurbel Piedemuffo", "cosa": "Ormai ci hai portati qui. Siamo in ballo." },
+        { "chi": "Secchio di Brodo", "cosa": "Come si chiama, questa signora da cui stiamo andando? Nevicata al Crepuscolo. Se ti è apparsa in sogno e ti ha fatto arrivare fin qui, un motivo ci sarà. Non essere così pessimista, Oleggio. Andiamo fino in fondo." },
+        { "chi": "Oleggio Brucaboschi", "cosa": "Mi è apparsa in sogno perché voleva usarmi per liberarsi. Non avete colto i segnali del fantasma." },
+        { "chi": "Secchio di Brodo", "cosa": "Tu adesso sei accecato dalla delusione." },
+        { "chi": "Andante Tagliaserpi", "cosa": "Andiamo avanti. Se si deve morire, si morirà: se non oggi, domani, per qualche altro motivo." }
+      ]
+    },
+    {
+      "titolo": "Oltre le candele",
+      "testo": [
+        "La compagnia ripercorre il tumulo all'indietro, passando per la sala dei fantasmi danzanti — che continuano a ballare, indifferenti — fino a ritrovare la scala e la barriera di candele fluttuanti alla sua base.",
+        "Nella sessione precedente solo Secchio di Brodo, in quanto creatura magica, era riuscito ad attraversarla. Ma adesso il gruppo ha l'anello: la porta è aperta anche per i mortali. Il Custode avverte che passare è facile, tornare indietro no. Nessuno si ferma.",
+        "L'attraversamento non è una porta: è un'ondata di timore reverenziale. Per un istante ciascuno vede guardiani angelici che li sollevano fra le braccia e li scortano verso l'altro mondo, mentre il soffitto di rami intrecciati si disperde sopra di loro."
+      ],
+      "dialoghi": [
+        { "chi": "Custode", "cosa": "Venite attraversati da un'ondata di timore reverenziale, e sperimentate una breve visione: entità angeliche vi portano fra le loro braccia verso un altro mondo. Immaginatevele come preferite." },
+        { "chi": "Slurbel Piedemuffo", "nota": "immediatamente", "cosa": "Tipo gli Angemon dei Digimon." }
+      ]
+    },
+    {
+      "titolo": "La torre bianca sul lago ghiacciato",
+      "testo": [
+        "Dall'altra parte c'è un freddo che punge. E davanti a loro, finalmente visibile a tutti e non solo all'elfo, si erge la **torre bianca su un'isola in mezzo a un lago ghiacciato**.",
+        "Chi ha comprato la pelliccia se la infila: niente tiro salvezza contro il freddo. Chi non ce l'ha, tira. Il gruppo, per una volta, è stato previdente."
+      ],
+      "dialoghi": []
+    },
+    {
+      "titolo": "La slitta dei cervi morti",
+      "testo": [
+        "Prima ancora di mettere piede sul ghiaccio, sentono un gracchiare e un cigolio: qualcosa sta attraversando il lago.",
+        "È una slitta, trainata da cervi. Cervi ridotti malissimo: uno di loro porta un teschio calzato sopra al proprio muso. Sulle sedute, **quattro goblin del ghiaccio**: bianchi, impellicciati, molto meglio armati dei goblin ubriaconi incontrati nelle sessioni precedenti.",
+        "Uno scende, punta la lancia e parla in silvano — lingua che Secchio di Brodo capisce, e che gli altri no.",
+        "E qui Sir Cidio smette di essere un fantasma implorante. Sorpassa il gruppo, gli compare una spada in mano, e parla con una voce che nessuno gli aveva mai sentito: non più bassa e supplichevole, ma da principe."
+      ],
+      "dialoghi": [
+        { "chi": "Sir Cidio", "nota": "voce tonante", "cosa": "Sporchi esseri! Levatevi dalla mia vista!" },
+        { "chi": "Custode", "cosa": "I goblin ridacchiano. Ridono. Poi prendono tutti le armi." },
+        { "chi": "Oleggio Brucaboschi", "nota": "ai compagni", "cosa": "Ragazzi, ecco la terza fregatura. E metaforicamente le ho prese tutte io, sappiatelo." }
+      ]
+    },
+    {
+      "titolo": "Il tocco che invecchia",
+      "testo": [
+        "Lo scontro è lungo, tirato e — ammettiamolo — giocato malissimo: una raffica impressionante di tiri per colpire falliti da entrambe le parti.",
+        "Andante mena con la spada rubata dalla tomba, che è magica e **arrogante**: costringe chi la impugna ad attaccare in mischia il nemico più grosso, in cambio di +2 all'attacco e +3 al danno. Secchio di Brodo tiene le distanze con l'arco corto, scoprendo al volo che la gittata modifica il tiro per colpire (+1 a distanza breve, −1 a media e lunga). Slurbel, con la sua armatura da mossling e il martello da demolizione, si becca addosso tre goblin contemporaneamente e li vede lisciare tutti e tre.",
+        "Ma il vero protagonista della battaglia è il morto. Sir Cidio non brandisce la spada: **tocca**. Un dito sulla testa del goblin, e la creatura si riempie di rughe, la pelle diventa cascante, i peli sul viso sbiancano di colpo. Invecchia all'istante — e resta stupito anche lui di quello che gli sta succedendo, mentre fatica a tenere le armi in mano.",
+        "Il fantasma ne secca due, di cui uno con un critico. Il gruppo, mestamente, prende atto che il cavaliere morto da secoli gioca meglio di loro."
+      ],
+      "dialoghi": [
+        { "chi": "Custode", "cosa": "Sir Cidio si avvicina al goblin e lo tocca sulla testa. Vedete che improvvisamente si riempie di rughe, la pelle diventa cadente, i peli in faccia diventano tutti bianchi. Invecchia all'istante." },
+        { "chi": "Andante Tagliaserpi", "cosa": "Un cavaliere senza macchia e senza mira." }
+      ]
+    },
+    {
+      "titolo": "Il goblin in ginocchio",
+      "testo": [
+        "L'ultimo goblin rimane solo. Alza le zampe, si inginocchia e chiede pietà — o, secondo un'altra lettura, chiede proprio il colpo di grazia.",
+        "Il gruppo esita. Andante guarda Sir Cidio, interpellandolo con lo sguardo. Poi chiede se può fare un ultimo attacco su un nemico inerme.",
+        "Il Custode concede: nessuna prova necessaria, basta non tirare un 1 (in quel caso ti cade solo la spada). Andante tira. Non è un 1. Il goblin viene passato a fil di spada.",
+        "**Bottino:** quattro armi di fattura decisamente non goblinesca — tre spade corte e una lunga (1d8). Sono tutte di **ferro algido**: +1 al danno contro fate e creature demi-fatate, −1 contro tutte le altre. Nella terra in cui stanno entrando, è esattamente il metallo che serve."
+      ],
+      "dialoghi": [
+        { "chi": "Goblin del ghiaccio", "nota": "in ginocchio", "cosa": "Uccidetemi, vi prego. Scusate. Basta, scusate." },
+        { "chi": "Custode", "cosa": "La foggia di queste spade non è da goblin. Non sono armacce messe insieme male: sono armi fatte molto bene. E sono tutte di ferro algido." }
+      ]
+    },
+    {
+      "titolo": "Siete cibo o siete invitati?",
+      "testo": [
+        "Il piano terra della torre è l'esatto opposto del tumulo: niente rovina, niente polvere. Pannelli di noce lucidato, pavimento in assi di noce scuro, tutto curato come nuovo. Non c'è camino, non c'è alcuna fonte di calore visibile — eppure l'aria è tiepida e confortevole. *È tutto nord a 360 gradi*, osserva il Custode: sono al polo, e dentro si sta bene.",
+        "Da oltre un muro arriva un vociare sommesso e un profumo di forno: pane, biscotti, roba che fa venire una fame incredibile. C'è una porta.",
+        "La compagnia si chiede dove porti. Se lo chiede così tanto da aprirla.",
+        "Dietro c'è un gigantesco umanoide che sembra fatto di creta, con le sembianze di un troll, enorme e grasso, con una parannanza addosso. Davanti ha una borsa strapiena di muschi e funghi — roba che a Slurbel piace moltissimo. E sopra la sua testa, appollaiato, un goblin lo manovra fra i fornelli come un timoniere.",
+        "Il goblin li vede. E fa la domanda con cui si chiude la sessione."
+      ],
+      "dialoghi": [
+        { "chi": "Goblin cuoco", "cosa": "Siete cibo, o siete invitati?" },
+        { "chi": "Il gruppo", "nota": "all'unisono, senza pensarci", "cosa": "Invitati!" }
+      ]
+    },
+    {
+      "titolo": "Bottino e avanzamenti",
+      "testo": [
+        "**Oggetti acquisiti:** l'anello di Sir Cidio (con fantasma incluso, raggio d'azione tre metri); quattro armi di ferro algido (una spada lunga, tre corte).",
+        "**Promesse ricevute** (validità tutta da verificare): gioielli a non finire, una runa che annulla la morte, un amuleto che esaudisce un desiderio.",
+        "**Punti esperienza:** il gruppo arriva intorno ai **2100–2250 XP** a testa. Andante, cavaliere, tocca 2250. Chi è rimasto svenuto a metà sessione non ha incassato gli XP dei goblin. A fine conto, si ragiona sui passaggi di livello e sui punti ferita: 1d8 per livello fino al decimo, poi un numero fisso — *«perché subentra la vecchiaia»*.",
+        "**Il Custode annuncia:** manca solo da esplorare la torre, poi c'è il finale. Un'altra sessione e Winter's Daughter si chiude."
+      ],
+      "dialoghi": []
+    }
+  ],
+  "perle": [
+    {
+      "titolo": "Il potere del cristallo di luna (e dell'avocado marcio)",
+      "testo": "Attraversata la barriera di candele, qualcuno commenta il passaggio con «con il potere dell'amore… con il potere del cristallo di luna». Da lì la conversazione deraglia per cinque minuti buoni su un episodio di Sailor Moon — serie R, episodio 20, secondo la fonte — in cui al supermercato, da un avocado marcio, esce fuori una Sailor Moon cattiva. Il tavolo non si riprende più: «Avocadora», «Sailor Scadenza», «spada con l'elsa a forma di banana». Alla domanda «ma come ci siamo arrivati all'avocado?» nessuno sa rispondere."
+    },
+    {
+      "titolo": "Anello, anella, agnello",
+      "testo": "La trattativa con Sir Cidio sulla ricompensa degenera in una filastrocca collettiva sull'anello: «l'anello anella, chi anella l'anello, l'anello che anella». Finché qualcuno sente male e capisce *agnello*, e da lì parte una canzone improvvisata dedicata al fantasma che vive dentro un agnello."
+    },
+    {
+      "titolo": "Il fantasma del Natale passato",
+      "testo": "Secchio di Brodo, che ha superato il tiro salvezza ed è l'unico che può parlare con Sir Cidio, decide di usare questo privilegio per fare dello spirito. «Le serve per caso un rimedio per l'asma? Se aspetta che lo inventino, glielo porto.» E poco dopo, presentandosi: «Mike Bongiorno e il fantasma del Natale passato»."
+    },
+    {
+      "titolo": "Torre Bella Monaca, Torre Marancia",
+      "testo": "Al momento di stabilire la destinazione, qualcuno chiede il nome della torre. La risposta arriva prima dal tavolo che dal Custode: «Torre Bella Monaca». «Torre Marancia.» Nessuna delle due, ovviamente, si trova a Dolmenwood."
+    },
+    {
+      "titolo": "Il nome della dama",
+      "testo": "«Nevicata al Crepuscolo.» «Crepax o Scolo?» «Vabbè, la chiameremo Biancaneve.» «Neva.» «Neva.» «Or-neva.» Per il resto della sessione la principessa fatata sarà, a seconda di chi parla, Neva, Nevicata o Biancaneve."
+    },
+    {
+      "titolo": "Come prendere in braccio un goblin per scappare dal goblin",
+      "testo": "Quando la compagnia realizza che per portare Sir Cidio dalla sua amata deve portarsi dietro l'anello — cioè il fantasma stesso — Slurbel sintetizza la situazione con una metafora destinata a restare: «È come prendere in braccio un goblin per scappare dal goblin»."
+    },
+    {
+      "titolo": "«Si tappi le cavità, per favore»",
+      "testo": "Il gruppo ha bisogno di consultarsi senza che Sir Cidio senta. La richiesta viene formulata con la massima cortesia possibile: «Ci scusi, signor Cidio, potrebbe darci le spalle un attimo? E si tappi le cavità, per favore»."
+    },
+    {
+      "titolo": "Ma tu ce l'avevi anche riferito?",
+      "testo": "Cinque minuti di totale collasso comunicativo sul pronome: «Lei l'ha vista.» «Sì, ma tu ce l'avevi riferito?» «Lui? Lei?» «A lui gli piace lei.» «E a lei?» «A lui gli piace lui.» «Sti enti che non si capisce mai.» Il Custode lascia correre."
+    },
+    {
+      "titolo": "La fuga dalla mischia",
+      "testo": "Andante, malridotto, si sente leggere la regola della ritirata: chi fugge dalla mischia rinuncia all'attacco e concede ai nemici +2 al tiro per colpire, ignorando lo scudo. Commento immediato: «Cioè praticamente vuol dire suicidarsi». Risposta dal tavolo: «Oltretutto perdi la stima di tutti quanti»."
+    },
+    {
+      "titolo": "Confusione di sistemi",
+      "testo": "A metà combattimento il Custode si blocca: «Non mi ricordo se per la vostra difesa dovete togliere il bonus dello scudo… no, aspetta, quello è Warhammer, dove neghi la parte dell'armatura. Mi sto confondendo tutti i giochi insieme»."
+    },
+    {
+      "titolo": "Un cavaliere senza macchia e senza mira",
+      "testo": "Dopo l'ennesimo tiro per colpire fallito da Andante — con +4 al tiro — arriva l'autodefinizione che il tavolo approva all'unanimità."
+    },
+    {
+      "titolo": "Il gioco di ruolo dello Svarione degli Anelli",
+      "testo": "A un certo punto qualcuno constata che quello che stanno giocando non è più Dolmenwood, ma «il gioco di ruolo dello Svarione degli Anelli». Nessuno obietta."
+    },
+    {
+      "titolo": "Quali amiche, quali compagni?",
+      "testo": "Il Custode descrive la scena: «vi riprendete quando vedete che le vostre amiche e compagne hanno aperto il sarcofago». Segue rivendicazione identitaria generale: «Io mi sento un uomo». «Io sono un elfo.» «Io sono una pianta.» Si chiude con un diplomatico «vabbè, è fluido»."
+    },
+    {
+      "titolo": "Il fratello di Remì",
+      "testo": "A sessione finita, mentre si contano gli XP, il tavolo scivola in una lunga digressione sui cartoni animati dell'infanzia — il fratello di Remì, il cugino, «erano tutti parenti», «era una madre di tutti» — che nessuna trascrizione riuscirà mai a ricostruire del tutto. [da verificare con il gruppo]"
+    }
+  ],
+  "note": [
+    "Il nome del secondo segugio di pietra è reso come **Cheder** seguendo il diario delle sessioni 1-4; nella trascrizione audio suona come «Ceder». [da verificare con il gruppo]",
+    "**Urca Snobrughiera**, la Spaventaboschi di Francesca, non compare in questa sessione: nel diario appare durante l'esplorazione del tumulo nelle sessioni precedenti. Dalle registrazioni non è chiaro se sia entrata stabilmente nel gruppo. [da verificare con il gruppo]",
+    "Le due voci sul goblin inerme (chiede pietà o chiede di essere ucciso) sono entrambe presenti nelle fonti. Qui è riportata la versione letterale dell'audio. [da verificare con il gruppo]"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "numero": "1-4",
+  "slug": "sessioni-01-04",
+  "titolo": "Dal sogno al tumulo",
+  "sottotitolo": "Le prime quattro sessioni, riassunte dal diario scritto a mano al tavolo",
+  "avventura": "Winter's Daughter",
+  "durata": "quattro sessioni, non registrate",
+  "occhiello": "Queste sessioni non hanno registrazione audio. Il testo che segue è una riscrittura del diario manoscritto tenuto da Secchio di Brodo, riordinato ma fedele: nessun evento è stato aggiunto.",
+  "capitoli": [
+    {
+      "titolo": "Quel che tutti sanno a Morchia",
+      "testo": [
+        "I personaggi sono nativi di **Morchia**, un paese in riva a un fiume, governato da **Lord Malbelato**, un uomo-capra dalla nomea discutibile e dal governo stranamente efficace. Morchia era terra pagana: la maggior parte degli abitanti è atea e non si fida granché della chiesa.",
+        "Tutti a Morchia conoscono la storia. Per secoli il **Principe Gelido** regnò su tutto Dolmenwood, e sotto il suo dominio la foresta stava sepolta sotto ghiaccio e neve. Novecento anni fa i mortali mossero guerra ai fatati e strapparono il bosco al principe, che si ritirò nel mondo delle fate. Ogni tanto il velo fra i due mondi si solleva: il vento è il fiato del Principe Gelido che cerca di tornare.",
+        "In quella guerra si distinse un cavaliere innamorato di una fatata. I due si scambiarono degli anelli."
+      ],
+      "dialoghi": []
+    },
+    {
+      "titolo": "Il sogno di Oleggio",
+      "testo": [
+        "**Oleggio Brucaboschi** sogna da qualche notte una dama elfica, e se ne sta innamorando. Nel sogno entra in un tumulo, sfila un anello dal dito di uno scheletro e glielo porta. La dama gli conferma che la tomba esiste davvero, che sotto di essa c'è una porta per il mondo delle fate, e gli promette il suo amore se andrà a prendere l'anello. Oleggio, al risveglio, conosce la posizione del tumulo.",
+        "Ricorda anche che lì dentro riposa la spada di **Sir Cidio**, cavaliere per eccellenza — e che vale una fortuna. A sentirlo parlare della spada si avvicina **Barbaverri**, frate e ubriacone, che spiega che per una cosa del genere serve il permesso della chiesa: quello della **reverenda madre Capoderica**, alla chiesa di San Lucignolo — un edificio parecchio malandato, perché a Morchia la devozione scarseggia.",
+        "La reverenda madre concede la benedizione. La notte Oleggio non sogna, ma ricorda un dettaglio: quando la tomba fu sigillata era piena di fantasmi, e furono posti dei glifi a protezione."
+      ],
+      "dialoghi": []
+    },
+    {
+      "titolo": "La taverna delle sorelle identiche",
+      "testo": [
+        "Il viaggio comincia male: tempesta, freddo, impossibile cacciare o accendere un fuoco. Si monta la tenda, si mangia una razione e si aspetta.",
+        "Il giorno dopo, in una foresta di betulle, trovano un cartello che indica il *sentiero dell'ansioso* e la *casa della bisbetica*. Lungo il sentiero appare una taverna con quattro cavalli fuori. Dentro, una donna umana li accoglie; da una porticina ne esce una seconda, identica alla prima. **Mallovina** e **Trellaide**.",
+        "Le sorelle servono da mangiare. Ognuno si ritrova davanti il proprio piatto preferito. Nessuno fa domande."
+      ],
+      "dialoghi": []
+    },
+    {
+      "titolo": "Il cerchio di pietre e i gufi di ferro",
+      "testo": [
+        "Il mattino dopo la tempesta è passata, e in lontananza si intravede un cerchio di pietre. Slurbel è convinto che i cerchi di pietre nascondano oro.",
+        "Avvicinandosi sentono arrivare qualcosa di pesante e rumoroso che ridacchia: un carretto con tre goblin ubriachissimi che litigano in silvano su della frutta fatata. Il gruppo si nasconde e li osserva. I goblin si accorgono di aver finito la birra e tornano indietro, dalla bisbetica.",
+        "Il cerchio sorge su una collinetta; gli alberi intorno sono nodosi e molto più vecchi di quelli lontani. Sulle pietre corrono rune, accanto c'è un teschio di cervo, e tra i menhir sale una foschia acre che dà un leggero stordimento.",
+        "Allontanandosi si sentono osservati: un brusio di voci tutt'intorno, incomprensibile. Quando cessa, vedono **gufi di ferro** appesi agli alberi — il simbolo dei **druni**, la congrega di stregoni benevoli che, come sa Andante, sono i padroni indiscussi dei menhir e li usano per spostarsi dentro Dolmenwood. Nessuno li ha mai visti."
+      ],
+      "dialoghi": []
+    },
+    {
+      "titolo": "Dentro il tumulo",
+      "testo": [
+        "Arrivano altri goblin. Slurbel li fa addormentare e ruba loro le mele; il tentativo di rubare anche un borsello fallisce e lui sparisce. Si svegliano, Andante li allontana lanciando qualcosa lontano.",
+        "Nella collina c'è una porta. La compagnia la sfonda a martellate ed entra: un corridoio lungo e buio, vermi a forma di lingua che sbarrano la strada e vengono uccisi, poi una stanza quadrata con un oggetto per angolo — un libro (*la dottrina di San Carex*, che Slurbel riconosce come prezioso e intasca), un crocifisso d'argento, una candela, un cherubino di legno. Il pavimento è un mosaico che raffigura Sir Cidio.",
+        "Sul mosaico ci sono graffi: qualcosa è stato trascinato fino alla stanza a destra. Lì trovano scale che scendono, un piedistallo senza statua e uno specchio a figura intera, la cornice scolpita con unicorni e crocifissi. L'aria è gelida, i respiri fanno condensa."
+      ],
+      "dialoghi": []
+    },
+    {
+      "titolo": "La barriera di candele",
+      "testo": [
+        "In fondo alle scale, candele che fluttuano a mezz'aria, una pozza luminosa e, al centro, la statua di un'elfa: probabilmente quella che Oleggio sogna.",
+        "Secchio di Brodo, creatura magica, supera le candele e sparisce. L'ultima cosa che vede prima di passare è un soffitto fatto di rami intrecciati. Dall'altra parte c'è una torre in un lago ghiacciato, con uno stemma a forma di fiocco di neve, circondata da lupi. Torna indietro e riferisce.",
+        "Alle sue parole Oleggio ricorda: la dama del sogno è imprigionata in quella torre."
+      ],
+      "dialoghi": []
+    },
+    {
+      "titolo": "La Spaventaboschi, i teschi e i segugi",
+      "testo": [
+        "Risalendo incontrano **Urca Snobrughiera**, la Spaventaboschi, in una stanza con una statua bendata che fa il segno del silenzio. Sta suonando il flauto. È lì per trovare un mercante goblin da sposare e non sa nulla più di loro.",
+        "Oleggio sfonda una porta di legno a due ante che stona con tutto il resto. Ne esce una luce spettrale. Dentro, due teschi fluttuanti fanno cenno ad Andante e Oleggio di unirsi a loro; i due declinano. Nella stanza c'è uno squarcio — Slurbel ci guarda dentro e vede la neve — e sarcofagi con placche di nomi: i teschi sono i morti sepolti lì.",
+        "La sala successiva ha quattro pilastri con bassorilievi di guerra fra dolmenwoodiani ed elfi delle nevi, e in fondo una porta fiancheggiata da segugi di pietra che urlano: *«Pronunciate i nomi o perirete»*. I nomi letti sui sarcofagi — Lady Amaranda, Lord Brigforwith — non bastano: i segugi li dichiarano indegni e scendono ringhiando dai piedistalli, fermandosi solo alla prima colonna.",
+        "Consultati i teschi, il gruppo trova la stanza giusta: statue di soldati, un dipinto con due segugi. I nomi veri sono **Cheder** e **Sir Cidio**. Pronunciati quelli, la porta si apre sulla stanza rotonda, dove una voce supplichevole chiede aiuto per tornare da lei.",
+        "Il fantasma indossa un'armatura da cerimonia. È Sir Cidio, e chiede che gli venga recuperato l'anello dalla sua tomba: solo così potrà seguirli fino alla sua amata nella torre. In cambio promette una ricompensa.",
+        "*Qui comincia la sessione 5.*"
+      ],
+      "dialoghi": []
+    }
+  ],
+  "perle": [
+    {
+      "titolo": "Lo scudo",
+      "testo": "A: «Io ho lo scudo.» V: «Non vedi all'oscudo.» A: «Non discudo.» V: «Chiedo scudo.»"
+    }
+  ],
+  "note": [
+    "Il diario originale riporta anche una nota amministrativa: **1000 punti esperienza a testa** al termine delle prime quattro sessioni."
+  ]
+}
