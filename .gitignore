@@ -6,3 +6,6 @@ fonti/audio/
 
 # file intermedi di generazione (rigenerabili con genera.py)
 build/
+
+# trascrizione grezza con timestamp per parola (2 MB, rigenerabile)
+fonti/*-grezza.json
