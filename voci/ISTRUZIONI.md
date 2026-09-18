@@ -114,6 +114,20 @@ quella che usi più spesso al tavolo.
 > stato ingannato. Ma sarete ricompensati, ve lo giuro. Gioielli a non finire, una
 > runa che annulla la morte, un amuleto che esaudisce un desiderio.
 
+## Marco — voce da tavolo (regole)
+
+*(Questa in più solo per chi fa il Custode: il programma separa le voci per
+**registro**, non per persona, e chi alterna narrazione e spiegazioni di regole
+viene contato come due parlanti diversi. Un campione per ciascun registro evita
+che le sue battute finiscano attribuite a un giocatore.)*
+
+> Allora, aspettate un attimo che controllo. L'arco corto ha gittata quindici,
+> trenta e quarantacinque: nel primo scaglione hai più uno al tiro per colpire,
+> negli altri due meno uno. I combattenti possono muoversi di metà della loro
+> velocità per round, quindi se hai dodici ne muovi sei. E no, se lanci un
+> incantesimo poi non puoi anche attaccare: consuma l'azione. Le pozioni valgono
+> come magie, quindi vale lo stesso discorso.
+
 ## Marco — voce dei goblin
 
 > Sporchi esseri, levatevi dalla mia vista! Chi siete voi per venire fin quassù,
