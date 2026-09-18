@@ -106,7 +106,8 @@
         },
         {
           "chi": "Andante Tagliaserpi",
-          "cosa": "Io no, sia chiaro: non mi alzerei mai a tanto. Sono un umile cacciatore."
+          "cosa": "Io no, sia chiaro: non mi alzerei mai a tanto. Sono un umile gaggiatore.",
+          "nota": "nella sua parlata, cacciatore"
         },
         {
           "chi": "Sir Cidio",
@@ -385,6 +386,7 @@
   "note": [
     "Il nome del secondo segugio di pietra è reso come **Cheder** seguendo il diario delle sessioni 1-4; nella trascrizione audio suona come «Ceder». [da verificare con il gruppo]",
     "**Urca Snobrughiera**, la Spaventaboschi di Francesca, non compare in questa sessione: nel diario appare durante l'esplorazione del tumulo nelle sessioni precedenti. Dalle registrazioni non è chiaro se sia entrata stabilmente nel gruppo. [da verificare con il gruppo]",
-    "Le attribuzioni dei dialoghi sono state ricontrollate sulla trascrizione diarizzata (pyannote **community-1**). Restano incerte le battute brevissime, dove le voci si accavallano, e quelle in cui il Custode parla con la voce di Sir Cidio: il modello le scambia per un'altra persona. [da verificare con il gruppo]"
+    "Le attribuzioni dei dialoghi sono state ricontrollate sulla trascrizione diarizzata (pyannote **community-1**). Restano incerte le battute brevissime, dove le voci si accavallano, e quelle in cui il Custode parla con la voce di Sir Cidio: il modello le scambia per un'altra persona. [da verificare con il gruppo]",
+    "Andante parla trasformando ogni **c** in **g**. Whisper però normalizza quasi sempre la storpiatura in parole vere, quindi nella trascrizione la parlata si perde: sopravvive solo dove produce una parola inesistente, come *gaggiatore* per «cacciatore» o *gresco* per «cristallo». Nei dialoghi qui sotto è resa solo dove la fonte la conserva."
   ]
 }
