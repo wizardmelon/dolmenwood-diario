@@ -46,7 +46,7 @@ from pathlib import Path
 RADICE = Path(__file__).resolve().parent
 
 MODELLO_WHISPER = "mlx-community/whisper-large-v3-mlx"
-MODELLO_DIARIZZAZIONE = "pyannote/speaker-diarization-3.1"
+MODELLO_DIARIZZAZIONE = "pyannote/speaker-diarization-community-1"
 MODELLO_SEGMENTAZIONE = "pyannote/segmentation-3.0"
 MODELLO_VOCI = "pyannote/wespeaker-voxceleb-resnet34-LM"
 
@@ -83,7 +83,8 @@ def token_hf(esplicito=None) -> str:
         "Manca il token HuggingFace.\n"
         "  1. Crea un token (read) su https://huggingface.co/settings/tokens\n"
         f"  2. Accetta i termini su https://huggingface.co/{MODELLO_DIARIZZAZIONE}\n"
-        f"     e su https://huggingface.co/pyannote/segmentation-3.0\n"
+        "     (il token deve essere di tipo Read, oppure fine-grained con il\n"
+        "     permesso di lettura dei repository gated)\n"
         "  3. Rilancia con --token hf_xxx oppure esporta HF_TOKEN."
     )
 

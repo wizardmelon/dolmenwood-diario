@@ -7,6 +7,18 @@
 <meta name="description" content="Quattro nativi di Morchia si mettono in cammino dentro Dolmenwood perché uno di loro ha sognato una dama elfica che gli ha promesso amore in cambio di un anello sepolto in un tumulo. Non è mai una buona idea. Questo è il resoconto di cosa è successo dopo.">
 <link rel="stylesheet" href="css/stile.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#10052;</text></svg>">
+<script>
+// Applicato prima del disegno della pagina, così non si vede il lampo del tema
+// sbagliato. Senza scelta salvata si segue la preferenza del sistema.
+(function () {
+  try {
+    var scelto = localStorage.getItem("tema");
+    if (scelto === "light" || scelto === "dark") {
+      document.documentElement.setAttribute("data-theme", scelto);
+    }
+  } catch (e) { /* localStorage non disponibile: si resta sulla preferenza di sistema */ }
+})();
+</script>
 </head>
 <body>
 <div class="guscio">
@@ -22,6 +34,9 @@
   <a href="index.html#sessioni">Sessioni</a>
   <a href="index.html#compagnia">Compagnia</a>
   <a href="index.html#glossario">Glossario</a>
+  <button class="tema" type="button" data-tema aria-label="Cambia tema">
+    <span class="etichetta-chiaro">Scuro</span><span class="etichetta-scuro">Chiaro</span>
+  </button>
 </nav>
 <main class="contenuto largo">
   <header class="testata">
@@ -105,5 +120,19 @@
   illustrazioni dei manuali. Tutte le immagini di questo sito sono SVG originali.</p>
 </footer>
 </div>
+<script>
+document.querySelectorAll("[data-tema]").forEach(function (bottone) {
+  bottone.addEventListener("click", function () {
+    var radice = document.documentElement;
+    var attuale = radice.getAttribute("data-theme");
+    if (!attuale) {
+      attuale = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+    var nuovo = attuale === "dark" ? "light" : "dark";
+    radice.setAttribute("data-theme", nuovo);
+    try { localStorage.setItem("tema", nuovo); } catch (e) { /* ignorato */ }
+  });
+});
+</script>
 </body>
 </html>

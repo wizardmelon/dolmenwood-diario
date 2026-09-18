@@ -190,11 +190,37 @@ def pagina(titolo, corpo, prefisso="", descrizione=""):
 <meta name="description" content="{esc(descrizione)}">
 <link rel="stylesheet" href="{prefisso}css/stile.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#10052;</text></svg>">
+<script>
+// Applicato prima del disegno della pagina, così non si vede il lampo del tema
+// sbagliato. Senza scelta salvata si segue la preferenza del sistema.
+(function () {{
+  try {{
+    var scelto = localStorage.getItem("tema");
+    if (scelto === "light" || scelto === "dark") {{
+      document.documentElement.setAttribute("data-theme", scelto);
+    }}
+  }} catch (e) {{ /* localStorage non disponibile: si resta sulla preferenza di sistema */ }}
+}})();
+</script>
 </head>
 <body>
 <div class="guscio">
 {corpo}
 </div>
+<script>
+document.querySelectorAll("[data-tema]").forEach(function (bottone) {{
+  bottone.addEventListener("click", function () {{
+    var radice = document.documentElement;
+    var attuale = radice.getAttribute("data-theme");
+    if (!attuale) {{
+      attuale = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }}
+    var nuovo = attuale === "dark" ? "light" : "dark";
+    radice.setAttribute("data-theme", nuovo);
+    try {{ localStorage.setItem("tema", nuovo); }} catch (e) {{ /* ignorato */ }}
+  }});
+}});
+</script>
 </body>
 </html>
 """
@@ -207,6 +233,9 @@ def barra(prefisso=""):
   <a href="{prefisso}index.html#sessioni">Sessioni</a>
   <a href="{prefisso}index.html#compagnia">Compagnia</a>
   <a href="{prefisso}index.html#glossario">Glossario</a>
+  <button class="tema" type="button" data-tema aria-label="Cambia tema">
+    <span class="etichetta-chiaro">Scuro</span><span class="etichetta-scuro">Chiaro</span>
+  </button>
 </nav>"""
 
 
