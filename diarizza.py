@@ -62,7 +62,11 @@ PARAMETRI_3_1 = {
                    "threshold": 0.7045654963945799},
     "segmentation": {"min_duration_off": 0.0},
 }
-MODELLO_IMPRONTE = "pyannote/embedding"
+# Lo stesso modello di impronte usato dalla pipeline di diarizzazione: misurato
+# sui campioni della sessione 5, separa molto meglio di pyannote/embedding
+# (match corretti 0,64-0,74 contro sbagliati sotto 0,48; con l'altro modello i
+# due gruppi si sovrapponevano).
+MODELLO_IMPRONTE = "pyannote/wespeaker-voxceleb-resnet34-LM"
 
 PROMPT = (
     "Sessione di gioco di ruolo Dolmenwood. Personaggi: Oleggio Brucaboschi, "
@@ -292,8 +296,15 @@ def impronte_note(cartella: Path, token: str):
     return note
 
 
-def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.25):
-    """Rinomina SPEAKER_XX con il nome più vicino, se abbastanza simile."""
+def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.45, margine_minimo=0.10):
+    """Rinomina SPEAKER_XX con il campione più somigliante.
+
+    Due cautele, imparate sul campo: si richiede una somiglianza minima
+    (`soglia`) e anche un distacco minimo dal secondo classificato
+    (`margine_minimo`). Senza il distacco, una voce non presente fra i campioni
+    verrebbe comunque attribuita a qualcuno, e le impronte prese da un vocale al
+    telefono somigliano a tutti un po' più del dovuto.
+    """
     import torch
     from pyannote.audio import Model, Inference
     from pyannote.core import Segment
@@ -301,7 +312,6 @@ def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.25):
     modello = _carica(Model.from_pretrained, MODELLO_IMPRONTE, token)
     inferenza = Inference(modello, window="whole")
 
-    # per ogni parlante, le battute più lunghe: il campione più pulito che abbiamo
     per_parlante = {}
     for b in battute:
         per_parlante.setdefault(b["parlante"], []).append(b)
@@ -310,8 +320,8 @@ def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.25):
     for parlante, elenco in per_parlante.items():
         elenco.sort(key=lambda b: b["fine"] - b["inizio"], reverse=True)
         vettori = []
-        for b in elenco[:8]:
-            if b["fine"] - b["inizio"] < 1.5:
+        for b in elenco[:12]:
+            if b["fine"] - b["inizio"] < 2:
                 continue
             try:
                 v = inferenza.crop(str(wav), Segment(b["inizio"], b["fine"]))
@@ -321,16 +331,24 @@ def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.25):
         if not vettori:
             continue
         medio = torch.stack(vettori).mean(0)
-        punteggi = {
-            nome: torch.nn.functional.cosine_similarity(medio, vet, dim=0).item()
-            for nome, vet in note.items()
-        }
-        nome, punteggio = max(punteggi.items(), key=lambda kv: kv[1])
-        if punteggio >= soglia:
+
+        classifica = sorted(
+            ((nome, torch.nn.functional.cosine_similarity(medio, vet, dim=0).item())
+             for nome, vet in note.items()),
+            key=lambda kv: -kv[1],
+        )
+        nome, punteggio = classifica[0]
+        secondo = classifica[1][1] if len(classifica) > 1 else 0.0
+        margine = punteggio - secondo
+
+        if punteggio >= soglia and margine >= margine_minimo:
             mappa[parlante] = nome
-            print(f"    {parlante} → {nome} (somiglianza {punteggio:.2f})")
+            print(f"    {parlante} → {nome} ({punteggio:.2f}, distacco {margine:.2f})")
+        elif punteggio < soglia:
+            print(f"    {parlante} → non assegnato (migliore {nome} {punteggio:.2f}, sotto {soglia})")
         else:
-            print(f"    {parlante} → nessuna corrispondenza (migliore {nome} {punteggio:.2f})")
+            print(f"    {parlante} → non assegnato (ambiguo: {nome} {punteggio:.2f} "
+                  f"contro {classifica[1][0]} {secondo:.2f})")
     return mappa
 
 
