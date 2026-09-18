@@ -70,9 +70,9 @@ diciamo continuerà a scambiarle per persone diverse.
 > suona la mia voce. Questa è la mia voce di tutti i giorni, quella con cui discuto
 > di regole, di gittate dell'arco e di quanti quadretti posso muovere in un round:
 > non è la voce con cui interpreto Andante. Andante Tagliaserpi è un cavaliere
-> umano, ha una spada magica arrogante che lo obbliga ad attaccare sempre il nemico
-> più grosso, e pretende colloqui d'onore perfino dai morti. Zucchero, ghiaccio,
-> sciogliere, quaranta, cinquantotto, ventitré.
+> umano, combatte con spada lunga e scudo, e pretende colloqui d'onore perfino dai
+> morti: davanti al fantasma di Sir Cidio ha preteso di parlargli da cavaliere a
+> cavaliere. Zucchero, ghiaccio, sciogliere, quaranta, cinquantotto, ventitré.
 
 ## Marco — voce normale
 

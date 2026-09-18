@@ -10,7 +10,7 @@
       "giocatore": "Andrea",
       "stirpe": "Breggle",
       "nota_stirpe": "Nel diario scritto a mano: «breggolo». I breggle sono la stirpe caprina di Dolmenwood: corna, zoccoli e un'innata superiorità morale.",
-      "ruolo": "Il sognatore. È il suo sogno ad avere trascinato tutti quanti qui dentro, ed è lui a scoprire per primo di essere stato usato.",
+      "ruolo": "Il sognatore. È il suo sogno ad avere trascinato tutti quanti qui dentro, ed è lui a scoprire per primo di essere stato usato. Impugna la spada magica presa dalla stanza delle statue: è **arrogante**, e lo obbliga ad attaccare sempre il nemico più grosso.",
       "iniziale": "O"
     },
     {
@@ -26,7 +26,7 @@
       "giocatore": "Vanni",
       "stirpe": "Umano",
       "nota_stirpe": "Cavaliere.",
-      "ruolo": "La coscienza cavalleresca del gruppo. Pretende colloqui d'onore anche dai morti, e porta una spada magica arrogante che lo obbliga ad attaccare sempre il nemico più grosso.",
+      "ruolo": "La coscienza cavalleresca del gruppo: pretende colloqui d'onore anche dai morti e non tollera che si profanino le tombe — salvo poi passare a fil di spada un goblin inerme. Combatte in mischia con spada lunga e scudo.",
       "iniziale": "A"
     },
     {
@@ -47,11 +47,29 @@
     }
   ],
   "glossario": [
-    { "voce": "Principe Gelido", "desc": "Antico signore fatato che regnò su Dolmenwood tenendola sotto un inverno eterno, bandito nel mondo delle fate novecento anni fa. Il vento è il suo fiato." },
-    { "voce": "Nevicata al Crepuscolo", "desc": "Principessa elfica delle nevi, imprigionata in una torre bianca su un lago ghiacciato. Contatta i mortali attraverso i sogni." },
-    { "voce": "Sir Cidio", "desc": "Cavaliere mortale, eroe della guerra contro i fatati, innamorato della principessa. Il suo spirito è legato a un anello nel proprio sarcofago." },
-    { "voce": "Druni", "desc": "Congrega di stregoni benevoli, padroni dei cerchi di pietre, che segnano il loro territorio con gufi di ferro appesi agli alberi. Nessuno li ha mai visti." },
-    { "voce": "Morchia", "desc": "Paese natale della compagnia, in riva a un fiume, governato dall'uomo-capra Lord Malbelato." },
-    { "voce": "Ferro algido", "desc": "Metallo velenoso per le fate: +1 al danno contro fate e demi-fatati, −1 contro tutto il resto." }
+    {
+      "voce": "Principe Gelido",
+      "desc": "Antico signore fatato che regnò su Dolmenwood tenendola sotto un inverno eterno, bandito nel mondo delle fate novecento anni fa. Il vento è il suo fiato."
+    },
+    {
+      "voce": "Nevicata al Crepuscolo",
+      "desc": "Principessa elfica delle nevi, imprigionata in una torre bianca su un lago ghiacciato. Contatta i mortali attraverso i sogni."
+    },
+    {
+      "voce": "Sir Cidio",
+      "desc": "Cavaliere mortale, eroe della guerra contro i fatati, innamorato della principessa. Il suo spirito è legato a un anello nel proprio sarcofago."
+    },
+    {
+      "voce": "Druni",
+      "desc": "Congrega di stregoni benevoli, padroni dei cerchi di pietre, che segnano il loro territorio con gufi di ferro appesi agli alberi. Nessuno li ha mai visti."
+    },
+    {
+      "voce": "Morchia",
+      "desc": "Paese natale della compagnia, in riva a un fiume, governato dall'uomo-capra Lord Malbelato."
+    },
+    {
+      "voce": "Ferro algido",
+      "desc": "Metallo velenoso per le fate: +1 al danno contro fate e demi-fatati, −1 contro tutto il resto."
+    }
   ]
 }
