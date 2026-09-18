@@ -93,6 +93,60 @@ processare le pagine con Jekyll.
 - Dove le fonti restano ambigue anche incrociandole, il testo lo dichiara
   esplicitamente con `[da verificare con il gruppo]`.
 
+## Chi parla: la trascrizione diarizzata
+
+`diarizza.py` produce una trascrizione in cui ogni battuta porta il nome di chi
+l'ha detta. Combina Whisper large-v3 (timestamp a livello di parola) con
+pyannote.audio, che separa l'audio per voce; ogni parola finisce al parlante che
+copre il suo intervallo, e le parole consecutive della stessa voce vengono
+raggruppate in battute.
+
+```bash
+python3 diarizza.py fonti/audio/Dolmenwood_-_Sessione_5.m4a \
+    --uscita fonti/trascrizione-diarizzata-sessione5 --parlanti 6
+```
+
+Serve un token HuggingFace (tipo **Read**, oppure fine-grained con la lettura dei
+repository gated) e l'accettazione dei termini di
+`pyannote/speaker-diarization-community-1`. Il token va in `HF_TOKEN` o in
+`~/.cache/huggingface/token`: **mai** dentro il repository.
+
+Senza `--nomi`, lo script scrive anche `…-chi-e-chi.md`: per ogni voce trovata,
+le battute più lunghe con il minuto in cui si trovano nella registrazione.
+Ascoltarne una basta per capire chi è; poi si scrive la corrispondenza in un file
+e si rilancia:
+
+```bash
+python3 diarizza.py … --parlanti 6 --nomi fonti/nomi-sessione5.json
+```
+
+### Cosa aspettarsi
+
+Sulla sessione 5 — cinque persone intorno a un microfono solo — le battute lunghe
+sono attribuite bene, i frammenti da una o due parole no: il 56% delle battute sta
+sotto il secondo e mezzo, ed è lì che si concentrano gli errori. Le battute sopra
+i tre secondi coprono comunque il 56% delle parole pronunciate.
+
+Due avvertenze emerse sul campo:
+
+- **Le voci camuffate contano come persone in più.** Vanni interpreta Andante con
+  una voce rauca, e pyannote la tratta giustamente come una voce distinta:
+  forzando `--parlanti 5` due identità si fondono. Con `--parlanti 6` la
+  separazione regge meglio. In generale conviene contare le persone *più* le voci
+  di scena ricorrenti.
+- **Su Apple Silicon usare la GPU.** Lo script sposta la pipeline su MPS quando
+  c'è: misurato su M1 Ultra, 0,08x il tempo reale contro 1,4x su CPU, cioè circa
+  diciassette volte più veloce — da oltre due ore a una decina di minuti.
+
+### Per le sessioni future: l'enrollment
+
+Registrare a inizio sessione venti secondi per giocatore, da solo, in file
+`voci/Andrea.wav`, `voci/Flama.wav`… Con `--voci voci/` lo script calcola
+un'impronta vocale per ciascuno e assegna i nomi da sé, senza la mappatura a mano.
+
+Più di qualunque modello, però, conta il microfono: le voci vicine al telefono si
+separano bene, quelle in fondo al tavolo molto meno.
+
 ## Note su diritti e materiali
 
 Dolmenwood e *Winter's Daughter* sono opere di Necrotic Gnome. Questo repository
