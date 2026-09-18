@@ -271,16 +271,16 @@
     {
       "titolo": "Il goblin in ginocchio",
       "testo": [
-        "L'ultimo goblin rimane solo. Alza le zampe, si inginocchia e chiede pietà — o, secondo un'altra lettura, chiede proprio il colpo di grazia.",
-        "Il gruppo esita. Andante guarda Sir Cidio, interpellandolo con lo sguardo. Poi chiede se può fare un ultimo attacco su un nemico inerme.",
-        "Il Custode concede: nessuna prova necessaria, basta non tirare un 1 (in quel caso ti cade solo la spada). Andante tira. Non è un 1. Il goblin viene passato a fil di spada.",
+        "L'ultimo goblin rimane solo. Alza le zampe, si inginocchia davanti alla compagnia e implora pietà.",
+        "Il gruppo esita. Andante guarda Sir Cidio, interpellandolo con lo sguardo. Poi è Oleggio a chiedere se può sferrare un ultimo attacco su un nemico inerme.",
+        "Il Custode concede: nessuna prova necessaria, basta non tirare un 1 — in quel caso cade soltanto la spada. Oleggio tira. Non è un 1. Il goblin viene passato a fil di spada mentre è ancora in ginocchio.",
         "**Bottino:** quattro armi di fattura decisamente non goblinesca — tre spade corte e una lunga (1d8). Sono tutte di **ferro algido**: +1 al danno contro fate e creature demi-fatate, −1 contro tutte le altre. Nella terra in cui stanno entrando, è esattamente il metallo che serve."
       ],
       "dialoghi": [
         {
           "chi": "Goblin del ghiaccio",
-          "nota": "in ginocchio",
-          "cosa": "Uccidetemi, vi prego. Scusate. Basta, scusate."
+          "nota": "in ginocchio, disarmato",
+          "cosa": "Pietà. Vi prego, basta. Scusate."
         },
         {
           "chi": "Custode",
@@ -376,7 +376,6 @@
   ],
   "note": [
     "Il nome del secondo segugio di pietra è reso come **Cheder** seguendo il diario delle sessioni 1-4; nella trascrizione audio suona come «Ceder». [da verificare con il gruppo]",
-    "**Urca Snobrughiera**, la Spaventaboschi di Francesca, non compare in questa sessione: nel diario appare durante l'esplorazione del tumulo nelle sessioni precedenti. Dalle registrazioni non è chiaro se sia entrata stabilmente nel gruppo. [da verificare con il gruppo]",
-    "Le due voci sul goblin inerme (chiede pietà o chiede di essere ucciso) sono entrambe presenti nelle fonti. Qui è riportata la versione letterale dell'audio. [da verificare con il gruppo]"
+    "**Urca Snobrughiera**, la Spaventaboschi di Francesca, non compare in questa sessione: nel diario appare durante l'esplorazione del tumulo nelle sessioni precedenti. Dalle registrazioni non è chiaro se sia entrata stabilmente nel gruppo. [da verificare con il gruppo]"
   ]
 }
