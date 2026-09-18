@@ -287,7 +287,9 @@ def impronte_note(cartella: Path, token: str):
 
     note = {}
     for campione in sorted(cartella.iterdir()):
-        if campione.suffix.lower() not in (".wav", ".m4a", ".mp3", ".flac", ".aac"):
+        # i vocali di WhatsApp arrivano in .opus, quelli di iPhone in .m4a
+        if campione.suffix.lower() not in (".wav", ".m4a", ".mp3", ".flac", ".aac",
+                                           ".opus", ".ogg", ".webm", ".amr", ".mp4"):
             continue
         with tempfile.TemporaryDirectory() as tmp:
             wav = in_wav(campione, Path(tmp) / "c.wav")
@@ -296,14 +298,17 @@ def impronte_note(cartella: Path, token: str):
     return note
 
 
-def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.45, margine_minimo=0.10):
-    """Rinomina SPEAKER_XX con il campione più somigliante.
+def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.45):
+    """Rinomina SPEAKER_XX confrontando le voci con i campioni registrati.
 
-    Due cautele, imparate sul campo: si richiede una somiglianza minima
-    (`soglia`) e anche un distacco minimo dal secondo classificato
-    (`margine_minimo`). Senza il distacco, una voce non presente fra i campioni
-    verrebbe comunque attribuita a qualcuno, e le impronte prese da un vocale al
-    telefono somigliano a tutti un po' più del dovuto.
+    Si assegna solo in caso di **preferenza reciproca**: il campione deve essere
+    il migliore per quel gruppo di voci *e* quel gruppo deve essere il migliore
+    per quel campione. Serve a evitare due errori visti sul campo:
+
+    - un parlante senza campione (per esempio il Custode) veniva battezzato con
+      il nome di chi gli somigliava di più, pur senza somigliargli davvero;
+    - due campioni della stessa persona (voce normale e voce di scena) si
+      facevano concorrenza, e il parlante restava senza nome.
     """
     import torch
     from pyannote.audio import Model, Inference
@@ -316,7 +321,8 @@ def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.45, margine_mini
     for b in battute:
         per_parlante.setdefault(b["parlante"], []).append(b)
 
-    mappa = {}
+    # impronta media di ogni parlante, dalle sue battute più lunghe
+    medie = {}
     for parlante, elenco in per_parlante.items():
         elenco.sort(key=lambda b: b["fine"] - b["inizio"], reverse=True)
         vettori = []
@@ -328,27 +334,29 @@ def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.45, margine_mini
                 vettori.append(torch.tensor(v).flatten())
             except Exception:
                 continue
-        if not vettori:
-            continue
-        medio = torch.stack(vettori).mean(0)
+        if vettori:
+            medie[parlante] = torch.stack(vettori).mean(0)
 
-        classifica = sorted(
-            ((nome, torch.nn.functional.cosine_similarity(medio, vet, dim=0).item())
-             for nome, vet in note.items()),
-            key=lambda kv: -kv[1],
-        )
-        nome, punteggio = classifica[0]
-        secondo = classifica[1][1] if len(classifica) > 1 else 0.0
-        margine = punteggio - secondo
+    cos = lambda a, b: torch.nn.functional.cosine_similarity(a, b, dim=0).item()
+    punteggi = {(p, n): cos(v, w) for p, v in medie.items() for n, w in note.items()}
 
-        if punteggio >= soglia and margine >= margine_minimo:
-            mappa[parlante] = nome
-            print(f"    {parlante} → {nome} ({punteggio:.2f}, distacco {margine:.2f})")
-        elif punteggio < soglia:
-            print(f"    {parlante} → non assegnato (migliore {nome} {punteggio:.2f}, sotto {soglia})")
+    mappa = {}
+    for parlante in medie:
+        candidati = sorted(note, key=lambda n: -punteggi[(parlante, n)])
+        nome = candidati[0]
+        valore = punteggi[(parlante, nome)]
+
+        # il campione preferisce a sua volta questo parlante?
+        preferito = max(medie, key=lambda p: punteggi[(p, nome)])
+
+        if valore < soglia:
+            print(f"    {parlante} → nessun nome (migliore {nome} {valore:.2f}, sotto {soglia})")
+        elif preferito != parlante:
+            print(f"    {parlante} → nessun nome ({nome} {valore:.2f}, ma «{nome}» "
+                  f"somiglia di più a {preferito})")
         else:
-            print(f"    {parlante} → non assegnato (ambiguo: {nome} {punteggio:.2f} "
-                  f"contro {classifica[1][0]} {secondo:.2f})")
+            mappa[parlante] = nome
+            print(f"    {parlante} → {nome} ({valore:.2f})")
     return mappa
 
 
@@ -433,6 +441,8 @@ def main():
     ap.add_argument("--voci", type=Path, help="cartella con un campione audio per giocatore (enrollment)")
     ap.add_argument("--nomi", type=Path, help="file JSON {\"SPEAKER_00\": \"Vanni\", ...} per rinominare a mano")
     ap.add_argument("--cache", type=Path, help="dove tenere la trascrizione grezza (JSON)")
+    ap.add_argument("--ricalcola", action="store_true",
+                    help="rifà la diarizzazione invece di riusare quella già salvata")
     args = ap.parse_args()
 
     if not args.audio.exists():
@@ -450,22 +460,22 @@ def main():
         trascrizione = trascrivi(wav, cache)
 
         print("Diarizzazione:")
-        turni, impronte_trovate = diarizza(wav, token, args.parlanti, args.min_parlanti, args.max_parlanti)
-
         turni_json = args.uscita.with_name(args.uscita.name + "-turni.json")
-        turni_json.parent.mkdir(parents=True, exist_ok=True)
-        turni_json.write_text(json.dumps(turni, ensure_ascii=False), "utf-8")
+        if turni_json.exists() and not args.ricalcola:
+            # la diarizzazione è la parte lenta: riusarla permette di riprovare
+            # l'assegnazione dei nomi in pochi secondi anziché in una decina di minuti
+            turni = json.loads(turni_json.read_text("utf-8"))
+            print(f"  · riuso {turni_json.name} ({len(turni)} turni) — --ricalcola per rifarla")
+        else:
+            turni, _ = diarizza(wav, token, args.parlanti, args.min_parlanti, args.max_parlanti)
+            turni_json.parent.mkdir(parents=True, exist_ok=True)
+            turni_json.write_text(json.dumps(turni, ensure_ascii=False), "utf-8")
 
         print("Unione:")
         battute = unisci(trascrizione, turni)
         print(f"  · {len(battute)} battute")
 
-        mappa = None
-        if args.nomi:
-            mappa = json.loads(args.nomi.read_text("utf-8"))
-            print("Nomi:")
-            for etichetta, nome in mappa.items():
-                print(f"  · {etichetta} → {nome}")
+        mappa = {}
         if args.voci:
             if not args.voci.is_dir():
                 sys.exit(f"Cartella campioni non trovata: {args.voci}")
@@ -473,6 +483,18 @@ def main():
             note = impronte_note(args.voci, token)
             if note:
                 mappa = assegna_nomi(wav, battute, note, token)
+        if args.nomi:
+            # i nomi scritti a mano colmano i buchi lasciati dall'enrollment,
+            # senza scavalcare quello che è stato riconosciuto dalla voce
+            manuali = json.loads(args.nomi.read_text("utf-8"))
+            print("Nomi a mano:")
+            for etichetta, nome in manuali.items():
+                if etichetta in mappa:
+                    print(f"  · {etichetta} già riconosciuto come {mappa[etichetta]}, ignoro «{nome}»")
+                else:
+                    mappa[etichetta] = nome
+                    print(f"  · {etichetta} → {nome}")
+        mappa = mappa or None
 
         print("Uscita:")
         scrivi(battute, args.uscita, mappa)

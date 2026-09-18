@@ -138,11 +138,39 @@ Due avvertenze emerse sul campo:
   c'è: misurato su M1 Ultra, 0,08x il tempo reale contro 1,4x su CPU, cioè circa
   diciassette volte più veloce — da oltre due ore a una decina di minuti.
 
-### Per le sessioni future: l'enrollment
+### Enrollment: dare i nomi alle voci
 
-Registrare a inizio sessione venti secondi per giocatore, da solo, in file
-`voci/Andrea.wav`, `voci/Flama.wav`… Con `--voci voci/` lo script calcola
-un'impronta vocale per ciascuno e assegna i nomi da sé, senza la mappatura a mano.
+Con un campione audio per persona in `voci/` — trenta secondi, telefono appoggiato
+al tavolo, il testo da leggere è in [voci/ISTRUZIONI.md](voci/ISTRUZIONI.md) — lo
+script assegna i nomi da sé:
+
+```bash
+python3 diarizza.py … --voci voci/ --nomi fonti/nomi-sessione5.json
+```
+
+Il nome del file diventa l'etichetta; fra parentesi va il personaggio per le voci
+di scena (`Vanni.m4a`, `Vanni (Andante).m4a`). I nomi scritti a mano in `--nomi`
+colmano solo i buchi, senza scavalcare chi è stato riconosciuto dalla voce.
+
+L'assegnazione richiede **preferenza reciproca**: il campione dev'essere il
+migliore per quel parlante *e* quel parlante dev'essere il migliore per quel
+campione. Senza questa regola succedevano due cose, viste entrambe sul campo: il
+Custode, che non aveva campione, veniva battezzato «Vanni» perché era il nome
+meno lontano (0,48); e i due campioni di Vanni — voce normale e voce di Andante —
+si facevano concorrenza, lasciando senza nome il parlante che era davvero suo.
+
+Misurato sulla sessione 5, con i campioni di due persone su cinque: Vanni
+riconosciuto a 0,74 e Claudia a 0,64, mentre il migliore dei falsi accostamenti
+si ferma a 0,48. Il margine è ampio, ma dipende dal modello di impronte: con
+`pyannote/embedding` i due gruppi si sovrapponevano, con
+`pyannote/wespeaker-voxceleb-resnet34-LM` si separano nettamente.
+
+### La diarizzazione viene riusata
+
+È la parte lenta (una decina di minuti anche su GPU). I turni vengono salvati in
+`…-turni.json` e riusati alle esecuzioni successive, così riprovare
+l'assegnazione dei nomi costa una ventina di secondi invece di ricominciare da
+capo. Per rifarla davvero serve `--ricalcola`.
 
 Più di qualunque modello, però, conta il microfono: le voci vicine al telefono si
 separano bene, quelle in fondo al tavolo molto meno.
