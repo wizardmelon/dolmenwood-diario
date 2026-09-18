@@ -96,7 +96,7 @@
       "titolo": "Il patto del cavaliere morto",
       "testo": [
         "Quando anche Andante e Oleggio si riprendono, la conversazione diventa una trattativa. Sir Cidio spiega la sua condizione: **vive solo attraverso l'anello**, non può allontanarsene. Se vogliono portarlo alla torre, devono portare l'anello.",
-        "Andante — che è cavaliere e la prende sul personale — pretende un colloquio d'onore.",
+        "Andante, che la prende sul personale, pretende di guardarlo in faccia e di farsi dire le cose come stanno. Oleggio, che è l'unico cavaliere del gruppo, se la gioca invece sul terreno dell'onore cavalleresco.",
         "Il Custode chiarisce la regola: fuori da tre metri dall'anello, Sir Cidio svanisce. Non è trascinato fisicamente; semplicemente, gli conviene restare vicino."
       ],
       "dialoghi": [
@@ -134,8 +134,11 @@
           "cosa": "Perché l'amore vince su tutto."
         },
         {
+          "chi": "Oleggio Brucaboschi",
+          "cosa": "Da cavaliere a cavaliere, messere: io sono un cavaliere anch'io."
+        },
+        {
           "chi": "Andante Tagliaserpi",
-          "nota": "cavaliere a cavaliere",
           "cosa": "Io la rispetto, messere, ma qualcosa non va. Abbiamo ricevuto una missiva, chiamiamola così, dalla sua signora: si è promessa in sposa al mio amico, in cambio dell'anello. Qualcosa non torna."
         },
         {
@@ -320,7 +323,7 @@
       "testo": [
         "**Oggetti acquisiti:** l'anello di Sir Cidio (con fantasma incluso, raggio d'azione tre metri); quattro armi di ferro algido (una spada lunga, tre corte).",
         "**Promesse ricevute** (validità tutta da verificare): gioielli a non finire, una runa che annulla la morte, un amuleto che esaudisce un desiderio.",
-        "**Punti esperienza:** il gruppo arriva intorno ai **2100–2250 XP** a testa. Andante, cavaliere, tocca 2250. Chi è rimasto svenuto a metà sessione non ha incassato gli XP dei goblin. A fine conto, si ragiona sui passaggi di livello e sui punti ferita: 1d8 per livello fino al decimo, poi un numero fisso — *«perché subentra la vecchiaia»*.",
+        "**Punti esperienza:** il gruppo arriva intorno ai **2100–2250 XP** a testa; Oleggio, cavaliere, tocca 2250. Chi è rimasto svenuto a metà sessione non ha incassato gli XP dei goblin. A fine conto si ragiona sui passaggi di livello e sui punti ferita: 1d8 per livello fino al decimo, poi un numero fisso — *«perché subentra la vecchiaia»*.",
         "**Il Custode annuncia:** manca solo da esplorare la torre, poi c'è il finale. Un'altra sessione e Winter's Daughter si chiude."
       ],
       "dialoghi": []
@@ -369,7 +372,7 @@
     },
     {
       "titolo": "Un cavaliere senza macchia e senza mira",
-      "testo": "Dopo l'ennesimo tiro per colpire fallito da Andante — con +4 al tiro — arriva l'autodefinizione che il tavolo approva all'unanimità."
+      "testo": "Dopo l'ennesimo tiro per colpire fallito — con +4 al tiro — arriva da Andante la definizione che il tavolo approva all'unanimità per il cavaliere del gruppo."
     },
     {
       "titolo": "Quali amiche, quali compagni?",

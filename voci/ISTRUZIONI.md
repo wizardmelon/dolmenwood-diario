@@ -69,10 +69,11 @@ diciamo continuerà a scambiarle per persone diverse.
 > Mi chiamo Vanni e sto leggendo questo pezzo per far capire a un computer come
 > suona la mia voce. Questa è la mia voce di tutti i giorni, quella con cui discuto
 > di regole, di gittate dell'arco e di quanti quadretti posso muovere in un round:
-> non è la voce con cui interpreto Andante. Andante Tagliaserpi è un cavaliere
-> umano, combatte con spada lunga e scudo, e pretende colloqui d'onore perfino dai
-> morti: davanti al fantasma di Sir Cidio ha preteso di parlargli da cavaliere a
-> cavaliere. Zucchero, ghiaccio, sciogliere, quaranta, cinquantotto, ventitré.
+> non è la voce con cui interpreto Andante. Andante Tagliaserpi è un cacciatore
+> umano, e nella scorsa sessione è stato il primo ad accorgersi che il fantasma ci
+> stava raccontando solo metà della storia: ha preteso di guardarlo in faccia e di
+> farsi dire come stavano davvero le cose. Zucchero, ghiaccio, sciogliere,
+> quaranta, cinquantotto, ventitré.
 
 ## Marco — voce normale
 
@@ -97,8 +98,8 @@ quella che usi più spesso al tavolo.
 
 ## Vanni — voce di Andante
 
-> Io sono un cavaliere, e parlo da cavaliere a cavaliere. Messere, io vi rispetto,
-> ma c'è qualcosa che non torna in questa storia. Abbiamo ricevuto una missiva
+> Messere, io vi rispetto, ma c'è qualcosa che non torna in questa storia, e ve lo
+> dico in faccia. Abbiamo ricevuto una missiva
 > dalla vostra signora: si è promessa in sposa al mio amico in cambio di quell'anello,
 > e adesso voi ci chiedete di portarvi da lei. Perché volete tornare nel regno che
 > voi stesso avete bandito? Non si profanano le tombe, e non si fa mercato
