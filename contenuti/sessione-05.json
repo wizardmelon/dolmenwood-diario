@@ -38,12 +38,17 @@
           "cosa": "Tu sai dov'è. Tu sei stato nel suo mondo. Portatemi da lei, ti prego."
         },
         {
-          "chi": "Slurbel Piedemuffo",
-          "cosa": "In realtà ci stiamo andando anche noi, da lei. Il problema è che i nostri amici, in questo momento, sono spaventati."
+          "chi": "Secchio di Brodo",
+          "cosa": "In realtà ci stiamo andando anche noi, da lei."
         },
         {
           "chi": "Custode",
           "cosa": "Fate un tiro col d6. Con 4, 5 o 6 vi riprendete. Altrimenti restate lì, immobili."
+        },
+        {
+          "chi": "Andante Tagliaserpi",
+          "nota": "impietrito, ma non troppo",
+          "cosa": "Avrei un appunto da fare, a questo fantasma."
         },
         {
           "chi": "Andante Tagliaserpi",
@@ -69,7 +74,7 @@
           "cosa": "Questo anello ha un'aura enorme. Io non vorrei prenderlo."
         },
         {
-          "chi": "Slurbel Piedemuffo",
+          "chi": "Secchio di Brodo",
           "cosa": "Richiudiamo tutto e ce ne andiamo?"
         },
         {
@@ -100,8 +105,9 @@
           "cosa": "Ser Cidio, è un piacere incontrarla. Lei è un cavaliere degno di nota."
         },
         {
-          "chi": "Secchio di Brodo",
-          "cosa": "Io no, sia chiaro. Non mi alzerei mai a tanto. Sono un umile viaggiatore."
+          "chi": "Andante Tagliaserpi",
+          "nota": "schermendosi",
+          "cosa": "Io no, sia chiaro: non mi alzerei mai a tanto. Sono un umile viaggiatore."
         },
         {
           "chi": "Sir Cidio",
@@ -176,8 +182,8 @@
           "cosa": "Questa ricompensa non esiste. Lo sento da come parla, da come mi guarda. Probabilmente nella torre moriremo. Ma sappiate che io combatterò per voi."
         },
         {
-          "chi": "Slurbel Piedemuffo",
-          "cosa": "Ormai ci hai portati qui. Siamo in ballo."
+          "chi": "Andante Tagliaserpi",
+          "cosa": "Oleggio, ormai ci hai portati fin qui. Siamo in ballo."
         },
         {
           "chi": "Secchio di Brodo",
@@ -192,7 +198,7 @@
           "cosa": "Tu adesso sei accecato dalla delusione."
         },
         {
-          "chi": "Andante Tagliaserpi",
+          "chi": "Secchio di Brodo",
           "cosa": "Andiamo avanti. Se si deve morire, si morirà: se non oggi, domani, per qualche altro motivo."
         }
       ]
@@ -376,6 +382,7 @@
   ],
   "note": [
     "Il nome del secondo segugio di pietra è reso come **Cheder** seguendo il diario delle sessioni 1-4; nella trascrizione audio suona come «Ceder». [da verificare con il gruppo]",
-    "**Urca Snobrughiera**, la Spaventaboschi di Francesca, non compare in questa sessione: nel diario appare durante l'esplorazione del tumulo nelle sessioni precedenti. Dalle registrazioni non è chiaro se sia entrata stabilmente nel gruppo. [da verificare con il gruppo]"
+    "**Urca Snobrughiera**, la Spaventaboschi di Francesca, non compare in questa sessione: nel diario appare durante l'esplorazione del tumulo nelle sessioni precedenti. Dalle registrazioni non è chiaro se sia entrata stabilmente nel gruppo. [da verificare con il gruppo]",
+    "Le attribuzioni dei dialoghi sono state ricontrollate sulla trascrizione diarizzata (pyannote **community-1**). Restano incerte le battute brevissime, dove le voci si accavallano, e quelle in cui il Custode parla con la voce di Sir Cidio: il modello le scambia per un'altra persona. [da verificare con il gruppo]"
   ]
 }
