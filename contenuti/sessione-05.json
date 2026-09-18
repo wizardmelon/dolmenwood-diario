@@ -253,7 +253,7 @@
       "titolo": "Il tocco che invecchia",
       "testo": [
         "Lo scontro è lungo, tirato e — ammettiamolo — giocato malissimo: una raffica impressionante di tiri per colpire falliti da entrambe le parti.",
-        "La spada magica recuperata dalla tomba si rivela **arrogante**: obbliga chi la impugna ad attaccare in mischia il nemico più grosso, e in cambio concede +2 all'attacco e +3 al danno. Secchio di Brodo tiene le distanze con l'arco corto, scoprendo al volo che la gittata modifica il tiro per colpire (+1 a distanza breve, −1 a media e lunga). Slurbel, con la sua armatura da mossling e il martello da demolizione, si becca addosso tre goblin contemporaneamente e li vede lisciare tutti e tre.",
+        "La spada magica che Oleggio ha preso dalla stanza delle statue si rivela **arrogante**: lo obbliga ad attaccare in mischia il nemico più grosso, e in cambio gli concede +2 all'attacco e +3 al danno. Secchio di Brodo tiene le distanze con l'arco corto, scoprendo al volo che la gittata modifica il tiro per colpire (+1 a distanza breve, −1 a media e lunga). Slurbel, con la sua armatura da mossling e il martello da demolizione, si becca addosso tre goblin contemporaneamente e li vede lisciare tutti e tre.",
         "Ma il vero protagonista della battaglia è il morto. Sir Cidio non brandisce la spada: **tocca**. Un dito sulla testa del goblin, e la creatura si riempie di rughe, la pelle diventa cascante, i peli sul viso sbiancano di colpo. Invecchia all'istante — e resta stupito anche lui di quello che gli sta succedendo, mentre fatica a tenere le armi in mano.",
         "Il fantasma ne secca due, di cui uno con un critico. Il gruppo, mestamente, prende atto che il cavaliere morto da secoli gioca meglio di loro."
       ],
@@ -331,7 +331,7 @@
     },
     {
       "titolo": "Il fantasma del Natale passato",
-      "testo": "Secchio di Brodo, che ha superato il tiro salvezza ed è l'unico che può parlare con Sir Cidio, decide di usare questo privilegio per fare dello spirito. «Le serve per caso un rimedio per l'asma? Se aspetta che lo inventino, glielo porto.» E poco dopo, presentandosi: «Mike Bongiorno e il fantasma del Natale passato»."
+      "testo": "Mentre in gioco solo Secchio di Brodo può rivolgere la parola al fantasma, al tavolo è Andante a commentare fuori personaggio: «Le serve per caso un rimedio per l'asma? Se aspetta che lo inventino, glielo porto». E poco dopo, sulla scena in generale: «Mike Bongiorno e il fantasma del Natale passato»."
     },
     {
       "titolo": "Torre Bella Monaca, Torre Marancia",
@@ -343,19 +343,19 @@
     },
     {
       "titolo": "Come prendere in braccio un goblin per scappare dal goblin",
-      "testo": "Quando la compagnia realizza che per portare Sir Cidio dalla sua amata deve portarsi dietro l'anello — cioè il fantasma stesso — Slurbel sintetizza la situazione con una metafora destinata a restare: «È come prendere in braccio un goblin per scappare dal goblin»."
+      "testo": "Oleggio propone la via rapida — prendere l'anello e scappare — ma l'anello è il fantasma, quindi scappare con l'anello significa portarsi dietro proprio quello da cui si scappa. Andante lo fa notare con una metafora destinata a restare: «È come prendere in braccio un goblin per scappare dal goblin»."
     },
     {
       "titolo": "«Si tappi le cavità, per favore»",
       "testo": "Il gruppo ha bisogno di consultarsi senza che Sir Cidio senta. La richiesta viene formulata con la massima cortesia possibile: «Ci scusi, signor Cidio, potrebbe darci le spalle un attimo? E si tappi le cavità, per favore»."
     },
     {
-      "titolo": "Ma tu ce l'avevi anche riferito?",
-      "testo": "Cinque minuti di totale collasso comunicativo sul pronome: «Lei l'ha vista.» «Sì, ma tu ce l'avevi riferito?» «Lui? Lei?» «A lui gli piace lei.» «E a lei?» «A lui gli piace lui.» «Sti enti che non si capisce mai.» Il Custode lascia correre."
+      "titolo": "Lui, lei, e chi ha visto cosa",
+      "testo": "In scena ci sono troppe persone da indicare con un pronome: il fantasma, la principessa nella torre, Oleggio che l'ha sognata e Secchio di Brodo che è l'unico ad aver visto la torre davvero. Il risultato è qualche minuto in cui nessuno capisce più a chi si riferisca chi: «Lei l'ha vista» — ma quale lei, e vista da chi? Il tentativo di districare la matassa («a lui piace lei», «e a lei?») peggiora solo le cose, finché qualcuno si arrende: «Sti enti, che non si capisce mai». Il Custode lascia correre."
     },
     {
       "titolo": "La fuga dalla mischia",
-      "testo": "Andante, malridotto, si sente leggere la regola della ritirata: chi fugge dalla mischia rinuncia all'attacco e concede ai nemici +2 al tiro per colpire, ignorando lo scudo. Commento immediato: «Cioè praticamente vuol dire suicidarsi». Risposta dal tavolo: «Oltretutto perdi la stima di tutti quanti»."
+      "testo": "Slurbel, malconcio e circondato, si sente leggere la regola della ritirata: chi fugge dalla mischia rinuncia al proprio attacco e concede agli avversari +2 al tiro per colpire, ignorando lo scudo. Commento immediato: «Cioè praticamente vuol dire suicidarsi». Risposta dal tavolo: «Oltretutto perdi la stima di tutti quanti»."
     },
     {
       "titolo": "Confusione di sistemi",
@@ -364,10 +364,6 @@
     {
       "titolo": "Un cavaliere senza macchia e senza mira",
       "testo": "Dopo l'ennesimo tiro per colpire fallito da Andante — con +4 al tiro — arriva l'autodefinizione che il tavolo approva all'unanimità."
-    },
-    {
-      "titolo": "Il gioco di ruolo dello Svarione degli Anelli",
-      "testo": "A un certo punto qualcuno constata che quello che stanno giocando non è più Dolmenwood, ma «il gioco di ruolo dello Svarione degli Anelli». Nessuno obietta."
     },
     {
       "titolo": "Quali amiche, quali compagni?",
@@ -381,7 +377,6 @@
   "note": [
     "Il nome del secondo segugio di pietra è reso come **Cheder** seguendo il diario delle sessioni 1-4; nella trascrizione audio suona come «Ceder». [da verificare con il gruppo]",
     "**Urca Snobrughiera**, la Spaventaboschi di Francesca, non compare in questa sessione: nel diario appare durante l'esplorazione del tumulo nelle sessioni precedenti. Dalle registrazioni non è chiaro se sia entrata stabilmente nel gruppo. [da verificare con il gruppo]",
-    "Le due voci sul goblin inerme (chiede pietà o chiede di essere ucciso) sono entrambe presenti nelle fonti. Qui è riportata la versione letterale dell'audio. [da verificare con il gruppo]",
-    "Dalla registrazione non è chiaro chi impugni la **spada arrogante** durante lo scontro sul lago: la discussione sulle sue statistiche si sovrappone ad altre voci. [da verificare con il gruppo]"
+    "Le due voci sul goblin inerme (chiede pietà o chiede di essere ucciso) sono entrambe presenti nelle fonti. Qui è riportata la versione letterale dell'audio. [da verificare con il gruppo]"
   ]
 }
