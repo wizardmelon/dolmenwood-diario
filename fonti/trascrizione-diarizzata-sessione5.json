@@ -1,6 +1,6 @@
 [
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 0.0,
   "fine": 1.9,
   "testo": "Gli abbiamo messo da parte un sacco le cose.",
@@ -35,7 +35,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 7.68,
   "fine": 8.02,
   "testo": "stavamo",
@@ -259,7 +259,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 104.68,
   "fine": 105.24,
   "testo": "Spada 9.",
@@ -273,7 +273,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 115.28,
   "fine": 116.5,
   "testo": "Dove al centro c 'è?",
@@ -287,7 +287,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 124.68,
   "fine": 125.88,
   "testo": "Questo era anche il fan.",
@@ -378,7 +378,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 174.02,
   "fine": 177.52,
   "testo": "è... È fantasma o è una vera armatura? No, ma sì,",
@@ -434,7 +434,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 193.22,
   "fine": 193.9,
   "testo": "No,",
@@ -504,7 +504,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 221.43999999999997,
   "fine": 222.67999999999998,
   "testo": "Perché",
@@ -525,7 +525,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 238.38,
   "fine": 241.14,
   "testo": "diciamo normale come lo vedo quindi",
@@ -609,7 +609,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 274.26,
   "fine": 276.26,
   "testo": "blocco dove è blocco",
@@ -679,7 +679,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 301.08,
   "fine": 307.34,
   "testo": "chi è è Sercidio però scusa ma non è cioè non è credibile che non lo riconoscano l",
@@ -826,7 +826,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 392.18,
   "fine": 392.94,
   "testo": "sei",
@@ -854,7 +854,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 397.7,
   "fine": 399.14,
   "testo": "portatemi da lei ti prego",
@@ -924,7 +924,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 424.1,
   "fine": 425.28,
   "testo": "svegliata ma",
@@ -938,7 +938,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 429.88,
   "fine": 433.78,
   "testo": "dire che azzaporra su sta avventura è andrea non so più io per una volta",
@@ -952,14 +952,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 441.28,
   "fine": 442.44,
   "testo": "e andate andate",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 444.59999999999997,
   "fine": 447.5,
   "testo": "io proprio non ne ho addormento io ne uno ho fatto",
@@ -980,7 +980,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 454.66,
   "fine": 455.48,
   "testo": "adesso",
@@ -1050,7 +1050,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 478.62,
   "fine": 480.74,
   "testo": "io non stiamo cioè noi non stiamo sentendo noi",
@@ -1071,7 +1071,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 484.02,
   "fine": 484.32,
   "testo": "se",
@@ -1085,7 +1085,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 488.34,
   "fine": 489.06,
   "testo": "noi ci hanno messo",
@@ -1141,7 +1141,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 517.44,
   "fine": 521.72,
   "testo": "però qua c 'è un po' di differenza noi non possiamo portare la merda per voi non possiamo portare voi",
@@ -1232,7 +1232,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 563.62,
   "fine": 565.2,
   "testo": "hai fatto? no 4",
@@ -1246,7 +1246,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 574.98,
   "fine": 576.64,
   "testo": "c 'è se devo girare in un altro punto?",
@@ -1260,7 +1260,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 577.48,
   "fine": 580.02,
   "testo": "ti tira la catena nel bicchiere non lo so",
@@ -1274,7 +1274,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 584.6999999999999,
   "fine": 589.92,
   "testo": "ok ti seguo ti aiuto no? che mi fanno male il braccio esatto",
@@ -1323,7 +1323,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 603.14,
   "fine": 605.32,
   "testo": "caccia non glieli devi da cacca a te ah",
@@ -1554,7 +1554,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 740.06,
   "fine": 742.14,
   "testo": "gabbando quello sì se",
@@ -1582,7 +1582,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 767.06,
   "fine": 770.98,
   "testo": "noi tipo sì sì va bene",
@@ -1603,7 +1603,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 775.54,
   "fine": 780.18,
   "testo": "aspetta braccialetti ametista braccialetti occhi ametista e l 'anello e l 'anello",
@@ -1617,7 +1617,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 781.78,
   "fine": 784.58,
   "testo": "non lo so",
@@ -1645,7 +1645,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 802.72,
   "fine": 803.64,
   "testo": "ok",
@@ -1813,7 +1813,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 873.26,
   "fine": 874.58,
   "testo": "che vi siete ripresi che ne pensate vi",
@@ -1827,7 +1827,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 874.58,
   "fine": 875.2,
   "testo": "ripresi",
@@ -1883,7 +1883,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 893.66,
   "fine": 898.88,
   "testo": "le dombe quali amiche quali compagni io mi intendo un uomo un maschio",
@@ -1981,7 +1981,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 913.82,
   "fine": 914.62,
   "testo": "sono Mercurio",
@@ -2016,7 +2016,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 919.26,
   "fine": 924.74,
   "testo": "perché sono proprio su questo gruppo tutti uomini no cioè vabbè",
@@ -2030,7 +2030,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 926.36,
   "fine": 927.34,
   "testo": "vabbè infatti",
@@ -2044,7 +2044,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 928.7,
   "fine": 929.6,
   "testo": "è fluida",
@@ -2065,7 +2065,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 945.8,
   "fine": 954.5,
   "testo": "vedendolo riconosco immediatamente che è Ser Cidio sai che lui riconosce l 'armatura, l 'aldica...",
@@ -2079,7 +2079,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 954.5,
   "fine": 961.26,
   "testo": "io non sapendo quello che è successo prima dico lui è Ser Cidio e loro la",
@@ -2100,7 +2100,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 966.3000000000001,
   "fine": 970.66,
   "testo": "punto è prendere l 'anello oppure no? avete trovato l 'anello? ma",
@@ -2128,7 +2128,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 979.06,
   "fine": 981.44,
   "testo": "io sono una pianta siamo",
@@ -2142,28 +2142,28 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 982.06,
   "fine": 983.52,
   "testo": "l 'anello l 'avete già preso?",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 983.62,
   "fine": 983.74,
   "testo": "sì",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 984.82,
   "fine": 988.22,
   "testo": "era la missione prendere l 'anello l 'avete preso?",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 988.3,
   "fine": 993.38,
   "testo": "perché non lo prendi tu? Mergellina, come si chiama? Mergellina ah no ah",
@@ -2177,7 +2177,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 993.38,
   "fine": 994.08,
   "testo": "però",
@@ -2205,14 +2205,14 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1005.06,
   "fine": 1006.14,
   "testo": "prendiamolo",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1007.3599999999999,
   "fine": 1008.56,
   "testo": "facciamo prendere",
@@ -2233,7 +2233,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1013.5,
   "fine": 1015.72,
   "testo": "aspetta Marco",
@@ -2247,7 +2247,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1017.78,
   "fine": 1027.08,
   "testo": "non abbiamo sentito cioè io e il Nanta non abbiamo sentito quello che ha detto prima di Ser Cidio sul fatto che lui si allontana dalla mia erba io comunque",
@@ -2261,7 +2261,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1027.3,
   "fine": 1027.88,
   "testo": "inquino",
@@ -2450,7 +2450,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1133.78,
   "fine": 1135.94,
   "testo": "a quel punto io mi desto un",
@@ -2464,35 +2464,35 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1135.94,
   "fine": 1138.46,
   "testo": "puzza io mi desto un attimo dove dovresti",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1138.46,
   "fine": 1139.44,
   "testo": "reagire a questo punto?",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1139.54,
   "fine": 1139.94,
   "testo": "dalle mie",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1143.56,
   "fine": 1146.32,
   "testo": "cioè dal mio innamoramento",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1148.3,
   "fine": 1152.24,
   "testo": "mi desto un attimo e mi puzza pure a",
@@ -2506,35 +2506,35 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1152.24,
   "fine": 1152.76,
   "testo": "questa cosa",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1153.96,
   "fine": 1155.5,
   "testo": "per due motivi",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1157.94,
   "fine": 1159.38,
   "testo": "per me",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1159.38,
   "fine": 1168.32,
   "testo": "quello più importante è che il motivo più importante è che non tanto esserci io",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1171.46,
   "fine": 1174.94,
   "testo": "ma che c 'è un rivale in amore adesso per",
@@ -2548,14 +2548,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1175.82,
   "fine": 1182.26,
   "testo": "è quella cosa che mi ha tappato la rena e poi anche sono d 'accordo con Dante",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1185.28,
   "fine": 1188.18,
   "testo": "non mi quadra questa cosa qualcosa",
@@ -2576,7 +2576,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1189.68,
   "fine": 1196.18,
   "testo": "quadra l 'anello è l 'unica prova che rimasta mi",
@@ -2604,14 +2604,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1224.1699999999998,
   "fine": 1225.6,
   "testo": "io sono un cavaliere",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1227.02,
   "fine": 1227.82,
   "testo": "però",
@@ -2625,7 +2625,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1234.3600000000001,
   "fine": 1238.0,
   "testo": "non si inanellano le cose no",
@@ -2639,14 +2639,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1240.22,
   "fine": 1244.62,
   "testo": "giovane amico non devi angosciarti",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1246.4,
   "fine": 1247.2,
   "testo": "lei",
@@ -2660,7 +2660,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1248.0,
   "fine": 1249.06,
   "testo": "ha usato come",
@@ -2674,7 +2674,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1249.92,
   "fine": 1253.84,
   "testo": "fare qui ma troverai",
@@ -2744,21 +2744,21 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1279.28,
   "fine": 1288.26,
   "testo": "l 'ha vista si ma tu ce l 'avevi anche riferito? si ecco perché non la capivo ahahahah",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1290.3,
   "fine": 1293.26,
   "testo": "diciamo meglio lei c 'è stata si",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1294.6,
   "fine": 1296.32,
   "testo": "lui lei lui lei",
@@ -2772,7 +2772,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1298.44,
   "fine": 1302.02,
   "testo": "mai lady boy come era lei che vuole tu? a lui",
@@ -2786,7 +2786,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1302.16,
   "fine": 1302.56,
   "testo": "piace lei",
@@ -2800,7 +2800,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1304.54,
   "fine": 1304.98,
   "testo": "a",
@@ -2814,7 +2814,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1305.24,
   "fine": 1305.6,
   "testo": "piace voi",
@@ -2835,7 +2835,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1313.9199999999998,
   "fine": 1318.18,
   "testo": "io guardo andante e gli altri due compagni",
@@ -2849,14 +2849,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1321.22,
   "fine": 1322.1,
   "testo": "e gli dico",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1323.55,
   "fine": 1329.14,
   "testo": "questa cosa non mi piace lo sai che gli dico? perdiamo la mano",
@@ -2884,7 +2884,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1337.18,
   "fine": 1338.5,
   "testo": "rimascoltarci un attimo",
@@ -2905,14 +2905,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1340.94,
   "fine": 1343.18,
   "testo": "si basta darci le spalle",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1345.0600000000002,
   "fine": 1347.12,
   "testo": "si tappi le cavità",
@@ -2933,7 +2933,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1354.38,
   "fine": 1355.38,
   "testo": "lui segue",
@@ -2954,7 +2954,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1360.24,
   "fine": 1363.56,
   "testo": "questa cosa io non l 'ho sentita prima ma te",
@@ -3045,7 +3045,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1373.98,
   "fine": 1374.84,
   "testo": "no slurben",
@@ -3059,7 +3059,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1377.4,
   "fine": 1380.54,
   "testo": "Elesi? eh aspetta adesso adesso",
@@ -3073,7 +3073,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1382.44,
   "fine": 1382.9,
   "testo": "la di",
@@ -3150,7 +3150,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1401.72,
   "fine": 1404.08,
   "testo": "di Elesi alloraỏi",
@@ -3164,7 +3164,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1432.42,
   "fine": 1433.36,
   "testo": "Dante a lei?",
@@ -3206,7 +3206,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1459.02,
   "fine": 1461.04,
   "testo": "Io con quello non ci parlo. Non",
@@ -3227,7 +3227,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1471.42,
   "fine": 1473.86,
   "testo": "Lascia l 'orgoglio, parla con Sera e Cilio.",
@@ -3241,14 +3241,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1475.08,
   "fine": 1478.62,
   "testo": "e Cilio. Ma sono orgoglio. Io sono Oleggio.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1480.42,
   "fine": 1482.18,
   "testo": "Oleggio, stiamo qua per te e andiamo?",
@@ -3269,7 +3269,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1490.44,
   "fine": 1491.36,
   "testo": "è Sera e Cilio.",
@@ -3283,7 +3283,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1493.12,
   "fine": 1493.6,
   "testo": "vuole che parli?",
@@ -3297,7 +3297,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1496.3200000000002,
   "fine": 1498.74,
   "testo": "Ok. Da cavaliere a cavaliere.",
@@ -3311,7 +3311,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1506.9399999999998,
   "fine": 1508.48,
   "testo": "lui ne sta ascoltando.",
@@ -3339,7 +3339,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1517.3,
   "fine": 1522.18,
   "testo": "sono stato portato qua dalla dama. In pezzo, o quasi.",
@@ -3353,7 +3353,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1524.98,
   "fine": 1526.06,
   "testo": "La castelmadama.",
@@ -3430,7 +3430,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1543.16,
   "fine": 1543.42,
   "testo": "Non",
@@ -3444,49 +3444,49 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1545.42,
   "fine": 1546.82,
   "testo": "Milita. Puoi",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1546.82,
   "fine": 1548.22,
   "testo": "assaggiare così una bottiglia?",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1548.26,
   "fine": 1548.5,
   "testo": "Lei.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1548.74,
   "fine": 1550.68,
   "testo": "No. Che",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1550.68,
   "fine": 1551.5,
   "testo": "intenzioni ha",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1551.5,
   "fine": 1552.42,
   "testo": "con",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1552.42,
   "fine": 1553.06,
   "testo": "la fanciulla?",
@@ -3500,7 +3500,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1554.8,
   "fine": 1555.36,
   "testo": "voglio solo",
@@ -3535,7 +3535,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1562.8400000000001,
   "fine": 1571.8,
   "testo": "Mi dispiace se ti ha mentito. Anche a me. Anche io avevo una promessa, sa? Anche io avevo una promessa. Mi",
@@ -3549,14 +3549,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1571.8,
   "fine": 1573.32,
   "testo": "ammaripolato. Mi ha ammaripolato, esatto.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1574.8600000000001,
   "fine": 1581.58,
   "testo": "Io scusa per lei. Ma sarai ricompensato. Con cosa? Con quello che vuoi.",
@@ -3570,7 +3570,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1582.34,
   "fine": 1584.04,
   "testo": "Daniello. Sarino. Sarino.",
@@ -3598,7 +3598,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1586.06,
   "fine": 1587.58,
   "testo": "tu vuoi venire sbagliata.",
@@ -3612,7 +3612,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1588.92,
   "fine": 1589.0,
   "testo": "la",
@@ -3626,7 +3626,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1589.0,
   "fine": 1589.1,
   "testo": "'ero.",
@@ -3731,7 +3731,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1610.9,
   "fine": 1616.0,
   "testo": "Quindi lei vuole portare l 'agnello... ma come si chiama l 'elfa? Sapeva un nome.",
@@ -3745,7 +3745,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1616.9,
   "fine": 1619.3,
   "testo": "Elfa Sezza. Elfa Sezza. Enzo",
@@ -3773,7 +3773,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1623.72,
   "fine": 1624.62,
   "testo": "Elfa Alfa.",
@@ -3801,7 +3801,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1636.42,
   "fine": 1639.22,
   "testo": "Ah. Va bene, la chiameremo Biancaneve.",
@@ -3815,7 +3815,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1641.52,
   "fine": 1641.96,
   "testo": "Come",
@@ -3892,7 +3892,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1659.06,
   "fine": 1659.48,
   "testo": "quindi...",
@@ -3906,7 +3906,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1662.32,
   "fine": 1663.88,
   "testo": "la aiutiamo a portare l 'agnello?",
@@ -3920,14 +3920,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1666.5,
   "fine": 1667.44,
   "testo": "anni e preditudini?",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1668.8000000000002,
   "fine": 1671.6000000000001,
   "testo": "Stavamo parlando di... E",
@@ -3941,7 +3941,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1672.16,
   "fine": 1674.0,
   "testo": "'agnello che è Nela. Vorrei...",
@@ -3955,7 +3955,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1677.02,
   "fine": 1679.62,
   "testo": "Vorrei essere ricompensato insieme agli amici.",
@@ -3969,7 +3969,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1683.78,
   "fine": 1685.26,
   "testo": "Serve del portafoglio?",
@@ -3983,7 +3983,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1686.8200000000002,
   "fine": 1690.96,
   "testo": "Si fa così? Eh? Non credo. C 'è il recitolo. Tidaro...",
@@ -4067,7 +4067,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1702.56,
   "fine": 1703.96,
   "testo": "Perché…",
@@ -4109,7 +4109,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1712.56,
   "fine": 1713.06,
   "testo": "circa circa",
@@ -4130,14 +4130,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1719.16,
   "fine": 1719.46,
   "testo": "circa circa",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1728.6799999999998,
   "fine": 1730.08,
   "testo": "Perché",
@@ -4158,14 +4158,14 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1731.36,
   "fine": 1733.74,
   "testo": "tizio lion",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1735.7399999999998,
   "fine": 1737.3,
   "testo": "progenare il mondo va",
@@ -4242,7 +4242,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1760.8,
   "fine": 1767.1,
   "testo": "tipo l 'asterisco c 'è un contratto posso dire",
@@ -4270,7 +4270,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1781.2,
   "fine": 1787.98,
   "testo": "mezzo che si dai c 'è anche il chiesa è proprio",
@@ -4284,7 +4284,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1792.42,
   "fine": 1793.42,
   "testo": "ragazzi",
@@ -4305,7 +4305,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1801.76,
   "fine": 1805.18,
   "testo": "no pure qui c 'è la clausola no",
@@ -4340,7 +4340,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1814.52,
   "fine": 1816.86,
   "testo": "anche nei periodi anche nei festivi",
@@ -4354,14 +4354,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1819.84,
   "fine": 1821.54,
   "testo": "va bene ragazzi cioè",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1823.48,
   "fine": 1831.14,
   "testo": "allora io tengo l 'amuleto voi ci avrete voi a voi do i gioielli a",
@@ -4396,14 +4396,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1844.88,
   "fine": 1847.9,
   "testo": "magari ci ritornano mi sembra che ma serio",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1847.9,
   "fine": 1852.36,
   "testo": "noi prendiamo l 'anghello e andremo dritti verso la",
@@ -4417,7 +4417,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1853.76,
   "fine": 1855.54,
   "testo": "dritti verso l",
@@ -4431,7 +4431,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1855.88,
   "fine": 1860.8,
   "testo": "neva neva ok ornao orneva ornano",
@@ -4508,7 +4508,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1879.4,
   "fine": 1884.98,
   "testo": "allora io c 'ho c 'ho vecchie cose",
@@ -4522,7 +4522,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1888.98,
   "fine": 1890.7,
   "testo": "l 'anello è ah l 'anello si mette un",
@@ -4536,7 +4536,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1892.68,
   "fine": 1900.68,
   "testo": "la persona che c 'ha più il molo ma ah una cosa la mia ricompensa",
@@ -4550,7 +4550,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1905.98,
   "fine": 1911.68,
   "testo": "verrà riscattata tutto ciò che ti ho descritto da me medesimo è",
@@ -4620,7 +4620,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1931.02,
   "fine": 1931.46,
   "testo": "ti sia",
@@ -4655,14 +4655,14 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1939.04,
   "fine": 1960.16,
   "testo": "io devo comunicare con i miei compagni non lo dico a te eh però non lo dici non lo dici non lo dici però adesso che prendiamo l 'anello cioè prendo l 'anello noi comunque ci facciamo un po' più indietro lui ci farà strada sicuramente si e poi vi parlo",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1962.34,
   "fine": 1967.8,
   "testo": "si sei boffà si lui va avanti non gliene parlo prima a Debra che non gliene parlo",
@@ -4676,7 +4676,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1969.08,
   "fine": 1972.06,
   "testo": "no no è no perché",
@@ -4690,42 +4690,42 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1972.7,
   "fine": 1975.3,
   "testo": "no lui no ma perché a parte che non è",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1978.3799999999999,
   "fine": 1979.02,
   "testo": "ragazzi",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1980.24,
   "fine": 1982.12,
   "testo": "questa è la numero 2 di",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1984.1399999999999,
   "fine": 1985.42,
   "testo": "Jackie Piazzi",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1988.56,
   "fine": 1990.86,
   "testo": "come dicono fuori dai dormi niente",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 1990.86,
   "fine": 1992.86,
   "testo": "o nelle locamme o nelle",
@@ -4753,7 +4753,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1995.8999999999999,
   "fine": 1997.42,
   "testo": "io non ho",
@@ -4767,14 +4767,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 1997.98,
   "fine": 2010.78,
   "testo": "me ne rammarico mi dispiace che ho portato in una tracola ma io non potevo saperlo mi sono stato preso per la gola anzi per il bacino per avete capito insomma",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2012.26,
   "fine": 2027.96,
   "testo": "ma questa ricompensa purtroppo non esiste lo so non lo sento lo sento da come parla da come mi guarda probabilmente nella torre moriremo ma sappiate che io combatterò",
@@ -4788,7 +4788,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2027.96,
   "fine": 2031.02,
   "testo": "per voi. Devo sconfiggere questo fantasma.",
@@ -4858,7 +4858,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2054.1,
   "fine": 2055.58,
   "testo": "Sì, ma il messere...",
@@ -4872,35 +4872,35 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2058.06,
   "fine": 2064.94,
   "testo": "sta buggerando. Ti ricorda messere? Ecco a voi messo il gizzetto, il gaccoglio e col gizzetto.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2067.1600000000003,
   "fine": 2070.02,
   "testo": "No, questa parte non me la ricordo.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2070.32,
   "fine": 2072.26,
   "testo": "Era la canzone di presentazione del gizzo.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2072.44,
   "fine": 2074.26,
   "testo": "Non me la ricordo. Guarda un po'.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2075.1000000000004,
   "fine": 2078.28,
   "testo": "Come ti chiamavo? Questa",
@@ -4914,7 +4914,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2080.52,
   "fine": 2082.86,
   "testo": "Nevicata? Nevicata del crepuscolo.",
@@ -4977,28 +4977,28 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2099.84,
   "fine": 2101.56,
   "testo": "Lei mi ha fatto il sogno.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2103.48,
   "fine": 2105.6,
   "testo": "Perché voleva usarmi.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2108.88,
   "fine": 2109.46,
   "testo": "Liberarsi.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2110.86,
   "fine": 2119.46,
   "testo": "Tramite... Non avete capito. Non avete... Colto i segnali del fantasma. Tu",
@@ -5012,21 +5012,21 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2121.0,
   "fine": 2121.86,
   "testo": "delusione.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2123.68,
   "fine": 2128.26,
   "testo": "Nel frattempo sento un 'entravoce nell 'aria. Ho il pasto sfigato.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2130.46,
   "fine": 2132.18,
   "testo": "Subito. Subito.",
@@ -5040,7 +5040,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2134.3,
   "fine": 2138.02,
   "testo": "La sentite anche voi? Sì.",
@@ -5061,7 +5061,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2151.44,
   "fine": 2154.7,
   "testo": "deve morire se ne",
@@ -5131,28 +5131,28 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2183.8399999999997,
   "fine": 2188.36,
   "testo": "scompare tipo uno schioppo che prende anche noi",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2190.12,
   "fine": 2191.0,
   "testo": "bene",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2192.7999999999997,
   "fine": 2193.68,
   "testo": "ok",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2195.9,
   "fine": 2216.42,
   "testo": "aspettiamo un dante vabbè immagina che tutta questa chiacchierata l 'abbiamo fatta comunque camminando quindi stavamo sempre stavamo sempre alla stessa distanza non sono per bene dovrebbe avvantaggiarci intanto stiamo andando ma",
@@ -5229,14 +5229,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2251.74,
   "fine": 2254.0,
   "testo": "viene attratto non fisicamente",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2255.72,
   "fine": 2261.76,
   "testo": "logicamente lui tende ad andare vicino all 'anello perché se no sa che scompare credo",
@@ -5250,7 +5250,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2263.36,
   "fine": 2270.9,
   "testo": "che viene attratto proprio fisicamente no no lui può fare quello che gli pare sto che gli conviene sta vicino all 'anello",
@@ -5264,7 +5264,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2273.46,
   "fine": 2274.3,
   "testo": "sostanzialmente sì",
@@ -5278,7 +5278,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2277.66,
   "fine": 2283.36,
   "testo": "noi cioè lo stiamo seguendo quindi mi immagino di poco tutto tutto tutto qua",
@@ -5362,21 +5362,21 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2305.62,
   "fine": 2308.62,
   "testo": "scopriamo che la torre si chiama torre bella monaca",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2308.62,
   "fine": 2310.58,
   "testo": "torre marancia",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2311.62,
   "fine": 2316.2,
   "testo": "e ce l 'ha e quindi dobbiamo ritornare",
@@ -5418,7 +5418,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2326.96,
   "fine": 2327.6,
   "testo": "le",
@@ -5439,7 +5439,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2328.9,
   "fine": 2330.88,
   "testo": "che tu hai visto ah scusa le",
@@ -5453,7 +5453,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2334.78,
   "fine": 2337.1,
   "testo": "con il potere dell 'amore",
@@ -5474,7 +5474,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2341.02,
   "fine": 2341.32,
   "testo": "con",
@@ -5488,7 +5488,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2345.76,
   "fine": 2347.44,
   "testo": "cosa dà ricorda vi",
@@ -5502,7 +5502,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2350.44,
   "fine": 2353.92,
   "testo": "quella personaggia che personaggia? solo sailor moon che",
@@ -5523,7 +5523,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2356.32,
   "fine": 2358.74,
   "testo": "prende la vita da un avvocato marcio",
@@ -5537,14 +5537,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2361.66,
   "fine": 2366.84,
   "testo": "io ho visto nella mente questi episodi di sailor moon stavano al supermercato e c 'era un avvocato",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2367.7,
   "fine": 2369.42,
   "testo": "marcio ma c 'è un avvocato? facciamo",
@@ -5558,35 +5558,35 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2369.42,
   "fine": 2370.6,
   "testo": "sogno no",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2370.6,
   "fine": 2377.82,
   "testo": "no ma peggio dei miei c 'è un avvocato e da questo avvocato",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2379.7,
   "fine": 2381.4,
   "testo": "attenzione esce fuori",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2382.12,
   "fine": 2382.66,
   "testo": "una",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2382.66,
   "fine": 2383.9,
   "testo": "sailor moon che ti ha",
@@ -5600,14 +5600,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2385.42,
   "fine": 2386.02,
   "testo": "e",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2386.02,
   "fine": 2389.84,
   "testo": "quindi tu ci pensi ogni volta che vedi un avvocato marcio non",
@@ -5628,7 +5628,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2390.82,
   "fine": 2391.62,
   "testo": "fatti come c",
@@ -5642,7 +5642,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2396.44,
   "fine": 2399.9,
   "testo": "cattiva credo quindi era un evil sailor",
@@ -5656,7 +5656,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2401.22,
   "fine": 2402.1,
   "testo": "non ce l 'ho",
@@ -5684,7 +5684,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2403.84,
   "fine": 2404.98,
   "testo": "sailor moon",
@@ -5698,7 +5698,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2408.54,
   "fine": 2409.58,
   "testo": "avvocato ci",
@@ -5712,7 +5712,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2410.76,
   "fine": 2412.84,
   "testo": "avvocatore avvocatore",
@@ -5726,7 +5726,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2413.9,
   "fine": 2414.64,
   "testo": "vedi?",
@@ -5761,7 +5761,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2425.3,
   "fine": 2425.48,
   "testo": "però",
@@ -5775,21 +5775,21 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2425.48,
   "fine": 2426.06,
   "testo": "sei un avvocatore",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2428.62,
   "fine": 2431.42,
   "testo": "però come ci siamo arrivati? all 'avvocato?",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2432.7400000000002,
   "fine": 2437.1,
   "testo": "vedi? stavo in un supermercato pare che sia un supermercato in",
@@ -5803,7 +5803,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2437.1,
   "fine": 2437.66,
   "testo": "supermercato",
@@ -5817,7 +5817,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2437.88,
   "fine": 2437.98,
   "testo": "è",
@@ -5866,7 +5866,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2443.94,
   "fine": 2449.84,
   "testo": "'è che stava? occupa un supermercato punto di quest 'anno per far mangiare frutta oscura",
@@ -5880,28 +5880,28 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2449.84,
   "fine": 2460.18,
   "testo": "barifesta occupiamo il supermercato per aumentare vedi però che stanno qua al supermercato per far mangiare frutta oscura o marcia la gente di conere nel piano e per vivere",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2461.62,
   "fine": 2465.18,
   "testo": "armi diseducativo comunque sailor scadenza si è vero",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2466.68,
   "fine": 2468.46,
   "testo": "spada con elsa a forma di banana",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2471.48,
   "fine": 2473.14,
   "testo": "ah dici che episodio? ah",
@@ -5915,7 +5915,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2473.16,
   "fine": 2474.9,
   "testo": "mi sono venuti della serie r",
@@ -5971,7 +5971,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2491.14,
   "fine": 2491.44,
   "testo": "in",
@@ -5985,7 +5985,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2492.84,
   "fine": 2497.48,
   "testo": "stiamo seguendo lui quindi no è",
@@ -6083,7 +6083,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2535.1400000000003,
   "fine": 2538.82,
   "testo": "penso che sia la stessa cosa",
@@ -6097,7 +6097,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2551.02,
   "fine": 2553.12,
   "testo": "è vero perché qua c 'erano quelli che ballavano non",
@@ -6125,7 +6125,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2554.36,
   "fine": 2556.32,
   "testo": "vedono loro",
@@ -6216,14 +6216,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2583.8,
   "fine": 2585.16,
   "testo": "pelle e ossa",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2585.16,
   "fine": 2587.04,
   "testo": "seguitevi sei ossa",
@@ -6237,7 +6237,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2588.24,
   "fine": 2590.32,
   "testo": "seguiamo allora ritornate al",
@@ -6265,7 +6265,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2597.76,
   "fine": 2600.0,
   "testo": "'è",
@@ -6349,7 +6349,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2663.98,
   "fine": 2665.38,
   "testo": "Kafka",
@@ -6363,7 +6363,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2670.8,
   "fine": 2672.16,
   "testo": "che ce lo dici dopo esatto",
@@ -6398,7 +6398,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2689.0,
   "fine": 2689.14,
   "testo": "'è",
@@ -6412,7 +6412,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2689.14,
   "fine": 2690.14,
   "testo": "ricompensa",
@@ -6559,7 +6559,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2778.4,
   "fine": 2779.72,
   "testo": "ce l 'avevi fatto vedere?",
@@ -6587,7 +6587,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2789.88,
   "fine": 2794.36,
   "testo": "ah forse l 'avete che stava molto bene esatto allora",
@@ -6692,7 +6692,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 2834.16,
   "fine": 2835.48,
   "testo": "che dobbiamo fare il d4?",
@@ -6706,7 +6706,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2838.12,
   "fine": 2839.42,
   "testo": "ma tutti? prendo",
@@ -6720,7 +6720,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2839.56,
   "fine": 2840.8,
   "testo": "no uno solo mi serve uno per",
@@ -6748,7 +6748,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2846.1,
   "fine": 2851.22,
   "testo": "bestie feroci dal sito",
@@ -6846,7 +6846,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2919.68,
   "fine": 2921.2,
   "testo": "finaccia babbo natale oh",
@@ -6909,7 +6909,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2945.14,
   "fine": 2949.76,
   "testo": "di voi parla goblinese non mi ricordo vedete no non c 'è altro solo",
@@ -6993,7 +6993,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2978.64,
   "fine": 2983.3,
   "testo": "scusa ci puoi fare anche la versione per noi che non capiamo",
@@ -7007,7 +7007,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 2989.8,
   "fine": 2991.22,
   "testo": "ahahah se capisce ma",
@@ -7028,7 +7028,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3009.84,
   "fine": 3010.58,
   "testo": "Sergilio stai a Gioia?",
@@ -7042,14 +7042,14 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3011.48,
   "fine": 3015.26,
   "testo": "Gio' lo guardo aspetta, pure lui dica qualcosa lo",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3015.26,
   "fine": 3017.86,
   "testo": "guardi?",
@@ -7112,7 +7112,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3066.74,
   "fine": 3069.7,
   "testo": "io vi guardo e vedo i ragazzi ecco",
@@ -7133,21 +7133,21 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3077.8399999999997,
   "fine": 3079.52,
   "testo": "primo Esto",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3088.24,
   "fine": 3089.64,
   "testo": "nellissimo",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3096.5400000000004,
   "fine": 3099.46,
   "testo": "ci tocca a pabbotti no no",
@@ -7161,7 +7161,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3108.1000000000004,
   "fine": 3109.16,
   "testo": "che era quello",
@@ -7175,7 +7175,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3112.32,
   "fine": 3114.98,
   "testo": "posso chiedere una cosa fuori dal topo c 'è",
@@ -7189,21 +7189,21 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3114.98,
   "fine": 3115.98,
   "testo": "assercizio",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3118.26,
   "fine": 3119.7,
   "testo": "in battaglia",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3121.0400000000004,
   "fine": 3123.38,
   "testo": "può fare dei danni si",
@@ -7217,7 +7217,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3124.22,
   "fine": 3125.32,
   "testo": "gli",
@@ -7259,7 +7259,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3148.08,
   "fine": 3149.38,
   "testo": "per",
@@ -7308,7 +7308,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3194.5,
   "fine": 3204.64,
   "testo": "per la spada magica si ci stanno le specifiche in battaglia? ah si non ce le ho segnate",
@@ -7420,7 +7420,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3247.42,
   "fine": 3251.8,
   "testo": "poi dopo usiamo l 'iPad ok",
@@ -7434,21 +7434,21 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3253.78,
   "fine": 3255.26,
   "testo": "strana griglia al volo si",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3256.6200000000003,
   "fine": 3259.22,
   "testo": "tu ce l 'hai no no",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3262.06,
   "fine": 3262.7,
   "testo": "strumento",
@@ -7476,7 +7476,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3298.2000000000003,
   "fine": 3299.2,
   "testo": "Poi c 'è",
@@ -7490,14 +7490,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3299.2,
   "fine": 3299.72,
   "testo": "premuto.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3302.4,
   "fine": 3303.78,
   "testo": "Salva della galleria.",
@@ -7511,7 +7511,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3316.7200000000003,
   "fine": 3317.62,
   "testo": "Scusa se metto",
@@ -7525,28 +7525,28 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3318.0,
   "fine": 3319.16,
   "testo": "Però mi ha zitto.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3321.18,
   "fine": 3322.48,
   "testo": "Ti rimando a me.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3329.4,
   "fine": 3335.14,
   "testo": "Mi sembra che l 'avevi trovata la spada. La spada dovrebbe essere allestata.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3336.96,
   "fine": 3337.88,
   "testo": "Sì, è normale.",
@@ -7567,7 +7567,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3348.06,
   "fine": 3348.98,
   "testo": "l 'arrogante.",
@@ -7581,7 +7581,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3350.58,
   "fine": 3353.12,
   "testo": "Eh sì, ma le... Le stanzioni",
@@ -7595,7 +7595,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3355.5,
   "fine": 3359.14,
   "testo": "No, proprio no. Il dado no. Ah",
@@ -7700,7 +7700,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3416.32,
   "fine": 3423.0,
   "testo": "che andante abbiamo mettito l 'esercitio invece",
@@ -7714,14 +7714,14 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3426.22,
   "fine": 3427.2,
   "testo": "un dato di",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3428.54,
   "fine": 3430.88,
   "testo": "di di di",
@@ -7735,7 +7735,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3456.0,
   "fine": 3457.4,
   "testo": "dovremo",
@@ -7756,7 +7756,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3460.9,
   "fine": 3462.94,
   "testo": "ho arrivato prima io? no,",
@@ -7770,7 +7770,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3468.1,
   "fine": 3470.02,
   "testo": "appunto ci lascia eh",
@@ -7784,7 +7784,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3475.76,
   "fine": 3477.16,
   "testo": "ok sì",
@@ -7840,7 +7840,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3520.46,
   "fine": 3520.98,
   "testo": "quanto danno",
@@ -7854,7 +7854,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3521.32,
   "fine": 3521.64,
   "testo": "ah",
@@ -7868,7 +7868,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3524.86,
   "fine": 3536.62,
   "testo": "ah no perché tu sei all 'arma nasta no no, ho una spada lunga riposta, che è un D8 e allora è un D8 quindi D8 però più 2 più 3",
@@ -7980,7 +7980,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3570.12,
   "fine": 3574.44,
   "testo": "ultima cosa ma scusa io ho guarigione maggiore che era",
@@ -7994,7 +7994,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3580.58,
   "fine": 3581.4,
   "testo": "chiesa",
@@ -8008,7 +8008,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3582.7,
   "fine": 3582.96,
   "testo": "fa?",
@@ -8029,14 +8029,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3592.42,
   "fine": 3601.98,
   "testo": "vi ripongo scusate un attimo un concorso che c 'ha due punti c 'ha due punti vita quello capis...",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3605.78,
   "fine": 3607.36,
   "testo": "da 2 vada a 4",
@@ -8141,7 +8141,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3640.4,
   "fine": 3642.4,
   "testo": "aspetta però lo scudo ce",
@@ -8155,7 +8155,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3642.96,
   "fine": 3643.84,
   "testo": "ancora",
@@ -8204,7 +8204,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3657.3,
   "fine": 3659.12,
   "testo": "lo posso usare adesso su di me?",
@@ -8253,7 +8253,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3664.36,
   "fine": 3671.04,
   "testo": "faccio una lavorata e comunque ho fatto la cosa che ammetto se pensi un 'HT22 almeno il portore ha doppio",
@@ -8295,21 +8295,21 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3681.64,
   "fine": 3687.22,
   "testo": "vero stavolta infatti cioè loro considerano",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3687.98,
   "fine": 3694.68,
   "testo": "perchè io pensavo mi scrivo però me lo fanno a quantità per me andava bene a spettacolo però vabbè",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3695.98,
   "fine": 3697.24,
   "testo": "ma dalle cose se",
@@ -8351,7 +8351,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3708.12,
   "fine": 3715.92,
   "testo": "nel combattimento non la posso lanciare prima che cominciamo fuori dal conteggio dei turni quindi",
@@ -8533,7 +8533,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3838.26,
   "fine": 3838.82,
   "testo": "è una pozione",
@@ -8631,7 +8631,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 3883.2,
   "fine": 3883.9,
   "testo": "Esercidio. Ah,",
@@ -8687,7 +8687,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3902.34,
   "fine": 3905.1,
   "testo": "Potremmo pure risolvere magari lanciando due mele.",
@@ -8701,14 +8701,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3908.98,
   "fine": 3911.48,
   "testo": "Mele di ghiaccio. Una frozzanella.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3914.02,
   "fine": 3915.86,
   "testo": "Ecco. Ecco la",
@@ -8757,7 +8757,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 3937.94,
   "fine": 3938.4,
   "testo": "bordo.",
@@ -9121,35 +9121,35 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4089.8,
   "fine": 4093.64,
   "testo": "Posso andare io tanto io? Sono qua la guarigione maggiore per adesso.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4094.0,
   "fine": 4094.98,
   "testo": "Se vuoi sì, vai.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4095.52,
   "fine": 4099.72,
   "testo": "Posso fermi. Mi guarisco. Posso fermi. Poi mi riuscisco.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4101.06,
   "fine": 4103.96,
   "testo": "Ma sei sicuro o non fai che vado prima io? Che almeno...",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4104.799999999999,
   "fine": 4107.7,
   "testo": "Però un termine un po' differente. Ok. Non",
@@ -9163,14 +9163,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4109.160000000001,
   "fine": 4112.3,
   "testo": "Intanto me lo guari. Quindi come era un di sei?",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4113.580000000001,
   "fine": 4121.0,
   "testo": "Scusami, non... La guarigione maggiore. Erano due di sei più... Sì ma tanto... Cioè ma io c 'ho quattro, no?",
@@ -9184,7 +9184,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4125.72,
   "fine": 4129.64,
   "testo": "Vabbè però metti in spazio. Voglio dire... Eh no, tanto è...",
@@ -9198,7 +9198,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4132.66,
   "fine": 4135.26,
   "testo": "Due più due è minimo. Sì, sì, sì.",
@@ -9212,7 +9212,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4135.26,
   "fine": 4136.28,
   "testo": "li metti e faccio come uno.",
@@ -9226,7 +9226,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4138.160000000001,
   "fine": 4140.34,
   "testo": "Quattro. Ok. Non posso. Sei.",
@@ -9261,7 +9261,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4159.06,
   "fine": 4159.32,
   "testo": "Vai.",
@@ -9436,7 +9436,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4209.540000000001,
   "fine": 4210.52,
   "testo": "Arco tangente. Quindi",
@@ -10003,7 +10003,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4405.62,
   "fine": 4406.42,
   "testo": "Ma la collascia.",
@@ -10031,7 +10031,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4408.5,
   "fine": 4408.9,
   "testo": "Sì.",
@@ -10045,7 +10045,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4410.08,
   "fine": 4410.68,
   "testo": "Da quello.",
@@ -10108,7 +10108,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4423.98,
   "fine": 4424.32,
   "testo": "Ah.",
@@ -10122,7 +10122,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4428.3,
   "fine": 4430.8,
   "testo": "Martello da demolizione. È un attacco a distanza. Eh",
@@ -10136,7 +10136,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4431.46,
   "fine": 4432.78,
   "testo": "Io non c 'ho niente a distanza.",
@@ -10150,7 +10150,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4436.16,
   "fine": 4436.64,
   "testo": "Ah,",
@@ -10164,7 +10164,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4443.42,
   "fine": 4444.6,
   "testo": "Io mi avvicino per",
@@ -10192,7 +10192,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4445.46,
   "fine": 4449.36,
   "testo": "forza perché sotto c 'ho tutte cose da mischia quindi... Ok.",
@@ -10255,7 +10255,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4472.36,
   "fine": 4473.84,
   "testo": "Io sento, vado al bagno.",
@@ -10318,7 +10318,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4497.320000000001,
   "fine": 4507.6,
   "testo": "Vabbè, per quello che è successo fino adesso non ha cambiato niente a parte che... o facciamo che lui prima non... Facciamo così. Che lui non è attaccato.",
@@ -10339,7 +10339,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4511.120000000001,
   "fine": 4514.88,
   "testo": "Eh ma io ne so pure... Ma lui si è",
@@ -10353,7 +10353,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4515.68,
   "fine": 4517.56,
   "testo": "Ne so pure curato prima però. E",
@@ -10367,7 +10367,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4518.76,
   "fine": 4519.06,
   "testo": "Tanto",
@@ -10514,7 +10514,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4587.8,
   "fine": 4589.28,
   "testo": "Non mi pare che sia un fa pari grande.",
@@ -10528,7 +10528,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4593.08,
   "fine": 4596.42,
   "testo": "No, dico qui, più due attacco. C 'hai più due attacco.",
@@ -10549,7 +10549,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4600.58,
   "fine": 4601.98,
   "testo": "Al dato per tirare,",
@@ -10570,7 +10570,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4607.78,
   "fine": 4608.2,
   "testo": "Ok,",
@@ -10605,7 +10605,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4613.580000000001,
   "fine": 4614.06,
   "testo": "Ok,",
@@ -10619,7 +10619,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4614.06,
   "fine": 4616.32,
   "testo": "prende. Ragazzi, l 'armatura. E",
@@ -10633,7 +10633,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4617.0,
   "fine": 4623.28,
   "testo": "No, ah, scusa, no. Ragazzi, l 'armatura è 18. E il più 2 è... E",
@@ -10647,7 +10647,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4623.28,
   "fine": 4623.66,
   "testo": "3.",
@@ -10668,14 +10668,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4635.280000000001,
   "fine": 4635.76,
   "testo": "Ok.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4637.26,
   "fine": 4639.64,
   "testo": "Riprendiamo da Sarcidio prima?",
@@ -10689,7 +10689,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4642.74,
   "fine": 4643.94,
   "testo": "No, aspetta.",
@@ -10703,7 +10703,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4649.38,
   "fine": 4652.08,
   "testo": "Ah, ok. Allora vado io.",
@@ -10843,7 +10843,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4690.02,
   "fine": 4691.86,
   "testo": "stanno tutti intorno a me? Non",
@@ -10857,7 +10857,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4692.68,
   "fine": 4694.4,
   "testo": "Per me è per caso il lisciato tutti e tre.",
@@ -11074,7 +11074,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4747.0,
   "fine": 4747.82,
   "testo": "Quindi 11?",
@@ -11116,14 +11116,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4767.1,
   "fine": 4767.68,
   "testo": "Posso andare",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4767.68,
   "fine": 4768.02,
   "testo": "io?",
@@ -11137,35 +11137,35 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4768.82,
   "fine": 4769.58,
   "testo": "Non hai fatto che.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4770.14,
   "fine": 4770.86,
   "testo": "No, tu",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4770.86,
   "fine": 4770.98,
   "testo": "hai",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4770.98,
   "fine": 4771.2,
   "testo": "fatto.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4775.42,
   "fine": 4779.76,
   "testo": "Allora, tu mi hai detto che però se uso la spada dovrei andare verso quello più grosso.",
@@ -11179,7 +11179,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4781.4800000000005,
   "fine": 4784.88,
   "testo": "Vabbè io ce l 'avrò. Ok. Però mi devo avvicinare.",
@@ -11207,7 +11207,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4789.38,
   "fine": 4789.76,
   "testo": "arrivo?",
@@ -11291,21 +11291,21 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4806.0,
   "fine": 4806.16,
   "testo": "qua.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4808.06,
   "fine": 4815.42,
   "testo": "E se il cidio mi rimane dietro? Cioè, più 2 al danno e più 3... No, scusa. Più 2 all 'attacco e più 3 al danno.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4817.18,
   "fine": 4819.32,
   "testo": "Più 2 all 'attacco e",
@@ -11319,7 +11319,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4819.68,
   "fine": 4819.8,
   "testo": "al",
@@ -11333,7 +11333,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4819.84,
   "fine": 4819.98,
   "testo": "Sì.",
@@ -11361,7 +11361,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4825.84,
   "fine": 4826.7,
   "testo": "sì, sì. È una",
@@ -11375,7 +11375,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4826.96,
   "fine": 4829.24,
   "testo": "magica. Quindi più 4.",
@@ -11431,14 +11431,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4844.1,
   "fine": 4850.76,
   "testo": "con più 4. Però è loro, eh, perché hanno 3. Come 5 con più 4? Poi ne hai fatto 1. Ah, no. Ah. Io",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4850.76,
   "fine": 4851.02,
   "testo": "ho 5.",
@@ -11452,7 +11452,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4851.64,
   "fine": 4852.66,
   "testo": "che ho più 4. Sì, ma",
@@ -11466,7 +11466,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4852.66,
   "fine": 4852.94,
   "testo": "vai.",
@@ -11487,7 +11487,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4856.64,
   "fine": 4859.14,
   "testo": "che era stato attaccato. Quello che c",
@@ -11501,7 +11501,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4861.5,
   "fine": 4862.1,
   "testo": "17.",
@@ -11522,7 +11522,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4865.1,
   "fine": 4865.66,
   "testo": "c 'ho un d10.",
@@ -11536,7 +11536,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4868.82,
   "fine": 4870.04,
   "testo": "Che buono.",
@@ -11578,7 +11578,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4884.18,
   "fine": 4884.44,
   "testo": "come",
@@ -11592,7 +11592,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4884.76,
   "fine": 4885.22,
   "testo": "Ma come",
@@ -11606,7 +11606,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4885.42,
   "fine": 4888.36,
   "testo": "Bisogna tirare su una superficie più...",
@@ -11627,7 +11627,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4894.740000000001,
   "fine": 4895.18,
   "testo": "Sandro.",
@@ -11662,7 +11662,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4906.820000000001,
   "fine": 4907.26,
   "testo": "3?",
@@ -11676,7 +11676,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4908.86,
   "fine": 4910.6,
   "testo": "Che il dado lo fa. Se quello non lo",
@@ -11690,7 +11690,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4910.68,
   "fine": 4911.84,
   "testo": "diventa una cosa di",
@@ -11725,7 +11725,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4919.38,
   "fine": 4923.02,
   "testo": "po'",
@@ -11739,28 +11739,28 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4923.02,
   "fine": 4924.36,
   "testo": "ruolo, che non sbagliano i miei anelli.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4925.02,
   "fine": 4925.56,
   "testo": "Ah, sì?",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 4925.82,
   "fine": 4926.02,
   "testo": "Sì.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4926.18,
   "fine": 4938.82,
   "testo": "Proprio oggi mi ha detto che un peuliano stava a Villa di Rana per sposarsi con un 'italiana. All 'inizio mi sembrava una barzelletta. C 'è Francesca che ha cantato la loro matrimonio. Ah, quindi è vero. Sì, sì. Ma oggi era?",
@@ -11795,7 +11795,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4946.74,
   "fine": 4951.08,
   "testo": "trovato un sacco di soldi. Sì, sono belli.",
@@ -11830,7 +11830,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4969.02,
   "fine": 4969.96,
   "testo": "sei l 'ultimo? No,",
@@ -11844,7 +11844,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 4969.96,
   "fine": 4970.36,
   "testo": "l 'ultimo?",
@@ -11977,7 +11977,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5015.5199999999995,
   "fine": 5017.44,
   "testo": "così vedete",
@@ -12068,7 +12068,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5129.48,
   "fine": 5129.86,
   "testo": "e",
@@ -12124,7 +12124,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5160.82,
   "fine": 5163.68,
   "testo": "oddio se ce l 'ho paro è",
@@ -12138,7 +12138,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5166.62,
   "fine": 5168.7,
   "testo": "dovresti essere contento",
@@ -12173,21 +12173,21 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5178.44,
   "fine": 5179.9,
   "testo": "come 5 danni",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5179.9,
   "fine": 5180.34,
   "testo": "7",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5182.02,
   "fine": 5183.5,
   "testo": "se a",
@@ -12201,7 +12201,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5183.5,
   "fine": 5188.3,
   "testo": "non facessi 5 danni le faccio ciao amici",
@@ -12362,7 +12362,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5340.72,
   "fine": 5342.5,
   "testo": "non",
@@ -12376,7 +12376,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5349.34,
   "fine": 5350.36,
   "testo": "goblin",
@@ -12404,7 +12404,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5353.16,
   "fine": 5353.9,
   "testo": "io? io",
@@ -12446,7 +12446,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5360.92,
   "fine": 5367.94,
   "testo": "vedete, mangiate pure... io? ma il mio guarigione maggiore era one shot...",
@@ -12460,7 +12460,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5372.38,
   "fine": 5374.54,
   "testo": "manco di media...",
@@ -12509,7 +12509,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5391.78,
   "fine": 5394.64,
   "testo": "'è",
@@ -12579,7 +12579,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5416.16,
   "fine": 5418.12,
   "testo": "se vuoi attacca... se tu non te ne",
@@ -12600,7 +12600,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5424.02,
   "fine": 5425.22,
   "testo": "che faccio, la prendo?",
@@ -12614,35 +12614,35 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5427.08,
   "fine": 5428.02,
   "testo": "poi non attacchi...",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5428.02,
   "fine": 5429.34,
   "testo": "eh però volevo attaccar...",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5429.34,
   "fine": 5431.28,
   "testo": "ma se non la prendi ti attacchi...",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5432.58,
   "fine": 5433.18,
   "testo": "quindi...",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5433.54,
   "fine": 5437.66,
   "testo": "interessante punto di vista... che dire... io...",
@@ -12677,7 +12677,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5446.44,
   "fine": 5448.36,
   "testo": "è un D4... 4...",
@@ -12698,14 +12698,14 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5454.0,
   "fine": 5454.8,
   "testo": "hai capito...",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5456.26,
   "fine": 5457.9,
   "testo": "piti robusto...",
@@ -12719,7 +12719,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5464.96,
   "fine": 5466.4,
   "testo": "conto su quello dai...",
@@ -12775,7 +12775,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5481.48,
   "fine": 5485.48,
   "testo": "ehm... sì... però sono di 10... eh",
@@ -12789,7 +12789,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5486.68,
   "fine": 5487.52,
   "testo": "spiego...",
@@ -13230,21 +13230,21 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5678.22,
   "fine": 5682.16,
   "testo": "di sceglie anche tu che faccio io",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5682.16,
   "fine": 5683.28,
   "testo": "vai",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5686.76,
   "fine": 5689.76,
   "testo": "a riprovo ma",
@@ -13258,7 +13258,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5691.56,
   "fine": 5692.96,
   "testo": "si",
@@ -13349,28 +13349,28 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5727.5,
   "fine": 5731.78,
   "testo": "pure fare un sacco di danni perché ho 8 più 3",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5732.5199999999995,
   "fine": 5733.42,
   "testo": "no dovrei",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5733.42,
   "fine": 5735.2,
   "testo": "fare massimo 11 danni si",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5735.98,
   "fine": 5737.98,
   "testo": "no scusate mi prendo la pozione",
@@ -13384,7 +13384,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5740.94,
   "fine": 5741.54,
   "testo": "cazzarola",
@@ -13412,14 +13412,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5778.02,
   "fine": 5779.42,
   "testo": "Definizione",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5779.42,
   "fine": 5781.5,
   "testo": "No, ma è solo per dirvelo. Ma",
@@ -13440,7 +13440,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5784.86,
   "fine": 5786.82,
   "testo": "Ah, scusa. Ah, è questo? Ah, ok.",
@@ -13454,35 +13454,35 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5789.3,
   "fine": 5791.9,
   "testo": "sì, la prendo. È la pietra filosofale.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5792.56,
   "fine": 5794.02,
   "testo": "D4 o più? La pietra.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5794.16,
   "fine": 5795.0,
   "testo": "No, un D4.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5795.28,
   "fine": 5795.68,
   "testo": "Un",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5795.68,
   "fine": 5795.82,
   "testo": "D4",
@@ -13496,21 +13496,21 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5795.82,
   "fine": 5796.38,
   "testo": "basso.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5798.54,
   "fine": 5805.1,
   "testo": "Vabbè, però 4. Ma non è D4... Mamma mia. Eh sì, perché questo c 'è al massimo il 7.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5805.44,
   "fine": 5808.8,
   "testo": "Un D4 meglio. Non avevo la forma quella di prima. Eh",
@@ -13650,21 +13650,21 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5870.22,
   "fine": 5872.62,
   "testo": "Perché secondo voi siete‌",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5881.320000000001,
   "fine": 5882.72,
   "testo": "Perché",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5882.72,
   "fine": 5890.38,
   "testo": "comunque avete dato circa 읽 uno fa 5 questo",
@@ -13678,14 +13678,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5893.9400000000005,
   "fine": 5894.64,
   "testo": "13",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5895.5,
   "fine": 5896.34,
   "testo": "no, non",
@@ -13699,14 +13699,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5896.34,
   "fine": 5896.86,
   "testo": "prendi",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5898.14,
   "fine": 5898.84,
   "testo": "chiudo",
@@ -13727,7 +13727,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5909.36,
   "fine": 5910.24,
   "testo": "così",
@@ -13741,7 +13741,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5911.38,
   "fine": 5912.62,
   "testo": "non",
@@ -13755,7 +13755,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 5913.58,
   "fine": 5914.32,
   "testo": "mesi",
@@ -13832,7 +13832,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5955.04,
   "fine": 5959.42,
   "testo": "sì perché c 'ho tutti davanti io mi posso mettere a 4 zante o qua",
@@ -13860,7 +13860,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5974.66,
   "fine": 5978.34,
   "testo": "penso che lo vedo quello lì quello che ha attaccato Panni prima",
@@ -13874,7 +13874,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5980.3,
   "fine": 5984.6,
   "testo": "devi cucinare cioè giusto giusto giusto",
@@ -13888,7 +13888,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 5986.02,
   "fine": 5987.2,
   "testo": "non ci arrivo vedi?",
@@ -13937,7 +13937,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6007.58,
   "fine": 6010.9,
   "testo": "si? si vabbè io sto su quel quadretto qui qua",
@@ -13958,7 +13958,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6012.02,
   "fine": 6013.759999999999,
   "testo": "ok ciri",
@@ -14112,7 +14112,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6061.6,
   "fine": 6065.58,
   "testo": "sempre così quindi",
@@ -14154,7 +14154,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6094.5,
   "fine": 6095.64,
   "testo": "è",
@@ -14168,7 +14168,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6103.16,
   "fine": 6107.88,
   "testo": "4 ma non hai fatto rotolastro non hai fatto un attacco",
@@ -14196,7 +14196,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6117.0,
   "fine": 6124.82,
   "testo": "un attacco l 'ho fatto un anno allora l",
@@ -14280,7 +14280,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6156.1,
   "fine": 6159.04,
   "testo": "no io guardo esercitio io guardo",
@@ -14301,14 +14301,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6164.9400000000005,
   "fine": 6166.34,
   "testo": "allora",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6168.4,
   "fine": 6174.98,
   "testo": "ma sopra fa l 'ultimo attacco posso questo è diciamo fuori dai",
@@ -14322,7 +14322,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6176.12,
   "fine": 6176.54,
   "testo": "voglio",
@@ -14336,14 +14336,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6178.22,
   "fine": 6181.56,
   "testo": "bene",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6181.56,
   "fine": 6183.56,
   "testo": "qualsiasi attacco non devi",
@@ -14357,7 +14357,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6188.52,
   "fine": 6190.12,
   "testo": "non devo tirare colpi tira",
@@ -14371,7 +14371,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6197.48,
   "fine": 6198.7,
   "testo": "uccidi",
@@ -14406,7 +14406,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6200.66,
   "fine": 6202.88,
   "testo": "'è rischio se fai uno no",
@@ -14420,7 +14420,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6204.96,
   "fine": 6213.84,
   "testo": "11 ah 1 se riuscivo a uccidere un goblin enorme 4 sarebbe quindi e",
@@ -14434,7 +14434,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6224.78,
   "fine": 6229.48,
   "testo": "prende qualcosa se volete io mi",
@@ -14462,7 +14462,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6250.0599999999995,
   "fine": 6250.86,
   "testo": "la",
@@ -14490,7 +14490,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6266.32,
   "fine": 6271.72,
   "testo": "più forza",
@@ -14644,7 +14644,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6352.96,
   "fine": 6362.8,
   "testo": "al di... Ah, ah, ah, entriamo e facciamo un cliffhanger. Facciamo un cliffhanger all 'interno. Ce l 'hai? Ce l 'hai?",
@@ -14658,14 +14658,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6364.2,
   "fine": 6366.32,
   "testo": "detto più volte cliffhanger e che attacchi.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6368.88,
   "fine": 6371.9,
   "testo": "Attacchi, attacchi, attacchi, attacchi. Che attacchi non è da segno.",
@@ -14679,7 +14679,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6375.119999999999,
   "fine": 6376.24,
   "testo": "Ah, per",
@@ -14707,7 +14707,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6382.2,
   "fine": 6382.46,
   "testo": "Ok.",
@@ -14721,7 +14721,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6418.06,
   "fine": 6418.6,
   "testo": "Esposizione?",
@@ -14875,7 +14875,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6462.62,
   "fine": 6462.92,
   "testo": "Esatto.",
@@ -14945,7 +14945,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6496.78,
   "fine": 6500.8,
   "testo": "abbatto questo, ci dobbiamo tagliare le spalle. Beh, non vi dico tutto quello",
@@ -14959,7 +14959,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6500.8,
   "fine": 6500.9,
   "testo": "vi",
@@ -14973,7 +14973,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6500.9,
   "fine": 6503.74,
   "testo": "Ma la descrizione del... del parquet che c 'è qua, quindi non",
@@ -14987,14 +14987,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6503.74,
   "fine": 6503.96,
   "testo": "così.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6505.620000000001,
   "fine": 6507.72,
   "testo": "Ho quantomeno chiederlo prima di entrare.",
@@ -15092,7 +15092,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6563.68,
   "fine": 6565.28,
   "testo": "lo sai, no? Tu lo sai, no? Andiamo.",
@@ -15106,7 +15106,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6568.26,
   "fine": 6568.6,
   "testo": "siamo.",
@@ -15183,7 +15183,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6611.6,
   "fine": 6615.06,
   "testo": "Che la manovra per cucinare. Sì. Che",
@@ -15295,7 +15295,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6663.32,
   "fine": 6664.3,
   "testo": "è così. Non è",
@@ -15309,7 +15309,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6665.099999999999,
   "fine": 6665.8,
   "testo": "Siamo... Non",
@@ -15323,21 +15323,21 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6665.8,
   "fine": 6666.16,
   "testo": "dubbio.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6667.44,
   "fine": 6667.96,
   "testo": "Invitati.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6668.58,
   "fine": 6669.72,
   "testo": "Invitati? Per il cibo.",
@@ -15351,14 +15351,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6671.76,
   "fine": 6672.28,
   "testo": "Auto.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6672.28,
   "fine": 6673.12,
   "testo": "Siamo tre auto.",
@@ -15477,7 +15477,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6699.86,
   "fine": 6700.28,
   "testo": "invitati.",
@@ -15491,63 +15491,63 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6701.76,
   "fine": 6707.16,
   "testo": "fratello, con le semente trampola, legge Venimo Stilton. Nonostante non sono l 'avessero emulato, è un carattere.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6708.64,
   "fine": 6711.48,
   "testo": "Oddio, sì, è vero. Ma chi era il cugino?",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6711.94,
   "fine": 6714.72,
   "testo": "No, il cugino legge Venimo Stilton era trampola.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6714.84,
   "fine": 6714.94,
   "testo": "Eh.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6715.36,
   "fine": 6719.0,
   "testo": "Eh. Però il fratello di Remy assomiglia a un campano.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6719.540000000001,
   "fine": 6721.74,
   "testo": "Sì, il fratello. Non era un amico. Metti la",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6721.74,
   "fine": 6721.98,
   "testo": "mano.",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6722.16,
   "fine": 6731.98,
   "testo": "Non era un amico. Ma noi eravamo tutti, veramente, tutti... Ehi, erano... Era una madre di tutti. Però non era fratello. È il fratello che",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6731.98,
   "fine": 6732.32,
   "testo": "ha avuto i",
@@ -15561,7 +15561,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6732.32,
   "fine": 6732.44,
   "testo": "È",
@@ -15575,14 +15575,14 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6732.44,
   "fine": 6734.08,
   "testo": "il padre. Il topaglio. E'",
   "etichetta": "SPEAKER_05"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6734.32,
   "fine": 6737.42,
   "testo": "tutta una famiglia. Una topaglia.",
@@ -15603,7 +15603,7 @@
   "etichetta": "SPEAKER_04"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6739.64,
   "fine": 6740.16,
   "testo": "Topificio.",
@@ -15897,14 +15897,14 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6806.0,
   "fine": 6811.62,
   "testo": "Sembra che dai 650 al passo del livello. Sì. 650. Esatto.",
   "etichetta": "SPEAKER_01"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6812.94,
   "fine": 6815.02,
   "testo": "Perché con 500 vado a 2100.",
@@ -15918,7 +15918,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6818.660000000001,
   "fine": 6822.12,
   "testo": "Perché l 'ultima volta... Guerriero 2100. Due volte fa...",
@@ -15939,7 +15939,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6823.98,
   "fine": 6827.04,
   "testo": "700... Guerriero? ...e lei ha dato 600.",
@@ -15995,7 +15995,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6837.52,
   "fine": 6838.68,
   "testo": "Prendo un talento?",
@@ -16023,7 +16023,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6840.7,
   "fine": 6841.0,
   "testo": "Ok.",
@@ -16086,7 +16086,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6847.62,
   "fine": 6847.86,
   "testo": "no.",
@@ -16324,7 +16324,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6890.72,
   "fine": 6895.1,
   "testo": "di base, di natura, passi via le prime. Le mele?",
@@ -16338,7 +16338,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6901.74,
   "fine": 6902.74,
   "testo": "Scusa, ma quindi i... Scusa,",
@@ -16352,7 +16352,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6902.74,
   "fine": 6909.5,
   "testo": "Io che sono Cavaliere, quindi passerei a 2250. Sì. Sì, ricontro... Io ricontrovo...",
@@ -16366,7 +16366,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6914.96,
   "fine": 6916.04,
   "testo": "vorrei sapere...",
@@ -16380,7 +16380,7 @@
   "etichetta": "SPEAKER_00"
  },
  {
-  "parlante": "Flama (Slurbel)",
+  "parlante": "Flama",
   "inizio": 6916.26,
   "fine": 6916.46,
   "testo": "...se",
@@ -16394,7 +16394,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6917.68,
   "fine": 6918.38,
   "testo": "No, mi",
@@ -16408,7 +16408,7 @@
   "etichetta": "SCONOSCIUTO"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6918.38,
   "fine": 6920.1,
   "testo": "Così riarrivare a cinque punti ferita,",
@@ -16422,7 +16422,7 @@
   "etichetta": "SPEAKER_02"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6920.7,
   "fine": 6921.74,
   "testo": "sono 2100.",
@@ -16485,7 +16485,7 @@
   "etichetta": "SPEAKER_03"
  },
  {
-  "parlante": "Andrea (Oleggio)",
+  "parlante": "Andrea",
   "inizio": 6935.3,
   "fine": 6936.34,
   "testo": "Dumbildung",

@@ -1,9 +1,9 @@
-[00:00] Andrea (Oleggio): Gli abbiamo messo da parte un sacco le cose.
+[00:00] Andrea: Gli abbiamo messo da parte un sacco le cose.
 [00:02] non attribuito: Ma
 [00:02] Claudia: perché siamo... L
 [00:04] SCONOSCIUTO: 'ultima
 [00:04] Claudia: volta sì. Dov 'è che stavamo? Sì,
-[00:07] Andrea (Oleggio): stavamo
+[00:07] Andrea: stavamo
 [00:08] Claudia: là. Da qua eravamo sotto, siamo risaliti. Vabbè, in qualche modo siamo arrivati qua che c 'erano tutte le colonne. Ci siamo messi a guardare le colonne e non ci stava niente. Il
 [00:20] non attribuito: quadro c 'era lì, no?
 [00:21] Claudia: Esatto, e poi c 'era... era sempre là, vero? No, credo che... no.
@@ -35,11 +35,11 @@
 [01:36] Vanni: spada che tu sei rubato.
 [01:38] Claudia: C 'era il dipinto questo.
 [01:39] Vanni: Diciamolo. Rubata te la sei.
-[01:44] Flama (Slurbel): Spada 9.
+[01:44] Flama: Spada 9.
 [01:45] Claudia: Vabbè, insomma, alla fine abbiamo trovato i nomi. Che erano Ceder e Sercidio. E... E ci fanno entrare in una stanza rotonda, questa.
-[01:55] Andrea (Oleggio): Dove al centro c 'è?
+[01:55] Andrea: Dove al centro c 'è?
 [01:56] Claudia: Un fantasma che con voce supplichevole e sofferente ci chiede... Aiutatemi a tornare da lei. Fine.
-[02:04] Andrea (Oleggio): Questo era anche il fan.
+[02:04] Andrea: Questo era anche il fan.
 [02:06] Vanni: Poi, che
 [02:07] SCONOSCIUTO: so,
 [02:07] Vanni: quelle cose che iniziano così...
@@ -52,7 +52,7 @@
 [02:34] Custode: traslucido, ovviamente, come ogni buon fantasma che si rispetti. Che... Ah, qua. Indossa una armatura completa... Chiaramente non da battaglia, ma da cerimonia. Quindi è un 'armatura bella e pesante, no? Insomma, tutta in vigore, eccetera.
 [02:52] SCONOSCIUTO: E... L
 [02:53] Custode: 'armatura
-[02:54] Andrea (Oleggio): è... È fantasma o è una vera armatura? No, ma sì,
+[02:54] Andrea: è... È fantasma o è una vera armatura? No, ma sì,
 [02:57] Custode: è fantasma anche l 'armatura. È fantastica. Sembra come
 [03:00] SCONOSCIUTO: un
 [03:00] Custode: fantasma
@@ -60,7 +60,7 @@
 [03:01] Custode: Sì, e... Loro. Tutti quanti dovreste fare, per favore, una prova di salvezza su...
 [03:10] non attribuito: Fantasma.
 [03:11] Custode: Sagezza?
-[03:13] Andrea (Oleggio): No,
+[03:13] Andrea: No,
 [03:13] Custode: è... Sagezza.
 [03:14] SCONOSCIUTO: No, è...
 [03:15] Custode: Saura.
@@ -70,10 +70,10 @@
 [03:22] Custode: Arrivate dalla مس anno
 [03:24] SCONOSCIUTO: stesso
 [03:24] Custode: qua adesso siamo praticamenteету retiring
-[03:41] Andrea (Oleggio): Perché
+[03:41] Andrea: Perché
 [03:42] Vanni: devo stron productos dice incantesimo penso di essere una pippa incantesimo
 [03:47] Custode: mi pare che era into no io so più forte incantesimo no io mi ricordo che era che era combattente che era che era
-[03:58] Andrea (Oleggio): diciamo normale come lo vedo quindi
+[03:58] Andrea: diciamo normale come lo vedo quindi
 [04:01] non attribuito: sopra si
 [04:04] non attribuito: però non sei normale
 [04:05] Claudia: io no
@@ -85,7 +85,7 @@
 [04:22] Custode: è successo si è sopra quindi dovete superare il
 [04:28] Custode: incantesimo facciamolo su quello più alto si blocco
 [04:33] Vanni: blocco blocco
-[04:34] Flama (Slurbel): blocco dove è blocco
+[04:34] Flama: blocco dove è blocco
 [04:36] SCONOSCIUTO: blocco
 [04:38] Vanni: io non ho passato io
 [04:40] Claudia: qualcuno quindi dobbiamo farlo più alto dovete
@@ -95,7 +95,7 @@
 [04:46] Claudia: ho fatto più alto 18 bene
 [04:48] Custode: no
 [04:50] Custode: sarà solo Claudia ho fatto due allora solo Claudia riesce a sentire quello che dice tu sai benissimo chi è questo uomo davanti anche se non lo hai mai visto sai
-[05:01] Andrea (Oleggio): chi è è Sercidio però scusa ma non è cioè non è credibile che non lo riconoscano l
+[05:01] Andrea: chi è è Sercidio però scusa ma non è cioè non è credibile che non lo riconoscano l
 [05:07] Custode: 'avrò visto pure in sogno è vero questo hai ragionissimo però la vista diciamo di un
 [05:15] Custode: improvvisa che non te l 'aspettavi di un fantasma non ti ha sconfimperato no quindi solo Secchio di Brodo
 [05:25] Custode: riesce a a
@@ -116,11 +116,11 @@
 [06:23] non attribuito: io ho un po' di storie così io direi
 [06:25] Claudia: che stiamo andando anche lui da lei
 [06:29] Custode: io so che tu sai dov 'è tu
-[06:32] Andrea (Oleggio): sei
+[06:32] Andrea: sei
 [06:32] Custode: stato
 [06:33] SCONOSCIUTO: tu
 [06:34] Custode: sei stato sul mondo
-[06:37] Andrea (Oleggio): portatemi da lei ti prego
+[06:37] Andrea: portatemi da lei ti prego
 [06:41] SCONOSCIUTO: e ti prego
 [06:41] Vanni: siamo spaventati ah già
 [06:43] non attribuito: noi ti guardiamo ah ah ah
@@ -130,15 +130,15 @@
 [07:01] Vanni: per te
 [07:02] non attribuito: ne ho fatto uno non mi
 [07:03] Claudia: metto
-[07:04] Flama (Slurbel): svegliata ma
+[07:04] Flama: svegliata ma
 [07:05] Vanni: lui lui vuole lei non lui questo è vero niente niente possiamo
-[07:09] Flama (Slurbel): dire che azzaporra su sta avventura è andrea non so più io per una volta
+[07:09] Flama: dire che azzaporra su sta avventura è andrea non so più io per una volta
 [07:14] Custode: avventura voluta lui tra l 'altro eh vabbè quindi tu li li lisci ah perché ero più trasquadro
-[07:21] Andrea (Oleggio): e andate andate
-[07:24] Andrea (Oleggio): io proprio non ne ho addormento io ne uno ho fatto
+[07:21] Andrea: e andate andate
+[07:24] Andrea: io proprio non ne ho addormento io ne uno ho fatto
 [07:31] SCONOSCIUTO: ma ci
 [07:32] Claudia: facciamo sedire da un fantasma? adesso lo sento
-[07:34] Flama (Slurbel): adesso
+[07:34] Flama: adesso
 [07:35] Vanni: lo senti? io
 [07:35] SCONOSCIUTO: già
 [07:35] Vanni: avrei un appunto da fare a questo fantasma
@@ -148,12 +148,12 @@
 [07:44] Custode: che ti prendi il mio neve
 [07:47] Custode: e vindica il suo sarcopa io come c 'era nel lato da dentro
 [07:51] SCONOSCIUTO: io lo vivo solo tra l 'antidesso quindi portare con voi con voi quindi
-[07:58] Andrea (Oleggio): io non stiamo cioè noi non stiamo sentendo noi
+[07:58] Andrea: io non stiamo cioè noi non stiamo sentendo noi
 [08:00] SCONOSCIUTO: due
 [08:00] Custode: voi siete petrificati dalla paura quindi no però loro
-[08:04] Andrea (Oleggio): se
+[08:04] Andrea: se
 [08:04] non attribuito: ce lo riferiscono si si no beh quello però e
-[08:08] Andrea (Oleggio): noi ci hanno messo
+[08:08] Andrea: noi ci hanno messo
 [08:09] non attribuito: no però petrificati si si si così andremo a cantare ah
 [08:13] SCONOSCIUTO: no
 [08:17] SCONOSCIUTO: e
@@ -161,7 +161,7 @@
 [08:19] Vanni: fare qualcosa vi
 [08:21] Custode: dice che vi indica il sarcopa dietro di lui e io vivo solo tramite di esso non posso allontanarmene non posso staccarmene dovrete portarlo con voi tanto
 [08:35] SCONOSCIUTO: la mia amata
-[08:37] Flama (Slurbel): però qua c 'è un po' di differenza noi non possiamo portare la merda per voi non possiamo portare voi
+[08:37] Flama: però qua c 'è un po' di differenza noi non possiamo portare la merda per voi non possiamo portare voi
 [08:43] Custode: ma io non vivo senza il mio rello se esco dal suo braccio è
 [08:48] SCONOSCIUTO: andata a sbagliare ancora
 [08:50] SCONOSCIUTO: ancora
@@ -174,20 +174,20 @@
 [09:09] Custode: si
 [09:09] SCONOSCIUTO: si fate
 [09:09] Custode: il tiro sul D6 2 -2 sul D6 5 -6 riviviscite ancora più facile andante è andata scusa 1 no più andata lo leggo quanto
-[09:23] Andrea (Oleggio): hai fatto? no 4
+[09:23] Andrea: hai fatto? no 4
 [09:25] Custode: 2 hai fatto 1 ho fatto 2 volte 1 beh stai a scaricare speriamo che dopo che si possa servire meglio e
-[09:34] Andrea (Oleggio): c 'è se devo girare in un altro punto?
+[09:34] Andrea: c 'è se devo girare in un altro punto?
 [09:36] SCONOSCIUTO: si
-[09:37] Andrea (Oleggio): ti tira la catena nel bicchiere non lo so
+[09:37] Andrea: ti tira la catena nel bicchiere non lo so
 [09:40] Claudia: bene vado al cercofago io ho veramente l 'anello
-[09:44] Flama (Slurbel): ok ti seguo ti aiuto no? che mi fanno male il braccio esatto
+[09:44] Flama: ok ti seguo ti aiuto no? che mi fanno male il braccio esatto
 [09:50] Custode: allora effettivamente dentro al cercofago c 'è lo scheletro del cavaliere
 [09:55] SCONOSCIUTO: senza
 [09:56] Custode: armatura che
 [09:58] Vanni: colore è il cavaliere?
 [10:00] Vanni: nero bello
 [10:02] SCONOSCIUTO: che
-[10:03] Flama (Slurbel): caccia non glieli devi da cacca a te ah
+[10:03] Flama: caccia non glieli devi da cacca a te ah
 [10:05] Vanni: quello era lì volevi arrivare immagino volevo capire no lo scheletro è il colore delle ossa
 [10:12] non attribuito: eh
 [10:12] Vanni: non è in armatura o altro? no lo scheletro no cioè poi io non lo vedo però esatto
@@ -220,20 +220,20 @@
 [11:53] SCONOSCIUTO: fa
 [11:53] Custode: parte di quello che vi ha raccontato lui quindi voi in realtà state scoprendo altre cose quindi no quindi
 [12:01] Vanni: nella storia generale quella che conoscono tutti e che so senza dubbio fa un tiro a sta cosa che io non la sapevo esatto questa è la domanda quindi se mi dico io ma che cazzo sta mi posso sentire mi sono preso in giro cioè come se mi confuso si stanno
-[12:20] Flama (Slurbel): gabbando quello sì se
+[12:20] Flama: gabbando quello sì se
 [12:22] Vanni: fossi destro sì se fossi sinistro no nemmeno nell 'altro al momento ero una mebba io
 [12:31] Claudia: secondo me una cosa io ci prendo gli occhi di ametà come ditta il
 [12:36] Custode: fantasma vi guarda cioè espressione e vi guarda fiducioso perché sembra che avete abbiate accettato la sua proposta
-[12:47] Flama (Slurbel): noi tipo sì sì va bene
+[12:47] Flama: noi tipo sì sì va bene
 [12:52] Claudia: beh
 [12:55] Claudia: mi
-[12:55] Flama (Slurbel): aspetta braccialetti ametista braccialetti occhi ametista e l 'anello e l 'anello
+[12:55] Flama: aspetta braccialetti ametista braccialetti occhi ametista e l 'anello e l 'anello
 [13:00] Custode: che è l 'anello
-[13:01] Flama (Slurbel): non lo so
+[13:01] Flama: non lo so
 [13:05] Custode: allora lei fa si chiude il brodo si
 [13:09] non attribuito: ok
 [13:12] Custode: senti che questo anello effettivamente si esprigiona una grossa aurea magica cioè è bello putende
-[13:22] Andrea (Oleggio): ok
+[13:22] Andrea: ok
 [13:23] SCONOSCIUTO: si
 [13:26] Custode: cioè lo senti che non è un anellino
 [13:30] Custode: così ecco io
@@ -257,9 +257,9 @@
 [14:27] Custode: scossi li potrà rodare una mano si
 [14:32] SCONOSCIUTO: e
 [14:32] Custode: voi ora
-[14:33] Flama (Slurbel): che vi siete ripresi che ne pensate vi
+[14:33] Flama: che vi siete ripresi che ne pensate vi
 [14:34] SCONOSCIUTO: siete
-[14:34] Flama (Slurbel): ripresi
+[14:34] Flama: ripresi
 [14:35] Vanni: e vedete che quanto
 [14:36] Custode: abbiamo capito
 [14:36] Vanni: di quello che sta succedendo ah
@@ -267,7 +267,7 @@
 [14:50] Vanni: io vi riprendo
 [14:51] SCONOSCIUTO: che
 [14:51] Vanni: state facendo non si profanano
-[14:53] Andrea (Oleggio): le dombe quali amiche quali compagni io mi intendo un uomo un maschio
+[14:53] Andrea: le dombe quali amiche quali compagni io mi intendo un uomo un maschio
 [14:59] Custode: è vero vabbè Muschiolino e Leffa hanno aperto un
 [15:01] Claudia: uomo un mio padre hanno
 [15:03] Custode: aperto si ah
@@ -281,47 +281,47 @@
 [15:09] Custode: ragazzi non è che siamo tutti si avete detto i
 [15:12] SCONOSCIUTO: uomini
 [15:12] Custode: vabbè
-[15:13] Andrea (Oleggio): sono Mercurio
+[15:13] Andrea: sono Mercurio
 [15:14] Vanni: vabbè l 'elfo sicuro è questo
 [15:16] Custode: che ho fatto
 [15:17] Vanni: su questo uomo
 [15:18] Custode: questa traversata
-[15:19] Andrea (Oleggio): perché sono proprio su questo gruppo tutti uomini no cioè vabbè
+[15:19] Andrea: perché sono proprio su questo gruppo tutti uomini no cioè vabbè
 [15:24] non attribuito: la mia è una pianta
-[15:26] Andrea (Oleggio): vabbè infatti
+[15:26] Andrea: vabbè infatti
 [15:28] SCONOSCIUTO: no
-[15:28] Andrea (Oleggio): è fluida
+[15:28] Andrea: è fluida
 [15:29] Vanni: non ti riesci a a a
 [15:36] Custode: comunquezwischen vi siete ritestati quando ecco loro due hanno come giustamente ha fatto notare a Nanta, hanno profanato il sarcopalo io
-[15:45] Andrea (Oleggio): vedendolo riconosco immediatamente che è Ser Cidio sai che lui riconosce l 'armatura, l 'aldica...
+[15:45] Andrea: vedendolo riconosco immediatamente che è Ser Cidio sai che lui riconosce l 'armatura, l 'aldica...
 [15:54] SCONOSCIUTO: tipo
-[15:54] Andrea (Oleggio): io non sapendo quello che è successo prima dico lui è Ser Cidio e loro la
+[15:54] Andrea: io non sapendo quello che è successo prima dico lui è Ser Cidio e loro la
 [16:01] non attribuito: moche
 [16:05] SCONOSCIUTO: il
-[16:06] Andrea (Oleggio): punto è prendere l 'anello oppure no? avete trovato l 'anello? ma
+[16:06] Andrea: punto è prendere l 'anello oppure no? avete trovato l 'anello? ma
 [16:10] Vanni: che domande sono?
 [16:13] Vanni: io mi sono rotto le palle
 [16:16] Vanni: siamo venuti qua per sto cazzo di anello ma
-[16:19] Flama (Slurbel): io sono una pianta siamo
+[16:19] Flama: io sono una pianta siamo
 [16:21] Vanni: venuti qua per
-[16:22] Andrea (Oleggio): l 'anello l 'avete già preso?
-[16:23] Flama (Slurbel): sì
-[16:24] Andrea (Oleggio): era la missione prendere l 'anello l 'avete preso?
-[16:28] Flama (Slurbel): perché non lo prendi tu? Mergellina, come si chiama? Mergellina ah no ah
+[16:22] Andrea: l 'anello l 'avete già preso?
+[16:23] Flama: sì
+[16:24] Andrea: era la missione prendere l 'anello l 'avete preso?
+[16:28] Flama: perché non lo prendi tu? Mergellina, come si chiama? Mergellina ah no ah
 [16:33] SCONOSCIUTO: no
-[16:33] Flama (Slurbel): però
+[16:33] Flama: però
 [16:34] Vanni: io lo chiederei al padrone è qui con noi salve
 [16:40] Claudia: tutto bene
 [16:43] Claudia: facciamo prendere a lui
-[16:45] Andrea (Oleggio): prendiamolo
-[16:47] Andrea (Oleggio): facciamo prendere
+[16:45] Andrea: prendiamolo
+[16:47] Andrea: facciamo prendere
 [16:48] Claudia: l 'anello e portarlo alla gamba
 [16:51] Claudia: vabbè vedi tu con Ser Cidio però
-[16:53] Andrea (Oleggio): aspetta Marco
+[16:53] Andrea: aspetta Marco
 [16:57] SCONOSCIUTO: noi
-[16:57] Andrea (Oleggio): non abbiamo sentito cioè io e il Nanta non abbiamo sentito quello che ha detto prima di Ser Cidio sul fatto che lui si allontana dalla mia erba io comunque
+[16:57] Andrea: non abbiamo sentito cioè io e il Nanta non abbiamo sentito quello che ha detto prima di Ser Cidio sul fatto che lui si allontana dalla mia erba io comunque
 [17:07] Vanni: mi
-[17:07] Andrea (Oleggio): inquino
+[17:07] Andrea: inquino
 [17:07] Vanni: io comunque mi inquino a Ser Cidio è un piacere incontrarla
 [17:16] Custode: lei
 [17:17] Vanni: è
@@ -348,39 +348,39 @@
 [18:46] Vanni: perché l 'amore vince su
 [18:47] SCONOSCIUTO: tutto
 [18:53] non attribuito: però
-[18:53] Andrea (Oleggio): a quel punto io mi desto un
+[18:53] Andrea: a quel punto io mi desto un
 [18:55] SCONOSCIUTO: attimo ti
-[18:55] Andrea (Oleggio): puzza io mi desto un attimo dove dovresti
-[18:58] Flama (Slurbel): reagire a questo punto?
-[18:59] Andrea (Oleggio): dalle mie
-[19:03] Andrea (Oleggio): cioè dal mio innamoramento
-[19:08] Andrea (Oleggio): mi desto un attimo e mi puzza pure a
+[18:55] Andrea: puzza io mi desto un attimo dove dovresti
+[18:58] Flama: reagire a questo punto?
+[18:59] Andrea: dalle mie
+[19:03] Andrea: cioè dal mio innamoramento
+[19:08] Andrea: mi desto un attimo e mi puzza pure a
 [19:12] SCONOSCIUTO: me
-[19:12] Andrea (Oleggio): questa cosa
-[19:13] Andrea (Oleggio): per due motivi
-[19:17] Flama (Slurbel): per me
-[19:19] Andrea (Oleggio): quello più importante è che il motivo più importante è che non tanto esserci io
-[19:31] Andrea (Oleggio): ma che c 'è un rivale in amore adesso per
+[19:12] Andrea: questa cosa
+[19:13] Andrea: per due motivi
+[19:17] Flama: per me
+[19:19] Andrea: quello più importante è che il motivo più importante è che non tanto esserci io
+[19:31] Andrea: ma che c 'è un rivale in amore adesso per
 [19:34] Custode: me
-[19:35] Andrea (Oleggio): è quella cosa che mi ha tappato la rena e poi anche sono d 'accordo con Dante
-[19:45] Andrea (Oleggio): non mi quadra questa cosa qualcosa
+[19:35] Andrea: è quella cosa che mi ha tappato la rena e poi anche sono d 'accordo con Dante
+[19:45] Andrea: non mi quadra questa cosa qualcosa
 [19:48] Vanni: non torna amico non
 [19:49] SCONOSCIUTO: mi
-[19:49] Andrea (Oleggio): quadra l 'anello è l 'unica prova che rimasta mi
+[19:49] Andrea: quadra l 'anello è l 'unica prova che rimasta mi
 [19:56] Vanni: scusi non
 [19:57] Custode: dovete riportarlo lì e i mondi si separeranno per sempre io
 [20:02] Vanni: la rispetto messere Giglio ma qualcosa non va abbiamo avuto una missiva chiamiamola così dalla sua lei che si è promessa in sposa al mio amico in cambio dell 'anello qualcosa non torna a lui?
-[20:24] Andrea (Oleggio): io sono un cavaliere
-[20:27] Andrea (Oleggio): però
+[20:24] Andrea: io sono un cavaliere
+[20:27] Andrea: però
 [20:27] Vanni: se lei è l 'anello l 'anello è lei e lei chiede di lei attraverso l 'anello
-[20:34] Andrea (Oleggio): non si inanellano le cose no
+[20:34] Andrea: non si inanellano le cose no
 [20:38] Vanni: per niente
-[20:40] Andrea (Oleggio): giovane amico non devi angosciarti
-[20:46] Andrea (Oleggio): lei
+[20:40] Andrea: giovane amico non devi angosciarti
+[20:46] Andrea: lei
 [20:47] SCONOSCIUTO: ti
-[20:48] Andrea (Oleggio): ha usato come
+[20:48] Andrea: ha usato come
 [20:49] Custode: cane per
-[20:49] Andrea (Oleggio): fare qui ma troverai
+[20:49] Andrea: fare qui ma troverai
 [20:53] Custode: altro amore fuori da te
 [20:56] SCONOSCIUTO: ma
 [20:56] Custode: ti prego adesso aiutami a separare i due mondi io rimarrò lì non tornerò mai più qui
@@ -390,37 +390,37 @@
 [21:11] Vanni: è sicuro che c 'è una torre e non un vulcano? è
 [21:15] non attribuito: vero
 [21:18] SCONOSCIUTO: lei
-[21:19] Andrea (Oleggio): l 'ha vista si ma tu ce l 'avevi anche riferito? si ecco perché non la capivo ahahahah
-[21:30] Andrea (Oleggio): diciamo meglio lei c 'è stata si
-[21:34] Andrea (Oleggio): lui lei lui lei
+[21:19] Andrea: l 'ha vista si ma tu ce l 'avevi anche riferito? si ecco perché non la capivo ahahahah
+[21:30] Andrea: diciamo meglio lei c 'è stata si
+[21:34] Andrea: lui lei lui lei
 [21:36] Vanni: sti enti che non si capisce
-[21:38] Andrea (Oleggio): mai lady boy come era lei che vuole tu? a lui
+[21:38] Andrea: mai lady boy come era lei che vuole tu? a lui
 [21:42] non attribuito: gli
-[21:42] Andrea (Oleggio): piace lei
+[21:42] Andrea: piace lei
 [21:42] non attribuito: a lui gli piace lei e a lei?
-[21:44] Andrea (Oleggio): a
+[21:44] Andrea: a
 [21:44] non attribuito: lui gli
-[21:45] Andrea (Oleggio): piace voi
+[21:45] Andrea: piace voi
 [21:46] non attribuito: adesso
 [21:48] non attribuito: non ci capisco
-[21:53] Andrea (Oleggio): io guardo andante e gli altri due compagni
+[21:53] Andrea: io guardo andante e gli altri due compagni
 [21:58] Vanni: non ci sto capendo molto lezzo
-[22:01] Andrea (Oleggio): e gli dico
-[22:03] Andrea (Oleggio): questa cosa non mi piace lo sai che gli dico? perdiamo la mano
+[22:01] Andrea: e gli dico
+[22:03] Andrea: questa cosa non mi piace lo sai che gli dico? perdiamo la mano
 [22:11] Vanni: ma non è così che funziona lo scusi signor Cicchio non ha capito nulla ma
 [22:17] SCONOSCIUTO: no
 [22:17] Vanni: potrebbe
-[22:17] Flama (Slurbel): rimascoltarci un attimo
+[22:17] Flama: rimascoltarci un attimo
 [22:19] Vanni: ahahahah se
 [22:19] Custode: lo potrebbe andare un attimo
-[22:20] Flama (Slurbel): si basta darci le spalle
-[22:25] Andrea (Oleggio): si tappi le cavità
+[22:20] Flama: si basta darci le spalle
+[22:25] Andrea: si tappi le cavità
 [22:28] SCONOSCIUTO: ahahahah si è come
 [22:30] Vanni: prendere in braccio un goblin per scappare dal goblin perché
-[22:34] Andrea (Oleggio): lui segue
+[22:34] Andrea: lui segue
 [22:37] SCONOSCIUTO: lui
 [22:38] Vanni: vive nell 'anello vero? ma
-[22:40] Andrea (Oleggio): questa cosa io non l 'ho sentita prima ma te
+[22:40] Andrea: questa cosa io non l 'ho sentita prima ma te
 [22:43] Vanni: l 'abbiamo detta noi no
 [22:44] SCONOSCIUTO: no
 [22:44] Vanni: guarda la vedetta ah
@@ -433,11 +433,11 @@
 [22:53] SCONOSCIUTO: in
 [22:53] Custode: teoria è la D
 [22:53] SCONOSCIUTO: no
-[22:53] Flama (Slurbel): no slurben
+[22:53] Flama: no slurben
 [22:55] Custode: slurber è la D e questa è la di
-[22:57] Flama (Slurbel): Elesi? eh aspetta adesso adesso
+[22:57] Flama: Elesi? eh aspetta adesso adesso
 [23:00] Custode: chiamato la di Elesi adesso
-[23:02] Flama (Slurbel): la di
+[23:02] Flama: la di
 [23:02] Custode: l
 [23:02] SCONOSCIUTO: 'ol
 [23:02] Custode: l 'ol come
@@ -448,36 +448,36 @@
 [23:11] non attribuito: ehm va di
 [23:13] SCONOSCIUTO: Elesi
 [23:14] non attribuito: no di Elesi no no
-[23:21] Flama (Slurbel): di Elesi alloraỏi
+[23:21] Flama: di Elesi alloraỏi
 [23:51] Vanni: robi
-[23:52] Andrea (Oleggio): Dante a lei?
+[23:52] Andrea: Dante a lei?
 [23:53] Vanni: Vabbè, amico lezio.
 [23:58] Vanni: Amico di a Dante. La
 [24:00] Custode: botta di prima non va mai.
 [24:04] Vanni: Perché non ti fermi un attimo a parlare come Sera e Cilio?
 [24:11] Vanni: Anche conosciuto nel regno delle pade come Sera e Cilio.
-[24:19] Andrea (Oleggio): Io con quello non ci parlo. Non
+[24:19] Andrea: Io con quello non ci parlo. Non
 [24:21] Vanni: possiamo mangargli di rispetto, siamo vivi grazie a lui.
 [24:27] Vanni: Diciamolo.
-[24:31] Flama (Slurbel): Lascia l 'orgoglio, parla con Sera e Cilio.
+[24:31] Flama: Lascia l 'orgoglio, parla con Sera e Cilio.
 [24:34] Vanni: Ma chi è? Sera
-[24:35] Flama (Slurbel): e Cilio. Ma sono orgoglio. Io sono Oleggio.
-[24:40] Flama (Slurbel): Oleggio, stiamo qua per te e andiamo?
+[24:35] Flama: e Cilio. Ma sono orgoglio. Io sono Oleggio.
+[24:40] Flama: Oleggio, stiamo qua per te e andiamo?
 [24:44] non attribuito: Oleggio. Oleggio.
 [24:49] Claudia: Temporeggio, dai. Ma
-[24:50] Andrea (Oleggio): è Sera e Cilio.
+[24:50] Andrea: è Sera e Cilio.
 [24:53] SCONOSCIUTO: Chi
-[24:53] Andrea (Oleggio): vuole che parli?
+[24:53] Andrea: vuole che parli?
 [24:54] Custode: Per Cilio si rigira?
-[24:56] Andrea (Oleggio): Ok. Da cavaliere a cavaliere.
+[24:56] Andrea: Ok. Da cavaliere a cavaliere.
 [25:06] SCONOSCIUTO: E
-[25:06] Flama (Slurbel): lui ne sta ascoltando.
+[25:06] Flama: lui ne sta ascoltando.
 [25:08] non attribuito: Esatto.
 [25:10] non attribuito: Ti fa appenere, dai.
 [25:14] non attribuito: Qua non scherzo lo sticchio. Io
-[25:17] Andrea (Oleggio): sono stato portato qua dalla dama. In pezzo, o quasi.
+[25:17] Andrea: sono stato portato qua dalla dama. In pezzo, o quasi.
 [25:22] non attribuito: Dama, dama.
-[25:24] Andrea (Oleggio): La castelmadama.
+[25:24] Andrea: La castelmadama.
 [25:28] SCONOSCIUTO: Tu
 [25:28] non attribuito: pare guardi questa dama.
 [25:33] SCONOSCIUTO: E
@@ -488,35 +488,35 @@
 [25:38] SCONOSCIUTO: ci
 [25:38] non attribuito: arrivava.
 [25:41] non attribuito: Quello era il tuo.
-[25:43] Flama (Slurbel): Non
+[25:43] Flama: Non
 [25:43] non attribuito: credo.
-[25:45] Andrea (Oleggio): Milita. Puoi
-[25:46] Flama (Slurbel): assaggiare così una bottiglia?
-[25:48] Andrea (Oleggio): Lei.
-[25:48] Flama (Slurbel): No. Che
-[25:50] Andrea (Oleggio): intenzioni ha
-[25:51] Flama (Slurbel): con
-[25:52] Andrea (Oleggio): la fanciulla?
+[25:45] Andrea: Milita. Puoi
+[25:46] Flama: assaggiare così una bottiglia?
+[25:48] Andrea: Lei.
+[25:48] Flama: No. Che
+[25:50] Andrea: intenzioni ha
+[25:51] Flama: con
+[25:52] Andrea: la fanciulla?
 [25:54] non attribuito: Io
-[25:54] Andrea (Oleggio): voglio solo
+[25:54] Andrea: voglio solo
 [25:55] non attribuito: sposarla.
 [25:57] Custode: È lì che mi aspetta questo avviso.
 [25:59] SCONOSCIUTO: Ha
 [26:00] Custode: stato in mezza. Vabbè.
-[26:02] Andrea (Oleggio): Mi dispiace se ti ha mentito. Anche a me. Anche io avevo una promessa, sa? Anche io avevo una promessa. Mi
+[26:02] Andrea: Mi dispiace se ti ha mentito. Anche a me. Anche io avevo una promessa, sa? Anche io avevo una promessa. Mi
 [26:11] SCONOSCIUTO: ha
-[26:11] Andrea (Oleggio): ammaripolato. Mi ha ammaripolato, esatto.
-[26:14] Andrea (Oleggio): Io scusa per lei. Ma sarai ricompensato. Con cosa? Con quello che vuoi.
+[26:11] Andrea: ammaripolato. Mi ha ammaripolato, esatto.
+[26:14] Andrea: Io scusa per lei. Ma sarai ricompensato. Con cosa? Con quello che vuoi.
 [26:21] non attribuito: Sarino.
-[26:22] Andrea (Oleggio): Daniello. Sarino. Sarino.
+[26:22] Andrea: Daniello. Sarino. Sarino.
 [26:24] SCONOSCIUTO: Sarino.
 [26:24] Claudia: Voglio.
 [26:25] SCONOSCIUTO: Ma
-[26:26] Andrea (Oleggio): tu vuoi venire sbagliata.
+[26:26] Andrea: tu vuoi venire sbagliata.
 [26:27] Claudia: Ma paghiere. Ma scusa, ce
-[26:28] Andrea (Oleggio): la
+[26:28] Andrea: la
 [26:29] SCONOSCIUTO: c
-[26:29] Andrea (Oleggio): 'ero.
+[26:29] Andrea: 'ero.
 [26:29] Claudia: Ma paghiere a piedi. Non
 [26:30] SCONOSCIUTO: c 'era come
 [26:30] Claudia: questo. Mi
@@ -531,19 +531,19 @@
 [26:40] non attribuito: Non togliati. Non
 [26:41] SCONOSCIUTO: togliati.
 [26:44] Claudia: Ma scegliammi di riaprire il mondo di fate.
-[26:50] Andrea (Oleggio): Quindi lei vuole portare l 'agnello... ma come si chiama l 'elfa? Sapeva un nome.
+[26:50] Andrea: Quindi lei vuole portare l 'agnello... ma come si chiama l 'elfa? Sapeva un nome.
 [26:56] Claudia: Sezza.
-[26:56] Andrea (Oleggio): Elfa Sezza. Elfa Sezza. Enzo
+[26:56] Andrea: Elfa Sezza. Elfa Sezza. Enzo
 [26:59] Claudia: Sezza.
 [27:01] SCONOSCIUTO: È
 [27:01] Claudia: proprio lei.
-[27:03] Andrea (Oleggio): Elfa Alfa.
+[27:03] Andrea: Elfa Alfa.
 [27:04] Claudia: Il personaggio di Francesca Ciuffa in...
 [27:10] Claudia: Io
 [27:11] Custode: conosci questa si chiama Nevicata al crepuscolo. Nevicata al crepuscolo.
-[27:16] Andrea (Oleggio): Ah. Va bene, la chiameremo Biancaneve.
+[27:16] Andrea: Ah. Va bene, la chiameremo Biancaneve.
 [27:19] Custode: Sì. Dai. O Crepu.
-[27:21] Flama (Slurbel): Come
+[27:21] Flama: Come
 [27:21] Custode: scusami? Crepax. O Scolo. La maggiorezza. Eh. Che ha nevicato
 [27:26] Vanni: al crepuscolo.
 [27:28] Vanni: Neva. Nevi, che
@@ -554,20 +554,20 @@
 [27:33] Vanni: Neve Ero.
 [27:33] non attribuito: Neve Ero.
 [27:37] Claudia: Vabbè, quindi la... E
-[27:39] Andrea (Oleggio): quindi...
+[27:39] Andrea: quindi...
 [27:40] Claudia: Sarai compensato. Se
-[27:42] Andrea (Oleggio): la aiutiamo a portare l 'agnello?
+[27:42] Andrea: la aiutiamo a portare l 'agnello?
 [27:45] SCONOSCIUTO: Avete
-[27:46] Andrea (Oleggio): anni e preditudini?
-[27:48] Andrea (Oleggio): Stavamo parlando di... E
+[27:46] Andrea: anni e preditudini?
+[27:48] Andrea: Stavamo parlando di... E
 [27:51] non attribuito: l
-[27:52] Andrea (Oleggio): 'agnello che è Nela. Vorrei...
+[27:52] Andrea: 'agnello che è Nela. Vorrei...
 [27:55] non attribuito: Cannello? Cannello?
-[27:57] Andrea (Oleggio): Vorrei essere ricompensato insieme agli amici.
+[27:57] Andrea: Vorrei essere ricompensato insieme agli amici.
 [28:00] non attribuito: Cannello, anella, chianela, anello. Eh...
-[28:03] Andrea (Oleggio): Serve del portafoglio?
+[28:03] Andrea: Serve del portafoglio?
 [28:05] SCONOSCIUTO: No.
-[28:06] Andrea (Oleggio): Si fa così? Eh? Non credo. C 'è il recitolo. Tidaro...
+[28:06] Andrea: Si fa così? Eh? Non credo. C 'è il recitolo. Tidaro...
 [28:12] Custode: Tindaro.
 [28:12] Vanni: No. L 'anello, anella, chianela, anello.
 [28:15] Claudia: Chi era Tindaro? L
@@ -579,21 +579,21 @@
 [28:19] SCONOSCIUTO: 'anello, chianela, anello.
 [28:19] Vanni: L 'anello,
 [28:20] SCONOSCIUTO: chianela, anello.
-[28:22] Andrea (Oleggio): Perché…
+[28:22] Andrea: Perché…
 [28:23] Vanni: Perché prot
 [28:26] SCONOSCIUTO: plantation cioè
 [28:26] Claudia: dura
 [28:27] Vanni: circa
 [28:32] SCONOSCIUTO: circa
-[28:32] Flama (Slurbel): circa circa
+[28:32] Flama: circa circa
 [28:33] Vanni: circa
 [28:39] SCONOSCIUTO: circa
-[28:39] Flama (Slurbel): circa circa
-[28:48] Andrea (Oleggio): Perché
+[28:39] Flama: circa circa
+[28:48] Andrea: Perché
 [28:50] SCONOSCIUTO: nell',
 [28:50] non attribuito: che fanno
-[28:51] Andrea (Oleggio): tizio lion
-[28:55] Andrea (Oleggio): progenare il mondo va
+[28:51] Andrea: tizio lion
+[28:55] Andrea: progenare il mondo va
 [28:57] Claudia: bene prendo l 'anello
 [28:58] Custode: aspetta gli risponde ti darò Giulielli a non finire
 [29:03] Claudia: e
@@ -604,34 +604,34 @@
 [29:17] Vanni: per
 [29:17] Custode: una volta non
 [29:18] Claudia: ancora è
-[29:20] Andrea (Oleggio): tipo l 'asterisco c 'è un contratto posso dire
+[29:20] Andrea: tipo l 'asterisco c 'è un contratto posso dire
 [29:27] Vanni: posso dire che te serve e un
 [29:32] Custode: amuleto
 [29:38] Custode: infinitamente potente va bene
-[29:41] Flama (Slurbel): mezzo che si dai c 'è anche il chiesa è proprio
+[29:41] Flama: mezzo che si dai c 'è anche il chiesa è proprio
 [29:47] Vanni: vero che ti farà più un po' di magia che mi faccio così allora
-[29:52] Andrea (Oleggio): ragazzi
+[29:52] Andrea: ragazzi
 [29:53] Custode: aspetta aspetta non è finita l 'amuleto che saldirà un tuo desiderio
 [30:00] Claudia: ah vabbè facile
-[30:01] Andrea (Oleggio): no pure qui c 'è la clausola no
+[30:01] Andrea: no pure qui c 'è la clausola no
 [30:05] Claudia: uno uno
 [30:08] SCONOSCIUTO: un
 [30:08] Claudia: desiderio lo ti darà una mano e ti e
 [30:11] Custode: ti ah giusto
-[30:14] Flama (Slurbel): anche nei periodi anche nei festivi
+[30:14] Flama: anche nei periodi anche nei festivi
 [30:16] Custode: ma anche festivi che sempre ok
-[30:19] Andrea (Oleggio): va bene ragazzi cioè
-[30:23] Andrea (Oleggio): allora io tengo l 'amuleto voi ci avrete voi a voi do i gioielli a
+[30:19] Andrea: va bene ragazzi cioè
+[30:23] Andrea: allora io tengo l 'amuleto voi ci avrete voi a voi do i gioielli a
 [30:31] Vanni: me batta la felicità l 'esercitio
 [30:37] SCONOSCIUTO: dai
 [30:37] Claudia: prendiamo il salone che
 [30:40] Vanni: sottone della chiesa
-[30:44] Flama (Slurbel): magari ci ritornano mi sembra che ma serio
-[30:47] Andrea (Oleggio): noi prendiamo l 'anghello e andremo dritti verso la
+[30:44] Flama: magari ci ritornano mi sembra che ma serio
+[30:47] Andrea: noi prendiamo l 'anghello e andremo dritti verso la
 [30:52] Vanni: morte probabilmente
-[30:53] Andrea (Oleggio): dritti verso l
+[30:53] Andrea: dritti verso l
 [30:55] non attribuito: 'agnello
-[30:55] Andrea (Oleggio): neva neva ok ornao orneva ornano
+[30:55] Andrea: neva neva ok ornao orneva ornano
 [31:01] non attribuito: ornao grande degli abruzzi io
 [31:04] Custode: vi ringrazio
 [31:07] Custode: vabbè andiamo lo dice proprio un don
@@ -642,13 +642,13 @@
 [31:18] Vanni: è il portante il
 [31:18] SCONOSCIUTO: portatore
 [31:18] Vanni: dell 'anello
-[31:19] Andrea (Oleggio): allora io c 'ho c 'ho vecchie cose
+[31:19] Andrea: allora io c 'ho c 'ho vecchie cose
 [31:25] Vanni: vabbè l 'anello trova spazio no
-[31:28] Andrea (Oleggio): l 'anello è ah l 'anello si mette un
+[31:28] Andrea: l 'anello è ah l 'anello si mette un
 [31:30] Vanni: tetto piccolo ok
-[31:32] Andrea (Oleggio): la persona che c 'ha più il molo ma ah una cosa la mia ricompensa
+[31:32] Andrea: la persona che c 'ha più il molo ma ah una cosa la mia ricompensa
 [31:45] Vanni: quando
-[31:45] Andrea (Oleggio): verrà riscattata tutto ciò che ti ho descritto da me medesimo è
+[31:45] Andrea: verrà riscattata tutto ciò che ti ho descritto da me medesimo è
 [31:51] Custode: nella è nella torre una volta che saremo li è il matrimonio è
 [31:57] Claudia: il matrimonio
 [31:58] Custode: è il matrimonio è il matrimonio
@@ -658,31 +658,31 @@
 [32:04] Vanni: celebrato
 [32:06] Vanni: con le tasi di me indicano
 [32:08] non attribuito: le parole ah ah papà avrai tutto ciò che
-[32:11] Andrea (Oleggio): ti sia
+[32:11] Andrea: ti sia
 [32:11] non attribuito: tutto ciò
 [32:12] SCONOSCIUTO: tutto
 [32:12] non attribuito: ciò tutto papà papà mio figlio
 [32:16] non attribuito: grazie papà mio figlio allora
-[32:19] Andrea (Oleggio): io devo comunicare con i miei compagni non lo dico a te eh però non lo dici non lo dici non lo dici però adesso che prendiamo l 'anello cioè prendo l 'anello noi comunque ci facciamo un po' più indietro lui ci farà strada sicuramente si e poi vi parlo
-[32:42] Andrea (Oleggio): si sei boffà si lui va avanti non gliene parlo prima a Debra che non gliene parlo
+[32:19] Andrea: io devo comunicare con i miei compagni non lo dico a te eh però non lo dici non lo dici non lo dici però adesso che prendiamo l 'anello cioè prendo l 'anello noi comunque ci facciamo un po' più indietro lui ci farà strada sicuramente si e poi vi parlo
+[32:42] Andrea: si sei boffà si lui va avanti non gliene parlo prima a Debra che non gliene parlo
 [32:47] SCONOSCIUTO: prima
-[32:49] Andrea (Oleggio): no no è no perché
+[32:49] Andrea: no no è no perché
 [32:52] Claudia: se
-[32:52] Andrea (Oleggio): no lui no ma perché a parte che non è
-[32:58] Andrea (Oleggio): ragazzi
-[33:00] Andrea (Oleggio): questa è la numero 2 di
-[33:04] Andrea (Oleggio): Jackie Piazzi
-[33:08] Andrea (Oleggio): come dicono fuori dai dormi niente
-[33:10] Flama (Slurbel): o nelle locamme o nelle
+[32:52] Andrea: no lui no ma perché a parte che non è
+[32:58] Andrea: ragazzi
+[33:00] Andrea: questa è la numero 2 di
+[33:04] Andrea: Jackie Piazzi
+[33:08] Andrea: come dicono fuori dai dormi niente
+[33:10] Flama: o nelle locamme o nelle
 [33:12] Vanni: locamme penso
 [33:13] SCONOSCIUTO: che non
 [33:13] Vanni: volevo stare a casa
-[33:15] Andrea (Oleggio): io non ho
+[33:15] Andrea: io non ho
 [33:17] SCONOSCIUTO: nessun problema non ho
-[33:17] Andrea (Oleggio): me ne rammarico mi dispiace che ho portato in una tracola ma io non potevo saperlo mi sono stato preso per la gola anzi per il bacino per avete capito insomma
-[33:32] Andrea (Oleggio): ma questa ricompensa purtroppo non esiste lo so non lo sento lo sento da come parla da come mi guarda probabilmente nella torre moriremo ma sappiate che io combatterò
+[33:17] Andrea: me ne rammarico mi dispiace che ho portato in una tracola ma io non potevo saperlo mi sono stato preso per la gola anzi per il bacino per avete capito insomma
+[33:32] Andrea: ma questa ricompensa purtroppo non esiste lo so non lo sento lo sento da come parla da come mi guarda probabilmente nella torre moriremo ma sappiate che io combatterò
 [33:47] SCONOSCIUTO: con un 'esplosione
-[33:47] Andrea (Oleggio): per voi. Devo sconfiggere questo fantasma.
+[33:47] Andrea: per voi. Devo sconfiggere questo fantasma.
 [33:52] Claudia: Mi asciugano le lacrime se mi facessero...
 [33:58] Claudia: Olegio, ma sei... Tu sei diventato un mirillo.
 [34:03] Vanni: Olegio, ormai ci hai portato fino a qui.
@@ -692,15 +692,15 @@
 [34:07] Vanni: Lo faccio più belendieri. Volevo... Più
 [34:10] Claudia: belendieri. Che
 [34:11] Vanni: per la tua moglie di linga.
-[34:14] Andrea (Oleggio): Sì, ma il messere...
+[34:14] Andrea: Sì, ma il messere...
 [34:17] Claudia: Ci
-[34:18] Flama (Slurbel): sta buggerando. Ti ricorda messere? Ecco a voi messo il gizzetto, il gaccoglio e col gizzetto.
-[34:27] Andrea (Oleggio): No, questa parte non me la ricordo.
-[34:30] Flama (Slurbel): Era la canzone di presentazione del gizzo.
-[34:32] Andrea (Oleggio): Non me la ricordo. Guarda un po'.
-[34:35] Flama (Slurbel): Come ti chiamavo? Questa
+[34:18] Flama: sta buggerando. Ti ricorda messere? Ecco a voi messo il gizzetto, il gaccoglio e col gizzetto.
+[34:27] Andrea: No, questa parte non me la ricordo.
+[34:30] Flama: Era la canzone di presentazione del gizzo.
+[34:32] Andrea: Non me la ricordo. Guarda un po'.
+[34:35] Flama: Come ti chiamavo? Questa
 [34:38] Claudia: signora da cui stiamo andando.
-[34:40] Andrea (Oleggio): Nevicata? Nevicata del crepuscolo.
+[34:40] Andrea: Nevicata? Nevicata del crepuscolo.
 [34:42] Claudia: Nevicata del crepuscolo.
 [34:44] SCONOSCIUTO: Non
 [34:44] Claudia: puoi avere cattività. Non
@@ -709,19 +709,19 @@
 [34:46] SCONOSCIUTO: ha
 [34:46] Claudia: fatto il sogno. Ti ha fatto fare tutto questo. Un motivo ci sarà.
 [34:53] Claudia: Non essere così pessimista, o leggio. Andiamo fino in fondo.
-[34:59] Andrea (Oleggio): Lei mi ha fatto il sogno.
-[35:03] Andrea (Oleggio): Perché voleva usarmi.
-[35:08] Andrea (Oleggio): Liberarsi.
-[35:10] Andrea (Oleggio): Tramite... Non avete capito. Non avete... Colto i segnali del fantasma. Tu
+[34:59] Andrea: Lei mi ha fatto il sogno.
+[35:03] Andrea: Perché voleva usarmi.
+[35:08] Andrea: Liberarsi.
+[35:10] Andrea: Tramite... Non avete capito. Non avete... Colto i segnali del fantasma. Tu
 [35:19] Claudia: adesso sei accecato dalla
-[35:21] Flama (Slurbel): delusione.
-[35:23] Flama (Slurbel): Nel frattempo sento un 'entravoce nell 'aria. Ho il pasto sfigato.
-[35:30] Flama (Slurbel): Subito. Subito.
+[35:21] Flama: delusione.
+[35:23] Flama: Nel frattempo sento un 'entravoce nell 'aria. Ho il pasto sfigato.
+[35:30] Flama: Subito. Subito.
 [35:33] Claudia: Subito. Subito.
-[35:34] Flama (Slurbel): La sentite anche voi? Sì.
+[35:34] Flama: La sentite anche voi? Sì.
 [35:39] Claudia: Sì, no.
 [35:49] Claudia: andiamo avanti procediamo non fate una morte se
-[35:51] Flama (Slurbel): deve morire se ne
+[35:51] Flama: deve morire se ne
 [35:54] Claudia: oggi domani per qualche altro motivo
 [35:58] Claudia: lui intanto non dà davanti il percidio?
 [36:02] Custode: no no lui non si può letteralmente nel gioco non si può però ve lo dico in termini di gioco allora se doveste
@@ -731,10 +731,10 @@
 [36:17] non attribuito: o
 [36:17] Custode: 3 metri e scompare va
 [36:19] Claudia: bene
-[36:23] Andrea (Oleggio): scompare tipo uno schioppo che prende anche noi
-[36:30] Andrea (Oleggio): bene
-[36:32] Andrea (Oleggio): ok
-[36:35] Andrea (Oleggio): aspettiamo un dante vabbè immagina che tutta questa chiacchierata l 'abbiamo fatta comunque camminando quindi stavamo sempre stavamo sempre alla stessa distanza non sono per bene dovrebbe avvantaggiarci intanto stiamo andando ma
+[36:23] Andrea: scompare tipo uno schioppo che prende anche noi
+[36:30] Andrea: bene
+[36:32] Andrea: ok
+[36:35] Andrea: aspettiamo un dante vabbè immagina che tutta questa chiacchierata l 'abbiamo fatta comunque camminando quindi stavamo sempre stavamo sempre alla stessa distanza non sono per bene dovrebbe avvantaggiarci intanto stiamo andando ma
 [36:56] Claudia: adesso che abbiamo l 'anello possono passare anche loro il confine?
 [37:00] SCONOSCIUTO: aspetta
 [37:01] Vanni: questa cosa di 3 metri ce l 'ha detta lui? no la dico io come regola ok
@@ -745,14 +745,14 @@
 [37:19] Vanni: però se l 'anello viene portato via lui viene un po' attratto ok non è che scompare tu hai detto se sta allontanato viene a
 [37:26] Custode: scompare se fate in modo che
 [37:31] Vanni: lui
-[37:31] Andrea (Oleggio): viene attratto non fisicamente
-[37:35] Andrea (Oleggio): logicamente lui tende ad andare vicino all 'anello perché se no sa che scompare credo
+[37:31] Andrea: viene attratto non fisicamente
+[37:35] Andrea: logicamente lui tende ad andare vicino all 'anello perché se no sa che scompare credo
 [37:41] Vanni: ok non è
-[37:43] Andrea (Oleggio): che viene attratto proprio fisicamente no no lui può fare quello che gli pare sto che gli conviene sta vicino all 'anello
+[37:43] Andrea: che viene attratto proprio fisicamente no no lui può fare quello che gli pare sto che gli conviene sta vicino all 'anello
 [37:52] SCONOSCIUTO: sì
-[37:53] Andrea (Oleggio): sostanzialmente sì
+[37:53] Andrea: sostanzialmente sì
 [37:55] Claudia: ma noi adesso dobbiamo andare alla torre?
-[37:57] Andrea (Oleggio): noi cioè lo stiamo seguendo quindi mi immagino di poco tutto tutto tutto qua
+[37:57] Andrea: noi cioè lo stiamo seguendo quindi mi immagino di poco tutto tutto tutto qua
 [38:03] non attribuito: ti seguiamo noi poi
 [38:05] Claudia: non potete passare secondo me con l 'anello non è
 [38:12] SCONOSCIUTO: che viene
@@ -764,86 +764,86 @@
 [38:17] SCONOSCIUTO: ai
 [38:18] non attribuito: grotti ai
 [38:18] Claudia: grotti giusto no l 'edicidio sta nella torre no? ora
-[38:25] Andrea (Oleggio): scopriamo che la torre si chiama torre bella monaca
-[38:28] Flama (Slurbel): torre marancia
-[38:31] Andrea (Oleggio): e ce l 'ha e quindi dobbiamo ritornare
+[38:25] Andrea: scopriamo che la torre si chiama torre bella monaca
+[38:28] Flama: torre marancia
+[38:31] Andrea: e ce l 'ha e quindi dobbiamo ritornare
 [38:36] Claudia: giù dove
 [38:37] non attribuito: c
 [38:38] Claudia: 'era l 'ingresso il segreto sì esatto e dai che c 'è molta prova vediamo
 [38:43] SCONOSCIUTO: se ci sono delle cose
 [38:43] Claudia: le candele
-[38:46] Andrea (Oleggio): le
+[38:46] Andrea: le
 [38:47] Claudia: candele le
 [38:48] SCONOSCIUTO: candeeele quello
-[38:48] Andrea (Oleggio): che tu hai visto ah scusa le
+[38:48] Andrea: che tu hai visto ah scusa le
 [38:50] Claudia: candeeele secondo me adesso amici potete passare anche voi
-[38:54] Andrea (Oleggio): con il potere dell 'amore
+[38:54] Andrea: con il potere dell 'amore
 [38:57] Vanni: con il potere del gresco con
 [38:59] Claudia: il potere del cristallo di luna
-[39:01] Flama (Slurbel): con
+[39:01] Flama: con
 [39:01] SCONOSCIUTO: il potere del gresco
-[39:05] Flama (Slurbel): cosa dà ricorda vi
+[39:05] Flama: cosa dà ricorda vi
 [39:07] Custode: ascolto?
-[39:10] Flama (Slurbel): quella personaggia che personaggia? solo sailor moon che
+[39:10] Flama: quella personaggia che personaggia? solo sailor moon che
 [39:13] SCONOSCIUTO: personaggia?
 [39:15] SCONOSCIUTO: che
-[39:16] Flama (Slurbel): prende la vita da un avvocato marcio
+[39:16] Flama: prende la vita da un avvocato marcio
 [39:19] Custode: curioso
-[39:21] Flama (Slurbel): io ho visto nella mente questi episodi di sailor moon stavano al supermercato e c 'era un avvocato
-[39:27] Andrea (Oleggio): marcio ma c 'è un avvocato? facciamo
+[39:21] Flama: io ho visto nella mente questi episodi di sailor moon stavano al supermercato e c 'era un avvocato
+[39:27] Andrea: marcio ma c 'è un avvocato? facciamo
 [39:29] SCONOSCIUTO: il
-[39:29] Andrea (Oleggio): sogno no
-[39:30] Flama (Slurbel): no ma peggio dei miei c 'è un avvocato e da questo avvocato
-[39:39] Flama (Slurbel): attenzione esce fuori
-[39:42] Andrea (Oleggio): una
-[39:42] Flama (Slurbel): sailor moon che ti ha
+[39:29] Andrea: sogno no
+[39:30] Flama: no ma peggio dei miei c 'è un avvocato e da questo avvocato
+[39:39] Flama: attenzione esce fuori
+[39:42] Andrea: una
+[39:42] Flama: sailor moon che ti ha
 [39:43] SCONOSCIUTO: fatto male
-[39:45] Flama (Slurbel): e
-[39:46] Andrea (Oleggio): quindi tu ci pensi ogni volta che vedi un avvocato marcio non
+[39:45] Flama: e
+[39:46] Andrea: quindi tu ci pensi ogni volta che vedi un avvocato marcio non
 [39:49] SCONOSCIUTO: lo so
 [39:49] Claudia: ci ho pensato adesso
-[39:50] Andrea (Oleggio): fatti come c
+[39:50] Andrea: fatti come c
 [39:51] Claudia: 'è una versione cattiva di sailor moon o una sailor cattiva? è una sailor
-[39:56] Flama (Slurbel): cattiva credo quindi era un evil sailor
+[39:56] Flama: cattiva credo quindi era un evil sailor
 [39:59] Vanni: sailor stronzo no
-[40:01] Flama (Slurbel): non ce l 'ho
+[40:01] Flama: non ce l 'ho
 [40:02] Vanni: sailor from the
 [40:03] SCONOSCIUTO: side
 [40:03] Vanni: of the moon
-[40:03] Flama (Slurbel): sailor moon
+[40:03] Flama: sailor moon
 [40:05] Vanni: avvocato
-[40:08] Flama (Slurbel): avvocato ci
+[40:08] Flama: avvocato ci
 [40:09] SCONOSCIUTO: sta
-[40:10] Flama (Slurbel): avvocatore avvocatore
+[40:10] Flama: avvocatore avvocatore
 [40:12] non attribuito: ma veramente? ah
-[40:13] Flama (Slurbel): vedi?
+[40:13] Flama: vedi?
 [40:14] Vanni: la filmadora beh sento
 [40:16] Claudia: male c 'ha pure i gusci e chi è?
 [40:21] SCONOSCIUTO: è
 [40:22] Claudia: felice è super esotica
-[40:25] Flama (Slurbel): però
+[40:25] Flama: però
 [40:25] SCONOSCIUTO: perché? cioè
-[40:25] Flama (Slurbel): sei un avvocatore
-[40:28] Flama (Slurbel): però come ci siamo arrivati? all 'avvocato?
-[40:32] Flama (Slurbel): vedi? stavo in un supermercato pare che sia un supermercato in
+[40:25] Flama: sei un avvocatore
+[40:28] Flama: però come ci siamo arrivati? all 'avvocato?
+[40:32] Flama: vedi? stavo in un supermercato pare che sia un supermercato in
 [40:37] SCONOSCIUTO: un
-[40:37] Flama (Slurbel): supermercato
+[40:37] Flama: supermercato
 [40:37] Vanni: ma
-[40:37] Flama (Slurbel): è
+[40:37] Flama: è
 [40:37] Claudia: bella vedi?
 [40:41] Vanni: è fantastico è costante ma
 [40:43] SCONOSCIUTO: è bella
 [40:43] Vanni: è
 [40:43] SCONOSCIUTO: bella molto
 [40:43] Vanni: dov
-[40:43] Flama (Slurbel): 'è che stava? occupa un supermercato punto di quest 'anno per far mangiare frutta oscura
+[40:43] Flama: 'è che stava? occupa un supermercato punto di quest 'anno per far mangiare frutta oscura
 [40:49] SCONOSCIUTO: è una
-[40:49] Flama (Slurbel): barifesta occupiamo il supermercato per aumentare vedi però che stanno qua al supermercato per far mangiare frutta oscura o marcia la gente di conere nel piano e per vivere
-[41:01] Flama (Slurbel): armi diseducativo comunque sailor scadenza si è vero
-[41:06] Flama (Slurbel): spada con elsa a forma di banana
-[41:11] Flama (Slurbel): ah dici che episodio? ah
+[40:49] Flama: barifesta occupiamo il supermercato per aumentare vedi però che stanno qua al supermercato per far mangiare frutta oscura o marcia la gente di conere nel piano e per vivere
+[41:01] Flama: armi diseducativo comunque sailor scadenza si è vero
+[41:06] Flama: spada con elsa a forma di banana
+[41:11] Flama: ah dici che episodio? ah
 [41:13] SCONOSCIUTO: no
-[41:13] Flama (Slurbel): mi sono venuti della serie r
+[41:13] Flama: mi sono venuti della serie r
 [41:16] SCONOSCIUTO: che
 [41:17] Claudia: è la serie r? l
 [41:18] Vanni: 'ultima serie s, serie a, serie i, serie r
@@ -851,9 +851,9 @@
 [41:25] Vanni: di che facciamo?
 [41:26] SCONOSCIUTO: l
 [41:26] Claudia: 'avvocatore torniamo verso l 'entrata fatata? ok
-[41:31] Andrea (Oleggio): in
+[41:31] Andrea: in
 [41:31] Claudia: realtà
-[41:32] Andrea (Oleggio): stiamo seguendo lui quindi no è
+[41:32] Andrea: stiamo seguendo lui quindi no è
 [41:37] Claudia: lui
 [41:37] Custode: che segue noi no è lui che segue noi si che speriamo
 [41:40] Claudia: dipende dalla mano no
@@ -867,13 +867,13 @@
 [42:11] Custode: cioè voi siete entrati da
 [42:13] SCONOSCIUTO: qua
 [42:14] SCONOSCIUTO: io
-[42:15] Andrea (Oleggio): penso che sia la stessa cosa
+[42:15] Andrea: penso che sia la stessa cosa
 [42:19] Vanni: no no ho una domanda se chiudi brado dice di passare di qua c 'è un 'interazione tra fantasmi? ah
-[42:31] Flama (Slurbel): è vero perché qua c 'erano quelli che ballavano non
+[42:31] Flama: è vero perché qua c 'erano quelli che ballavano non
 [42:33] SCONOSCIUTO: si
 [42:33] Vanni: salutano
 [42:33] Custode: no non si
-[42:34] Flama (Slurbel): vedono loro
+[42:34] Flama: vedono loro
 [42:36] Custode: continuano a ballare e
 [42:40] Claudia: vogliamo fare il giro largo? no
 [42:43] Vanni: no no l 'abbiamo fatto no magari gossip tra fantasmi ma come è stato moglie?
@@ -886,14 +886,14 @@
 [42:59] non attribuito: po' fonga ma
 [43:00] Vanni: come colteggi bene no
 [43:02] SCONOSCIUTO: sei
-[43:03] Andrea (Oleggio): pelle e ossa
-[43:05] Flama (Slurbel): seguitevi sei ossa
+[43:03] Andrea: pelle e ossa
+[43:05] Flama: seguitevi sei ossa
 [43:07] Vanni: e ossa ci
-[43:08] Flama (Slurbel): seguiamo allora ritornate al
+[43:08] Flama: seguiamo allora ritornate al
 [43:10] Custode: passaggio quella parte lì insomma
 [43:12] non attribuito: lì
 [43:13] Custode: e basta quindi di fare domande scheletriche c
-[43:17] Andrea (Oleggio): 'è
+[43:17] Andrea: 'è
 [43:20] Custode: una barriera di candele se vi ricordate si alla base delle scale si che sbarano si papà che sbarano nella strada l 'elfa aveva sentito effettivamente che c 'era qualcosa al di là la seguita l 'aveva vista scomparire per poi ricomparire poco dopo ha
 [43:38] SCONOSCIUTO: visto
 [43:38] Custode: 15 vini si si perché è fluida fluido fluida siamo tutti fluidi
@@ -905,16 +905,16 @@
 [43:55] Claudia: si si
 [43:55] Custode: invece
 [43:57] Claudia: Resistance
-[44:23] Andrea (Oleggio): Kafka
+[44:23] Andrea: Kafka
 [44:25] Claudia: l 'unico problema è che non è detto che ci puoi tornare indietro è bello
-[44:30] Andrea (Oleggio): che ce lo dici dopo esatto
+[44:30] Andrea: che ce lo dici dopo esatto
 [44:32] Claudia: non è che non passano comunque non è detto che torniamo indietro il problema era che passano ma diciamo che ci sono difficoltà tra se indietro vabbè ragazzi se ne frega non torniamo a morire
 [44:44] Claudia: possiamo sempre usare il desiderio per ripassare
 [44:48] SCONOSCIUTO: se
 [44:48] Claudia: c
-[44:49] Andrea (Oleggio): 'è
+[44:49] Andrea: 'è
 [44:49] SCONOSCIUTO: la
-[44:49] Andrea (Oleggio): ricompensa
+[44:49] Andrea: ricompensa
 [44:51] Custode: è tutto in forza tutto in sé venite attraversati da un 'ondata di timore reverenziale
 [44:58] Custode: e sperimentate una breve visione di guardiani angelici quindi vedete come se degli angeli vi portano
 [45:07] Custode: tra le loro braccia verso un altro mondo venite scortati da queste entità metafisiche e vi invito a figurarveli come meglio vi piacere tipo
@@ -935,11 +935,11 @@
 [46:13] Custode: ok? con
 [46:14] non attribuito: i rubetti
 [46:17] SCONOSCIUTO: non
-[46:18] Andrea (Oleggio): ce l 'avevi fatto vedere?
+[46:18] Andrea: ce l 'avevi fatto vedere?
 [46:21] Custode: forse la vedi diciamo nel gioco in teoria dovrebbe averlo visto solo eh vabbè solo lui lei mi
 [46:26] non attribuito: ha dato una foto su ah vero
 [46:28] Custode: mi ha dato solo una foto a te
-[46:29] Andrea (Oleggio): ah forse l 'avete che stava molto bene esatto allora
+[46:29] Andrea: ah forse l 'avete che stava molto bene esatto allora
 [46:37] Custode: chi indossa indumenti pesanti che appunto voi ce le dovrebbero avere non fanno il tiro se no se non ce l 'avete indumenti pesanti dovete fare il tiro
 [46:48] non attribuito: quindi
 [46:48] Custode: se ce l 'avete la pelliccia indossatela
@@ -954,15 +954,15 @@
 [47:05] SCONOSCIUTO: 'è?
 [47:06] Claudia: si c 'è la bacchetta di cuoco ah ah
 [47:09] Custode: allora portalo qui il d4 e mi dica il ehm il fischio
-[47:14] Flama (Slurbel): che dobbiamo fare il d4?
+[47:14] Flama: che dobbiamo fare il d4?
 [47:15] Custode: si
-[47:18] Andrea (Oleggio): ma tutti? prendo
+[47:18] Andrea: ma tutti? prendo
 [47:19] non attribuito: un po'
-[47:19] Andrea (Oleggio): no uno solo mi serve uno per
+[47:19] Andrea: no uno solo mi serve uno per
 [47:20] SCONOSCIUTO: me
 [47:21] non attribuito: eccomi dai tre
 [47:25] SCONOSCIUTO: tre tre
-[47:26] Andrea (Oleggio): bestie feroci dal sito
+[47:26] Andrea: bestie feroci dal sito
 [47:31] Custode: della foresta dietro al sito
 [47:34] SCONOSCIUTO: di
 [47:34] Custode: domani a torre
@@ -976,7 +976,7 @@
 [48:15] Custode: ridotti molto male uno di loro uno dei due indossa un teschio sopra al suo bordo molto normale e dietro alla slitta insomma sulla parte sulle sedute diciamo ci sono
 [48:35] Custode: quattro goblin del ghiaccio
 [48:39] SCONOSCIUTO: che
-[48:39] Andrea (Oleggio): finaccia babbo natale oh
+[48:39] Andrea: finaccia babbo natale oh
 [48:41] non attribuito: bello
 [48:41] Custode: messi molto come posso dire
 [48:46] Custode: e
@@ -985,7 +985,7 @@
 [48:54] Custode: si si arrivano davanti a voi uno di loro scende vi punta la lancia
 [49:02] Custode: e
 [49:04] Custode: qualcuno
-[49:05] Andrea (Oleggio): di voi parla goblinese non mi ricordo vedete no non c 'è altro solo
+[49:05] Andrea: di voi parla goblinese non mi ricordo vedete no non c 'è altro solo
 [49:09] Vanni: il pianese è molto lentamente
 [49:14] Custode: non mi ricordo che lingua parlano i goblin scusate no
 [49:18] Vanni: qualcuno si perchè mi capiva ragazzi si
@@ -997,15 +997,15 @@
 [49:29] Custode: allora in silbano dicono quindi li capisce sull 'elfo si
 [49:33] non attribuito: io silbano ce l 'ho
 [49:36] SCONOSCIUTO: che cosa ci fai però
-[49:38] Andrea (Oleggio): scusa ci puoi fare anche la versione per noi che non capiamo
+[49:38] Andrea: scusa ci puoi fare anche la versione per noi che non capiamo
 [49:44] non attribuito: ahahah ahahah ahahah
-[49:49] Andrea (Oleggio): ahahah se capisce ma
+[49:49] Andrea: ahahah se capisce ma
 [49:51] non attribuito: tu stai a Sergilio?
 [50:09] SCONOSCIUTO: a
-[50:09] Andrea (Oleggio): Sergilio stai a Gioia?
+[50:09] Andrea: Sergilio stai a Gioia?
 [50:11] non attribuito: qui
-[50:11] Andrea (Oleggio): Gio' lo guardo aspetta, pure lui dica qualcosa lo
-[50:15] Flama (Slurbel): guardi?
+[50:11] Andrea: Gio' lo guardo aspetta, pure lui dica qualcosa lo
+[50:15] Flama: guardi?
 [50:20] Custode: vede che voi siete l 'azimino come posso dire
 [50:25] Custode: resti a fare qualcosa e si avvicina ti sorpassa e
 [50:34] Custode: facendo così gli compare una spada in mano
@@ -1014,35 +1014,35 @@
 [50:59] Custode: ridono solo che poi prendono tutti le armi e
 [51:05] Claudia: ci
 [51:05] Custode: menano
-[51:06] Andrea (Oleggio): io vi guardo e vedo i ragazzi ecco
+[51:06] Andrea: io vi guardo e vedo i ragazzi ecco
 [51:09] Claudia: la terza enculata esatto esatto esatto
 [51:13] non attribuito: esatto
-[51:17] Andrea (Oleggio): primo Esto
-[51:28] Andrea (Oleggio): nellissimo
-[51:36] Flama (Slurbel): ci tocca a pabbotti no no
+[51:17] Andrea: primo Esto
+[51:28] Andrea: nellissimo
+[51:36] Flama: ci tocca a pabbotti no no
 [51:41] SCONOSCIUTO: quindi
-[51:48] Flama (Slurbel): che era quello
+[51:48] Flama: che era quello
 [51:51] SCONOSCIUTO: che
-[51:52] Andrea (Oleggio): posso chiedere una cosa fuori dal topo c 'è
+[51:52] Andrea: posso chiedere una cosa fuori dal topo c 'è
 [51:54] SCONOSCIUTO: un
-[51:54] Andrea (Oleggio): assercizio
-[51:58] Andrea (Oleggio): in battaglia
-[52:01] Andrea (Oleggio): può fare dei danni si
+[51:54] Andrea: assercizio
+[51:58] Andrea: in battaglia
+[52:01] Andrea: può fare dei danni si
 [52:03] Custode: contribuisce
-[52:04] Andrea (Oleggio): gli
+[52:04] Andrea: gli
 [52:05] Custode: aiuta
 [52:10] SCONOSCIUTO: allora
 [52:15] Custode: ciascuna fazione tira un d6 e allora qua è a fazione quindi chi vince o fate prima tutti voi o
 [52:25] SCONOSCIUTO: si
 [52:25] Custode: si si ti do il d6
-[52:28] Andrea (Oleggio): per
+[52:28] Andrea: per
 [52:29] Custode: i goblin voi 6
 [52:39] non attribuito: 9 6
 [52:41] Claudia: 6
 [52:44] non attribuito: punto 9 voi
 [52:47] Custode: voi stessi potete scegliere l 'ordine allora facciamoci
 [52:55] Claudia: است сказалаشر
-[53:14] Andrea (Oleggio): per la spada magica si ci stanno le specifiche in battaglia? ah si non ce le ho segnate
+[53:14] Andrea: per la spada magica si ci stanno le specifiche in battaglia? ah si non ce le ho segnate
 [53:25] Vanni: buona coppia di esercitio la coppia di esercitio io
 [53:30] Claudia: ho l 'arco corto e la bacchetta di giù ah
 [53:35] Custode: questa in teoria è dove siete entrati non c 'è in
@@ -1058,32 +1058,32 @@
 [53:59] Custode: tanto mi serve visto le vostre posizioni il movimento
 [54:04] non attribuito: tanto
 [54:05] Custode: il movimento non è che fate no
-[54:07] Andrea (Oleggio): poi dopo usiamo l 'iPad ok
+[54:07] Andrea: poi dopo usiamo l 'iPad ok
 [54:13] SCONOSCIUTO: la
-[54:13] Andrea (Oleggio): strana griglia al volo si
-[54:16] Andrea (Oleggio): tu ce l 'hai no no
-[54:22] Andrea (Oleggio): strumento
+[54:13] Andrea: strana griglia al volo si
+[54:16] Andrea: tu ce l 'hai no no
+[54:22] Andrea: strumento
 [54:23] Claudia: griglia a combattimento BND va bene si
 [54:29] Custode: una che si passa con BND si quella è la sinistra va bene
 [54:51] non attribuito: Posso vedere l 'immagine!
-[54:58] Andrea (Oleggio): Poi c 'è
+[54:58] Andrea: Poi c 'è
 [54:59] SCONOSCIUTO: un
-[54:59] Andrea (Oleggio): premuto.
-[55:02] Andrea (Oleggio): Salva della galleria.
+[54:59] Andrea: premuto.
+[55:02] Andrea: Salva della galleria.
 [55:10] non attribuito: Assicura le statistiche della sonda.
-[55:16] Andrea (Oleggio): Scusa se metto
+[55:16] Andrea: Scusa se metto
 [55:17] non attribuito: immagini.
-[55:18] Andrea (Oleggio): Però mi ha zitto.
-[55:21] Andrea (Oleggio): Ti rimando a me.
-[55:29] Andrea (Oleggio): Mi sembra che l 'avevi trovata la spada. La spada dovrebbe essere allestata.
-[55:36] Andrea (Oleggio): Sì, è normale.
+[55:18] Andrea: Però mi ha zitto.
+[55:21] Andrea: Ti rimando a me.
+[55:29] Andrea: Mi sembra che l 'avevi trovata la spada. La spada dovrebbe essere allestata.
+[55:36] Andrea: Sì, è normale.
 [55:40] non attribuito: Non gira.
 [55:45] Custode: Scusate le statistiche. Ho detto
-[55:48] Andrea (Oleggio): l 'arrogante.
+[55:48] Andrea: l 'arrogante.
 [55:49] Custode: Arrogante?
-[55:50] Andrea (Oleggio): Eh sì, ma le... Le stanzioni
+[55:50] Andrea: Eh sì, ma le... Le stanzioni
 [55:53] Custode: non trovate?
-[55:55] Andrea (Oleggio): No, proprio no. Il dado no. Ah
+[55:55] Andrea: No, proprio no. Il dado no. Ah
 [55:59] Custode: ok.
 [56:03] Custode: Bello.
 [56:05] Custode: Voi mettetevi come... Ma l 'ingannino...
@@ -1098,19 +1098,19 @@
 [56:48] Custode: roommates
 [56:52] Claudia: e noi siamo qui giù e
 [56:54] Custode: voi mettetevi come diciamo
-[56:56] Flama (Slurbel): che andante abbiamo mettito l 'esercitio invece
+[56:56] Flama: che andante abbiamo mettito l 'esercitio invece
 [57:03] Claudia: abbiamo qualcosa mettiamo
-[57:06] Andrea (Oleggio): un dato di
-[57:08] Andrea (Oleggio): di di di
+[57:06] Andrea: un dato di
+[57:08] Andrea: di di di
 [57:16] Claudia: decidono
-[57:36] Flama (Slurbel): dovremo
+[57:36] Flama: dovremo
 [57:37] Custode: ci scambiamo?
 [57:38] Vanni: che dici?
-[57:40] Flama (Slurbel): ho arrivato prima io? no,
+[57:40] Flama: ho arrivato prima io? no,
 [57:43] Vanni: attacco prima io, ma se mi avvicino mi ammazzano cioè io so, sono quasi da lontano e
-[57:48] Flama (Slurbel): appunto ci lascia eh
+[57:48] Flama: appunto ci lascia eh
 [57:50] Vanni: sì, se ci scambiamo cioè prima, nel senso magari attacco prima così tiro giù qualcuno ok
-[57:55] Flama (Slurbel): ok sì
+[57:55] Flama: ok sì
 [57:59] Custode: allora, cioè più 2 hai di ripercoltire e danni con la spada di Fulcidio
 [58:20] non attribuito: io io ho la bacchetta incendiaria il
 [58:24] Custode: fatto che sia arrogante
@@ -1118,11 +1118,11 @@
 [58:32] Custode: se attacchi uno più grosso fai più un 1 ulteriore al danno e
 [58:37] SCONOSCIUTO: poi
 [58:37] Custode: ok ma il danno a base ma
-[58:40] Andrea (Oleggio): quanto danno
+[58:40] Andrea: quanto danno
 [58:40] SCONOSCIUTO: ha?
-[58:41] Andrea (Oleggio): ah
+[58:41] Andrea: ah
 [58:41] Custode: è come la spada normale tu che arma hai?
-[58:44] Andrea (Oleggio): ah no perché tu sei all 'arma nasta no no, ho una spada lunga riposta, che è un D8 e allora è un D8 quindi D8 però più 2 più 3
+[58:44] Andrea: ah no perché tu sei all 'arma nasta no no, ho una spada lunga riposta, che è un D8 e allora è un D8 quindi D8 però più 2 più 3
 [58:57] Custode: a danno se prendi quello più grosso
 [59:01] non attribuito: e l 'arco come comincia?
 [59:03] Custode: devi fare tiro per colpire su dexterità
@@ -1138,15 +1138,15 @@
 [59:28] SCONOSCIUTO: A?
 [59:29] non attribuito: si
 [59:29] Custode: ok
-[59:30] Andrea (Oleggio): ultima cosa ma scusa io ho guarigione maggiore che era
+[59:30] Andrea: ultima cosa ma scusa io ho guarigione maggiore che era
 [59:34] Custode: quella che hai ripreso quando avete parlato con quella della
-[59:40] Andrea (Oleggio): chiesa
+[59:40] Andrea: chiesa
 [59:41] Custode: eh ma che cosa
-[59:42] Andrea (Oleggio): fa?
+[59:42] Andrea: fa?
 [59:43] Custode: guarigione maggiore? si
 [59:45] Vanni: perché se ti eleggono a maggiore esercito guarisci allora
-[59:52] Andrea (Oleggio): vi ripongo scusate un attimo un concorso che c 'ha due punti c 'ha due punti vita quello capis...
-[60:05] Andrea (Oleggio): da 2 vada a 4
+[59:52] Andrea: vi ripongo scusate un attimo un concorso che c 'ha due punti c 'ha due punti vita quello capis...
+[60:05] Andrea: da 2 vada a 4
 [60:09] Claudia: vabbè
 [60:15] Custode: maggiore?
 [60:17] SCONOSCIUTO: presente
@@ -1161,37 +1161,37 @@
 [60:33] Vanni: ricordi che mi hai dato lo
 [60:34] SCONOSCIUTO: scudo? ti
 [60:34] Vanni: ricordo che mi hai dato lo scudo perchè la pelliccia si rallentava no
-[60:40] Andrea (Oleggio): aspetta però lo scudo ce
+[60:40] Andrea: aspetta però lo scudo ce
 [60:42] non attribuito: l 'ho
-[60:42] Andrea (Oleggio): ancora
+[60:42] Andrea: ancora
 [60:45] non attribuito: non l 'ho segnato però l 'ho segnato però l 'hai ritato
 [60:51] non attribuito: eh
 [60:51] Vanni: vedi la pelliccia
 [60:52] non attribuito: ah
 [60:53] Vanni: no tanto comunque stai a 30
 [60:56] non attribuito: quindi
-[60:57] Andrea (Oleggio): lo posso usare adesso su di me?
+[60:57] Andrea: lo posso usare adesso su di me?
 [60:59] non attribuito: si si
 [61:01] non attribuito: ma
 [61:02] SCONOSCIUTO: non
 [61:02] non attribuito: è
 [61:02] SCONOSCIUTO: che è
 [61:02] non attribuito: buono
-[61:04] Flama (Slurbel): faccio una lavorata e comunque ho fatto la cosa che ammetto se pensi un 'HT22 almeno il portore ha doppio
+[61:04] Flama: faccio una lavorata e comunque ho fatto la cosa che ammetto se pensi un 'HT22 almeno il portore ha doppio
 [61:11] Claudia: però vabbè non si rimaneva
 [61:14] SCONOSCIUTO: a
 [61:14] Claudia: scatenza dopo un mese effettivo?
 [61:17] non attribuito: dopo 8
 [61:18] Claudia: giorni attiva proprio è
-[61:21] Andrea (Oleggio): vero stavolta infatti cioè loro considerano
-[61:27] Flama (Slurbel): perchè io pensavo mi scrivo però me lo fanno a quantità per me andava bene a spettacolo però vabbè
-[61:35] Flama (Slurbel): ma dalle cose se
+[61:21] Andrea: vero stavolta infatti cioè loro considerano
+[61:27] Flama: perchè io pensavo mi scrivo però me lo fanno a quantità per me andava bene a spettacolo però vabbè
+[61:35] Flama: ma dalle cose se
 [61:37] non attribuito: lanci guarigione non
 [61:39] SCONOSCIUTO: ti
 [61:39] non attribuito: puoi morire e quanto?
 [61:44] SCONOSCIUTO: non
 [61:44] non attribuito: la posso però perchè prenetto già siamo ingaggiati
-[61:48] Andrea (Oleggio): nel combattimento non la posso lanciare prima che cominciamo fuori dal conteggio dei turni quindi
+[61:48] Andrea: nel combattimento non la posso lanciare prima che cominciamo fuori dal conteggio dei turni quindi
 [61:55] non attribuito: non è proprio non lo
 [61:57] SCONOSCIUTO: so
 [61:58] Custode: non lo so perchè loro mi hanno attaccato
@@ -1217,7 +1217,7 @@
 [63:46] Custode: quello non
 [63:47] Claudia: so chi legge quale magia si
 [63:51] Custode: e la pozione e le pozioni valgono come magie quindi se bevi una pozione no quella mia non
-[63:58] Andrea (Oleggio): è una pozione
+[63:58] Andrea: è una pozione
 [63:59] Custode: no la sua era proprio una magia si
 [64:01] SCONOSCIUTO: la
 [64:01] Custode: mia era una
@@ -1231,7 +1231,7 @@
 [64:35] Custode: Allora, detto questo, chi fa per primo?
 [64:40] Vanni: Esercidio.
 [64:41] Custode: Esercidio.
-[64:43] Flama (Slurbel): Esercidio. Ah,
+[64:43] Flama: Esercidio. Ah,
 [64:43] Vanni: Esercidio non va davanti proprio con noi. Ebbè, lui è partito, perché già lui l 'ha minacciato.
 [64:51] Vanni: Noi abbiamo guardato Esercidio e Esercidio ha detto no, hai dato pari
 [64:55] SCONOSCIUTO: a
@@ -1239,17 +1239,17 @@
 [64:57] non attribuito: Sì, infatti.
 [64:58] SCONOSCIUTO: Sì,
 [64:58] Vanni: vero.
-[65:02] Andrea (Oleggio): Potremmo pure risolvere magari lanciando due mele.
+[65:02] Andrea: Potremmo pure risolvere magari lanciando due mele.
 [65:07] Vanni: Mele di ghiaccio.
-[65:08] Andrea (Oleggio): Mele di ghiaccio. Una frozzanella.
-[65:14] Andrea (Oleggio): Ecco. Ecco la
+[65:08] Andrea: Mele di ghiaccio. Una frozzanella.
+[65:14] Andrea: Ecco. Ecco la
 [65:15] Custode: frozzanella.
 [65:18] Claudia: Ah, sono i sottiletti.
 [65:21] Custode: Allora, Esercidio si avvicina a uno dei goblin.
 [65:25] Custode: Un po' c 'è di momento, sto proprio.
 [65:29] Custode: Sei.
 [65:31] Custode: Quindi sono... Mi sono messo un po' lontanina, perché dunque questi sono un metro e mezzo. Ci arrivo. Sei al
-[65:37] Andrea (Oleggio): bordo.
+[65:37] Andrea: bordo.
 [65:40] SCONOSCIUTO: Va
 [65:40] Custode: da quello centrale.
 [65:44] Custode: E va così, lo tocca.
@@ -1301,27 +1301,27 @@
 [67:50] Claudia: Ma se io faccio... Faccio,
 [67:53] SCONOSCIUTO: faccio.
 [67:53] Claudia: Se io facessi un sottileggio non potrei poi attaccare ciò? No. Perché è solo quello. Sì. Perché poi almeno vuoi. Eh no, esatto. Non mi conviene quindi.
-[68:09] Andrea (Oleggio): Posso andare io tanto io? Sono qua la guarigione maggiore per adesso.
-[68:14] Flama (Slurbel): Se vuoi sì, vai.
-[68:15] Andrea (Oleggio): Posso fermi. Mi guarisco. Posso fermi. Poi mi riuscisco.
-[68:21] Flama (Slurbel): Ma sei sicuro o non fai che vado prima io? Che almeno...
-[68:24] Andrea (Oleggio): Però un termine un po' differente. Ok. Non
+[68:09] Andrea: Posso andare io tanto io? Sono qua la guarigione maggiore per adesso.
+[68:14] Flama: Se vuoi sì, vai.
+[68:15] Andrea: Posso fermi. Mi guarisco. Posso fermi. Poi mi riuscisco.
+[68:21] Flama: Ma sei sicuro o non fai che vado prima io? Che almeno...
+[68:24] Andrea: Però un termine un po' differente. Ok. Non
 [68:27] SCONOSCIUTO: è che io vado prima io.
-[68:29] Andrea (Oleggio): Intanto me lo guari. Quindi come era un di sei?
-[68:33] Andrea (Oleggio): Scusami, non... La guarigione maggiore. Erano due di sei più... Sì ma tanto... Cioè ma io c 'ho quattro, no?
+[68:29] Andrea: Intanto me lo guari. Quindi come era un di sei?
+[68:33] Andrea: Scusami, non... La guarigione maggiore. Erano due di sei più... Sì ma tanto... Cioè ma io c 'ho quattro, no?
 [68:41] Custode: Ah allora te sei curato e basta. Sì perché... Sì perché è una mega guarigione.
-[68:45] Andrea (Oleggio): Vabbè però metti in spazio. Voglio dire... Eh no, tanto è...
+[68:45] Andrea: Vabbè però metti in spazio. Voglio dire... Eh no, tanto è...
 [68:50] Vanni: È due più qualcosa quindi...
-[68:52] Andrea (Oleggio): Due più due è minimo. Sì, sì, sì.
+[68:52] Andrea: Due più due è minimo. Sì, sì, sì.
 [68:55] SCONOSCIUTO: Due di e
-[68:55] Andrea (Oleggio): li metti e faccio come uno.
+[68:55] Andrea: li metti e faccio come uno.
 [68:56] SCONOSCIUTO: Sì, sì, sì. Ok.
-[68:58] Andrea (Oleggio): Quattro. Ok. Non posso. Sei.
+[68:58] Andrea: Quattro. Ok. Non posso. Sei.
 [69:00] Vanni: Quando un si è sbagliato... Dieci quanti moltiplici di te si è curato? Infatti se ne sarebbe curati sono due di sei più... Eh
 [69:07] SCONOSCIUTO: no,
 [69:07] Custode: due di sei ero più solo... Sei più sei. No erano parecchio perché era un incantesimo. Ma quella la persona sbagliata stava...
 [69:17] Claudia: Vado io con l 'arco corto?
-[69:19] Andrea (Oleggio): Vai.
+[69:19] Andrea: Vai.
 [69:20] Vanni: Quanto fa l 'arco corto? Le danni? Non si dà.
 [69:24] Claudia: Non lo so.
 [69:25] Vanni: Ce l 'hai scritto vicino a acqua? A me l 'ha scritto l 'oggetto che ha portato.
@@ -1346,7 +1346,7 @@
 [69:57] SCONOSCIUTO: Ok.
 [70:06] Custode: Allora, l 'arco corto
 [70:08] Vanni: è un di sei.
-[70:09] Flama (Slurbel): Arco tangente. Quindi
+[70:09] Flama: Arco tangente. Quindi
 [70:10] Vanni: che cambia tra lungo
 [70:11] SCONOSCIUTO: e
 [70:11] Vanni: corto? L 'agittato. L 'agittato. Sì.
@@ -1427,13 +1427,13 @@
 [73:21] Custode: Sarà
 [73:21] Vanni: una morte lenta.
 [73:23] Custode: È una cosa così. È poco dolorosa.
-[73:25] Flama (Slurbel): Ma la collascia.
+[73:25] Flama: Ma la collascia.
 [73:26] Custode: La collascia quindi.
 [73:27] SCONOSCIUTO: Ti
 [73:27] Custode: metti in mischia?
-[73:28] Flama (Slurbel): Sì.
+[73:28] Flama: Sì.
 [73:28] Custode: Da chi vai?
-[73:30] Flama (Slurbel): Da quello.
+[73:30] Flama: Da quello.
 [73:31] Custode: Tu quanto c 'hai? Dove lo
 [73:32] SCONOSCIUTO: devi
 [73:32] Custode: dare?
@@ -1442,19 +1442,19 @@
 [73:36] Custode: È solo di tre quadretti. Cioè... Hai capito? Quindi no. Come lei? Non ci
 [73:41] non attribuito: arrivo?
 [73:41] Custode: Quattro quadretti. Quattro quadretti. Scusa, non ci arrivo.
-[73:43] Flama (Slurbel): Ah.
+[73:43] Flama: Ah.
 [73:44] Custode: Questo è il tuo amore. Mi sei andato a toccare. È un amore on.
-[73:48] Flama (Slurbel): Martello da demolizione. È un attacco a distanza. Eh
+[73:48] Flama: Martello da demolizione. È un attacco a distanza. Eh
 [73:50] Vanni: sì sì sì.
-[73:51] Flama (Slurbel): Io non c 'ho niente a distanza.
+[73:51] Flama: Io non c 'ho niente a distanza.
 [73:53] Vanni: Eh sì, io non c 'ho niente da vicino.
-[73:56] Flama (Slurbel): Ah,
+[73:56] Flama: Ah,
 [73:56] Custode: decidete un attimino cosa fare. Vi dico che pure i goblin ne hanno sei di movimento.
-[74:03] Flama (Slurbel): Io mi avvicino per
+[74:03] Flama: Io mi avvicino per
 [74:04] Custode: adesso. Tu
 [74:05] SCONOSCIUTO: ti
 [74:05] Custode: avvicini? Per
-[74:05] Flama (Slurbel): forza perché sotto c 'ho tutte cose da mischia quindi... Ok.
+[74:05] Flama: forza perché sotto c 'ho tutte cose da mischia quindi... Ok.
 [74:10] Custode: Quindi quattro quadretti.
 [74:13] Custode: Ok. E... avete fatto tutti? Sì. Giusto?
 [74:19] Custode: Ok. Allora.
@@ -1463,7 +1463,7 @@
 [74:25] non attribuito: se
 [74:26] Custode: la riprende con Sarcidio.
 [74:29] Custode: Giustamente. E...
-[74:32] Flama (Slurbel): Io sento, vado al bagno.
+[74:32] Flama: Io sento, vado al bagno.
 [74:34] Vanni: Sì. Quanto è... scusa, non vengo.
 [74:37] Vanni: Quanta è la distanza di Sarcidio massima da Vanello?
 [74:41] Claudia: Tre metri. Ah cavolo,
@@ -1472,14 +1472,14 @@
 [74:47] Custode: Me l 'ho scordato. Eh... tu devi stare vicino a lui, è vero.
 [74:52] non attribuito: Ah. Sì.
 [74:52] Custode: Non ha niente a Sarcidio.
-[74:57] Andrea (Oleggio): Vabbè, per quello che è successo fino adesso non ha cambiato niente a parte che... o facciamo che lui prima non... Facciamo così. Che lui non è attaccato.
+[74:57] Andrea: Vabbè, per quello che è successo fino adesso non ha cambiato niente a parte che... o facciamo che lui prima non... Facciamo così. Che lui non è attaccato.
 [75:08] SCONOSCIUTO: Questo.
 [75:09] Custode: Questo? Sì.
-[75:11] Andrea (Oleggio): Eh ma io ne so pure... Ma lui si è
+[75:11] Andrea: Eh ma io ne so pure... Ma lui si è
 [75:14] Vanni: curato.
-[75:15] Andrea (Oleggio): Ne so pure curato prima però. E
+[75:15] Andrea: Ne so pure curato prima però. E
 [75:17] Custode: allora...
-[75:18] Andrea (Oleggio): Tanto
+[75:18] Andrea: Tanto
 [75:19] Custode: Sarcidio non ha fatto niente.
 [75:20] SCONOSCIUTO: Tanto
 [75:20] Custode: Sarcidio non ha fatto nulla, Sarcidio sta qua vicino a te. Eh. Eh. Ok. Ok. Bene. Sì. Eseguiamo il problema, più facile.
@@ -1500,34 +1500,34 @@
 [76:15] Custode: No, 15. 9.
 [76:18] Claudia: Ah perché c 'ha...
 [76:19] Vanni: 16. Pari, pari... Pari grande. Pari se va a crescere. Quindi qua c 'ho scritto... No, vieni, stai a fa pari... Manca.
-[76:27] Andrea (Oleggio): Non mi pare che sia un fa pari grande.
+[76:27] Andrea: Non mi pare che sia un fa pari grande.
 [76:29] Claudia: Eh, dice più due.
-[76:33] Andrea (Oleggio): No, dico qui, più due attacco. C 'hai più due attacco.
+[76:33] Andrea: No, dico qui, più due attacco. C 'hai più due attacco.
 [76:36] Vanni: Tiri e fai aggiungi due.
 [76:39] Vanni: Al dato.
-[76:40] Andrea (Oleggio): Al dato per tirare,
+[76:40] Andrea: Al dato per tirare,
 [76:42] Custode: per colpire. Ok.
 [76:44] Custode: Ah, questo si mette qua.
-[76:47] Andrea (Oleggio): Ok,
+[76:47] Andrea: Ok,
 [76:48] Custode: lo colpisce.
 [76:48] SCONOSCIUTO: Se lo
 [76:48] Custode: colpisce... Cioè, comunque... Eh? Ok.
 [76:52] SCONOSCIUTO: Ok.
-[76:53] Andrea (Oleggio): Ok,
+[76:53] Andrea: Ok,
 [76:54] SCONOSCIUTO: lo
-[76:54] Andrea (Oleggio): prende. Ragazzi, l 'armatura. E
+[76:54] Andrea: prende. Ragazzi, l 'armatura. E
 [76:56] Claudia: questo qua dietro?
-[76:57] Andrea (Oleggio): No, ah, scusa, no. Ragazzi, l 'armatura è 18. E il più 2 è... E
+[76:57] Andrea: No, ah, scusa, no. Ragazzi, l 'armatura è 18. E il più 2 è... E
 [77:03] SCONOSCIUTO: atti, 4.
-[77:03] Andrea (Oleggio): 3.
+[77:03] Andrea: 3.
 [77:04] Custode: E atti, 4. Questo qua qua è di sfida. Si batte l 'arma sullo scudo.
 [77:12] Custode: E tocca a voi.
-[77:15] Andrea (Oleggio): Ok.
-[77:17] Andrea (Oleggio): Riprendiamo da Sarcidio prima?
+[77:15] Andrea: Ok.
+[77:17] Andrea: Riprendiamo da Sarcidio prima?
 [77:20] SCONOSCIUTO: No. No, no, no. Ok.
-[77:22] Andrea (Oleggio): No, aspetta.
+[77:22] Andrea: No, aspetta.
 [77:25] Vanni: Prima quelli da lontano, così se uno si abbatte sai dove non andava.
-[77:29] Andrea (Oleggio): Ah, ok. Allora vado io.
+[77:29] Andrea: Ah, ok. Allora vado io.
 [77:32] Claudia: Adesso adesso.
 [77:36] Claudia: Vado io... Aspetta un
 [77:38] SCONOSCIUTO: attimo.
@@ -1547,9 +1547,9 @@
 [77:58] Custode: colpito.
 [77:59] Vanni: Io se voglio colpire questo togliamo... Se ha lo scudo se toglie perché sta di spalle con lo schiolino.
 [78:06] Custode: Sta di lato o... Si, tra l 'altro c 'è. Perché
-[78:10] Flama (Slurbel): stanno tutti intorno a me? Non
+[78:10] Flama: stanno tutti intorno a me? Non
 [78:11] Vanni: si prende.
-[78:12] Flama (Slurbel): Per me è per caso il lisciato tutti e tre.
+[78:12] Flama: Per me è per caso il lisciato tutti e tre.
 [78:15] Vanni: Provo a mancarlo. Provo a mancarlo.
 [78:19] Vanni: Ci riesco. Abbiamo fatto
 [78:21] Custode: 5. 5.
@@ -1580,26 +1580,26 @@
 [79:00] Vanni: Sì,
 [79:00] Custode: quello di spalle c 'è in più.
 [79:05] Claudia: 10.
-[79:07] Andrea (Oleggio): Quindi 11?
+[79:07] Andrea: Quindi 11?
 [79:08] Custode: No, io... No, 12. E 12 perché c 'è più uno della distanza e più uno del grosso. Quindi lo prendo. Danno?
 [79:15] Claudia: 2.
 [79:18] Custode: Vabbè dai, ma piccolo. Quello è il numero 1.
 [79:22] SCONOSCIUTO: E quello è il numero 2. Ok.
 [79:25] Custode: Poi?
-[79:27] Flama (Slurbel): Posso andare
-[79:27] Andrea (Oleggio): io?
+[79:27] Flama: Posso andare
+[79:27] Andrea: io?
 [79:28] SCONOSCIUTO: No, no.
-[79:28] Flama (Slurbel): Non hai fatto che.
-[79:30] Andrea (Oleggio): No, tu
-[79:30] Flama (Slurbel): hai
-[79:30] Andrea (Oleggio): fatto.
-[79:35] Andrea (Oleggio): Allora, tu mi hai detto che però se uso la spada dovrei andare verso quello più grosso.
+[79:28] Flama: Non hai fatto che.
+[79:30] Andrea: No, tu
+[79:30] Flama: hai
+[79:30] Andrea: fatto.
+[79:35] Andrea: Allora, tu mi hai detto che però se uso la spada dovrei andare verso quello più grosso.
 [79:40] Custode: Sì.
-[79:41] Andrea (Oleggio): Vabbè io ce l 'avrò. Ok. Però mi devo avvicinare.
+[79:41] Andrea: Vabbè io ce l 'avrò. Ok. Però mi devo avvicinare.
 [79:46] Custode: Ah, perché... Non so se ci arrivo. Ah,
 [79:48] SCONOSCIUTO: perché è una cosa dell
 [79:48] Custode: 'arroganza. Sì, che spada. Ci
-[79:49] Andrea (Oleggio): arrivo?
+[79:49] Andrea: arrivo?
 [79:50] Vanni: Ci colpisce sempre più. Io c 'ho 4 metri in
 [79:52] SCONOSCIUTO: più.
 [79:52] Vanni: Sì.
@@ -1611,19 +1611,19 @@
 [80:01] Custode: 1 e mezzo, 2 e mezzo e 3, sì, ci arrivi. Ah, preciso. Se
 [80:05] SCONOSCIUTO: ti
 [80:05] Custode: metti
-[80:06] Andrea (Oleggio): qua.
-[80:08] Andrea (Oleggio): E se il cidio mi rimane dietro? Cioè, più 2 al danno e più 3... No, scusa. Più 2 all 'attacco e più 3 al danno.
-[80:17] Andrea (Oleggio): Più 2 all 'attacco e
+[80:06] Andrea: qua.
+[80:08] Andrea: E se il cidio mi rimane dietro? Cioè, più 2 al danno e più 3... No, scusa. Più 2 all 'attacco e più 3 al danno.
+[80:17] Andrea: Più 2 all 'attacco e
 [80:19] Custode: più 3
-[80:19] Andrea (Oleggio): al
+[80:19] Andrea: al
 [80:19] SCONOSCIUTO: danno.
-[80:19] Andrea (Oleggio): Sì.
+[80:19] Andrea: Sì.
 [80:20] Vanni: Più 2 rispetto a già
 [80:22] SCONOSCIUTO: il gioco.
 [80:23] Vanni: Sì, quindi è più 4. Sì,
-[80:25] Andrea (Oleggio): sì, sì. È una
+[80:25] Andrea: sì, sì. È una
 [80:26] Vanni: spada
-[80:26] Andrea (Oleggio): magica. Quindi più 4.
+[80:26] Andrea: magica. Quindi più 4.
 [80:30] Custode: Devi tirare il d20.
 [80:32] Vanni: Sì.
 [80:32] Custode: Perché fa più deducci.
@@ -1631,66 +1631,66 @@
 [80:37] Vanni: fatto 5 con le 2.
 [80:38] Custode: Quanto hai fatto? 5. Ma fa veramente schifo, ragazzi. Sì, io
 [80:43] Vanni: voglio. Ho fatto 5
-[80:44] Andrea (Oleggio): con più 4. Però è loro, eh, perché hanno 3. Come 5 con più 4? Poi ne hai fatto 1. Ah, no. Ah. Io
-[80:50] Flama (Slurbel): ho 5.
+[80:44] Andrea: con più 4. Però è loro, eh, perché hanno 3. Come 5 con più 4? Poi ne hai fatto 1. Ah, no. Ah. Io
+[80:50] Flama: ho 5.
 [80:51] Vanni: Guardate
-[80:51] Andrea (Oleggio): che ho più 4. Sì, ma
+[80:51] Andrea: che ho più 4. Sì, ma
 [80:52] SCONOSCIUTO: non è vero. Sì,
-[80:52] Andrea (Oleggio): vai.
+[80:52] Andrea: vai.
 [80:55] SCONOSCIUTO: Attacco
 [80:56] Custode: quello
-[80:56] Flama (Slurbel): che era stato attaccato. Quello che c
+[80:56] Flama: che era stato attaccato. Quello che c
 [80:59] Custode: 'è davanti, allora.
-[81:01] Flama (Slurbel): 17.
+[81:01] Flama: 17.
 [81:02] SCONOSCIUTO: Ho
 [81:02] non attribuito: preso. E io
-[81:05] Flama (Slurbel): c 'ho un d10.
+[81:05] Flama: c 'ho un d10.
 [81:07] non attribuito: Che buono.
-[81:08] Flama (Slurbel): Che buono.
+[81:08] Flama: Che buono.
 [81:15] non attribuito: 2.
 [81:16] Vanni: Cioè, che coglioni. 2? Davvero? Con il d10? Era ancora impossibile. Ma come quanti? Cazzo, non mi sembrava.
 [81:21] SCONOSCIUTO: Ma non è vero.
 [81:22] Vanni: Sembra il nonnani.
 [81:23] non attribuito: Cioè,
-[81:24] Andrea (Oleggio): come
+[81:24] Andrea: come
 [81:24] Vanni: vuoi.
-[81:24] Andrea (Oleggio): Ma come
+[81:24] Andrea: Ma come
 [81:25] SCONOSCIUTO: vuoi.
-[81:25] Andrea (Oleggio): Bisogna tirare su una superficie più...
+[81:25] Andrea: Bisogna tirare su una superficie più...
 [81:29] Vanni: No, puoi fare quello che vuoi. Quando non hai più panni, via va.
 [81:33] Custode: Esatto.
-[81:34] Flama (Slurbel): Sandro.
+[81:34] Flama: Sandro.
 [81:35] Custode: Esatto.
 [81:36] SCONOSCIUTO: Non
 [81:36] Custode: c 'è più di cosa per mettere. 3, 4, 1.
 [81:43] Vanni: Eh, sto prendendo tutti i tiri.
-[81:46] Andrea (Oleggio): 3?
+[81:46] Andrea: 3?
 [81:47] Vanni: Sì, prende 2 e 1.
-[81:48] Andrea (Oleggio): Che il dado lo fa. Se quello non lo
+[81:48] Andrea: Che il dado lo fa. Se quello non lo
 [81:50] SCONOSCIUTO: fa,
-[81:50] Andrea (Oleggio): diventa una cosa di
+[81:50] Andrea: diventa una cosa di
 [81:51] Custode: vedere se... Ma
 [81:52] SCONOSCIUTO: il dato lo fa. C
 [81:52] Custode: 'è il critico normale.
 [81:58] non attribuito: Facciamo un
-[81:59] Flama (Slurbel): po'
+[81:59] Flama: po'
 [82:03] SCONOSCIUTO: di
-[82:03] Flama (Slurbel): ruolo, che non sbagliano i miei anelli.
-[82:05] Andrea (Oleggio): Ah, sì?
-[82:05] Flama (Slurbel): Sì.
-[82:06] Andrea (Oleggio): Proprio oggi mi ha detto che un peuliano stava a Villa di Rana per sposarsi con un 'italiana. All 'inizio mi sembrava una barzelletta. C 'è Francesca che ha cantato la loro matrimonio. Ah, quindi è vero. Sì, sì. Ma oggi era?
+[82:03] Flama: ruolo, che non sbagliano i miei anelli.
+[82:05] Andrea: Ah, sì?
+[82:05] Flama: Sì.
+[82:06] Andrea: Proprio oggi mi ha detto che un peuliano stava a Villa di Rana per sposarsi con un 'italiana. All 'inizio mi sembrava una barzelletta. C 'è Francesca che ha cantato la loro matrimonio. Ah, quindi è vero. Sì, sì. Ma oggi era?
 [82:19] Custode: No, era... settimana fa. Settimana fa.
 [82:22] SCONOSCIUTO: Ma...
 [82:22] Custode: sabato scorso. Sì.
 [82:26] SCONOSCIUTO: Ho
-[82:26] Andrea (Oleggio): trovato un sacco di soldi. Sì, sono belli.
+[82:26] Andrea: trovato un sacco di soldi. Sì, sono belli.
 [82:33] Vanni: Nessuno è al campo. Però dormi.
 [82:36] Claudia: Sì, ma dopo ti faccio la pubblicità.
 [82:40] Custode: Va bene, non lo trovo. Un pochino di tempo. E... chi manca? Sir Cidio? Sì.
 [82:47] Custode: Ser Acidio. Ser Acidio,
-[82:49] Andrea (Oleggio): sei l 'ultimo? No,
+[82:49] Andrea: sei l 'ultimo? No,
 [82:49] SCONOSCIUTO: non è il mio. Sei
-[82:49] Andrea (Oleggio): l 'ultimo?
+[82:49] Andrea: l 'ultimo?
 [82:50] SCONOSCIUTO: No, non è
 [82:50] Custode: il mio. No, non
 [82:51] SCONOSCIUTO: è il
@@ -1709,7 +1709,7 @@
 [83:22] Custode: come era
 [83:23] non attribuito: scendo su
 [83:28] Custode: suicidio 5 anni
-[83:35] Flama (Slurbel): così vedete
+[83:35] Flama: così vedete
 [83:37] Custode: che è un 'altra cosa che vuole fare e
 [83:54] Custode: vedete improvvisamente che stop goblin a un certo punto è come se
 [84:12] Custode: vedete che si riempie dei rughe e labbra della pelle spostata
@@ -1722,7 +1722,7 @@
 [85:03] Custode: stupito
 [85:07] Custode: si era stupito allora lo goblin e cerca di di prendere lui
 [85:19] Custode: stai parlando di me 9 non c 'è mai no
-[85:29] Andrea (Oleggio): e
+[85:29] Andrea: e
 [85:32] Custode: 123 gli casca la spada 4 con questa è riesce a tenerla
 [85:40] SCONOSCIUTO: gli
 [85:41] Custode: altri attaccano tutti qui in mosca in mosca qui
@@ -1730,18 +1730,18 @@
 [85:51] Custode: primo e il primo cade
 [85:53] non attribuito: 15
 [85:54] Custode: più 1 16 si
-[86:00] Flama (Slurbel): oddio se ce l 'ho paro è
+[86:00] Flama: oddio se ce l 'ho paro è
 [86:03] Custode: bene
-[86:06] Flama (Slurbel): dovresti essere contento
+[86:06] Flama: dovresti essere contento
 [86:09] SCONOSCIUTO: quanto
 [86:13] SCONOSCIUTO: ti
 [86:14] Custode: fa 1 di 6 danni
 [86:17] Custode: 5 danni
-[86:18] Flama (Slurbel): come 5 danni
-[86:19] Andrea (Oleggio): 7
-[86:22] Andrea (Oleggio): se a
+[86:18] Flama: come 5 danni
+[86:19] Andrea: 7
+[86:22] Andrea: se a
 [86:23] SCONOSCIUTO: me
-[86:23] Andrea (Oleggio): non facessi 5 danni le faccio ciao amici
+[86:23] Andrea: non facessi 5 danni le faccio ciao amici
 [86:29] non attribuito: amici ci dobbiamo lasciare
 [86:35] Vanni: io
 [86:37] non attribuito: dico che cazzo
@@ -1764,28 +1764,28 @@
 [88:35] Claudia: stiamo migliorando 1
 [88:37] Vanni: 1 2 il prossimo 4 quanti cazzo di ferita c 'hanno più i goblin di lui ma quello è proprio il mio
 [88:49] Custode: è il mio personale sono tutti impellicciati sono bianchi rispetto a quelli che vi sto dicendo sono i goblin che sono bianchi che sono più forti che
-[89:00] Flama (Slurbel): non
+[89:00] Flama: non
 [89:02] Custode: so quelli verdogni che conoscevo i vassi i luastri sono armati i
-[89:09] Flama (Slurbel): goblin
+[89:09] Flama: goblin
 [89:10] Custode: che sono
 [89:10] SCONOSCIUTO: bianchi
 [89:10] Custode: che fate? vado
-[89:13] Flama (Slurbel): io? io
+[89:13] Flama: io? io
 [89:13] Claudia: vi
 [89:14] Custode: ricordo che il vostro... non mi sta molto male... eh
 [89:18] Claudia: sto provando...
 [89:20] SCONOSCIUTO: eh
 [89:20] Custode: non ci
-[89:20] Andrea (Oleggio): vedete, mangiate pure... io? ma il mio guarigione maggiore era one shot...
+[89:20] Andrea: vedete, mangiate pure... io? ma il mio guarigione maggiore era one shot...
 [89:27] non attribuito: ma qua sempre... ho dovuto...
-[89:32] Andrea (Oleggio): manco di media...
+[89:32] Andrea: manco di media...
 [89:35] Claudia: no, te il personaggio dicevo no... no...
 [89:42] Custode: l 'ho
 [89:44] Claudia: visto ma... Banco
 [89:46] Custode: di tenebra... no,
 [89:47] Claudia: Banco di tenebra non l 'ho visto... ma
 [89:50] non attribuito: c
-[89:51] Andrea (Oleggio): 'è
+[89:51] Andrea: 'è
 [89:54] Claudia: una
 [89:54] non attribuito: pozione
 [89:55] Claudia: minore...
@@ -1795,27 +1795,27 @@
 [90:08] Custode: movimento pozione basta...
 [90:11] Vanni: ok, quindi è azione pozione... si, azione pozione...
 [90:15] SCONOSCIUTO: ma
-[90:16] Andrea (Oleggio): se vuoi attacca... se tu non te ne
+[90:16] Andrea: se vuoi attacca... se tu non te ne
 [90:18] Vanni: muovi... no, perché... no, perché è consumo ad azione...
 [90:23] SCONOSCIUTO: quindi
-[90:24] Flama (Slurbel): che faccio, la prendo?
+[90:24] Flama: che faccio, la prendo?
 [90:25] Vanni: quindi se prendi la cosa
-[90:27] Andrea (Oleggio): poi non attacchi...
-[90:28] Flama (Slurbel): eh però volevo attaccar...
-[90:29] Andrea (Oleggio): ma se non la prendi ti attacchi...
-[90:32] Andrea (Oleggio): quindi...
-[90:33] Flama (Slurbel): interessante punto di vista... che dire... io...
+[90:27] Andrea: poi non attacchi...
+[90:28] Flama: eh però volevo attaccar...
+[90:29] Andrea: ma se non la prendi ti attacchi...
+[90:32] Andrea: quindi...
+[90:33] Flama: interessante punto di vista... che dire... io...
 [90:37] SCONOSCIUTO: perché
 [90:38] Claudia: è una ruma però...
 [90:41] SCONOSCIUTO: se
 [90:42] Vanni: non è un D6 è più... quindi al massimo è un D3...
-[90:46] Flama (Slurbel): è un D4... 4...
+[90:46] Flama: è un D4... 4...
 [90:49] SCONOSCIUTO: i
 [90:50] Vanni: bambini che fanno il solito ilmine... batteri... eh
-[90:54] Flama (Slurbel): hai capito...
-[90:56] Flama (Slurbel): piti robusto...
+[90:54] Flama: hai capito...
+[90:56] Flama: piti robusto...
 [90:57] Vanni: poi se... se sbieni qualcuno verrà là a infilarti la pozione sulle narici... si...
-[91:04] Flama (Slurbel): conto su quello dai...
+[91:04] Flama: conto su quello dai...
 [91:09] Vanni: domani...
 [91:10] non attribuito: oh no, oh no, oh no... che
 [91:12] Vanni: succede quando si finisce a zero?
@@ -1823,9 +1823,9 @@
 [91:17] non attribuito: si?
 [91:17] Vanni: si...
 [91:20] Vanni: morte istantanee...
-[91:21] Flama (Slurbel): ehm... sì... però sono di 10... eh
+[91:21] Flama: ehm... sì... però sono di 10... eh
 [91:25] Vanni: lo so... mi
-[91:26] Flama (Slurbel): spiego...
+[91:26] Flama: spiego...
 [91:27] Vanni: troppo anche di sfiga...
 [91:30] non attribuito: si... si... non lo
 [91:34] Vanni: so...
@@ -1888,11 +1888,11 @@
 [94:24] Claudia: la mattinzosa il bambino che con dieci
 [94:31] Vanni: anni non moriremo morti
 [94:33] Claudia: con di sé con
-[94:38] Andrea (Oleggio): di sceglie anche tu che faccio io
-[94:42] Flama (Slurbel): vai
-[94:46] Andrea (Oleggio): a riprovo ma
+[94:38] Andrea: di sceglie anche tu che faccio io
+[94:42] Flama: vai
+[94:46] Andrea: a riprovo ma
 [94:49] SCONOSCIUTO: ma
-[94:51] Andrea (Oleggio): si
+[94:51] Andrea: si
 [94:56] Custode: no
 [95:07] Claudia: ma
 [95:08] Custode: se
@@ -1905,30 +1905,30 @@
 [95:24] Claudia: guarda guarda in che condizioni mi sono
 [95:26] SCONOSCIUTO: posso
 [95:26] Claudia: pure posso
-[95:27] Andrea (Oleggio): pure fare un sacco di danni perché ho 8 più 3
-[95:32] Flama (Slurbel): no dovrei
-[95:33] Andrea (Oleggio): fare massimo 11 danni si
-[95:35] Flama (Slurbel): no scusate mi prendo la pozione
+[95:27] Andrea: pure fare un sacco di danni perché ho 8 più 3
+[95:32] Flama: no dovrei
+[95:33] Andrea: fare massimo 11 danni si
+[95:35] Flama: no scusate mi prendo la pozione
 [95:37] Vanni: c 'è pure una festa al 26 di giallo non c 'è pagata che
-[95:40] Flama (Slurbel): cazzarola
+[95:40] Flama: cazzarola
 [95:43] Claudia: signor goblin mi prendo la pozione la festa prenotata ah
 [95:49] Custode: se vuoi
 [95:50] SCONOSCIUTO: puoi andare in casa con i tuoi figli
-[96:18] Andrea (Oleggio): Definizione
-[96:19] Flama (Slurbel): No, ma è solo per dirvelo. Ma
+[96:18] Andrea: Definizione
+[96:19] Flama: No, ma è solo per dirvelo. Ma
 [96:21] Vanni: come?
 [96:23] Vanni: Ah, sì, è questo.
-[96:24] Flama (Slurbel): Ah, scusa. Ah, è questo? Ah, ok.
+[96:24] Flama: Ah, scusa. Ah, è questo? Ah, ok.
 [96:28] Vanni: Eh,
-[96:29] Flama (Slurbel): sì, la prendo. È la pietra filosofale.
-[96:32] Andrea (Oleggio): D4 o più? La pietra.
-[96:34] Flama (Slurbel): No, un D4.
-[96:35] Andrea (Oleggio): Un
-[96:35] Flama (Slurbel): D4
+[96:29] Flama: sì, la prendo. È la pietra filosofale.
+[96:32] Andrea: D4 o più? La pietra.
+[96:34] Flama: No, un D4.
+[96:35] Andrea: Un
+[96:35] Flama: D4
 [96:35] SCONOSCIUTO: basso. Un D4
-[96:35] Flama (Slurbel): basso.
-[96:38] Flama (Slurbel): Vabbè, però 4. Ma non è D4... Mamma mia. Eh sì, perché questo c 'è al massimo il 7.
-[96:45] Andrea (Oleggio): Un D4 meglio. Non avevo la forma quella di prima. Eh
+[96:35] Flama: basso.
+[96:38] Flama: Vabbè, però 4. Ma non è D4... Mamma mia. Eh sì, perché questo c 'è al massimo il 7.
+[96:45] Andrea: Un D4 meglio. Non avevo la forma quella di prima. Eh
 [96:48] Vanni: sì, perché altrimenti c 'entrava l 'occhio verso. Ma c 'è
 [96:51] Claudia: pure... L
 [96:52] Vanni: 'avete fatto tutti? Sì. No.
@@ -1948,22 +1948,22 @@
 [97:41] Vanni: in realtà sono decenni.
 [97:44] Custode: No, no. No, i decenni non c 'è.
 [97:46] SCONOSCIUTO: No.
-[97:50] Andrea (Oleggio): Perché secondo voi siete‌
-[98:01] Flama (Slurbel): Perché
-[98:02] Andrea (Oleggio): comunque avete dato circa 읽 uno fa 5 questo
+[97:50] Andrea: Perché secondo voi siete‌
+[98:01] Flama: Perché
+[98:02] Andrea: comunque avete dato circa 읽 uno fa 5 questo
 [98:10] Custode: fa 5
-[98:13] Andrea (Oleggio): 13
-[98:15] Flama (Slurbel): no, non
+[98:13] Andrea: 13
+[98:15] Flama: no, non
 [98:16] SCONOSCIUTO: mi
-[98:16] Flama (Slurbel): prendi
-[98:18] Flama (Slurbel): chiudo
+[98:16] Flama: prendi
+[98:18] Flama: chiudo
 [98:19] Vanni: chiudo io mi sposto quanto basta per colpire quello
 [98:25] Vanni: dove devo mettere? cubi, cubi, cubi ma
-[98:29] Flama (Slurbel): così
+[98:29] Flama: così
 [98:30] Vanni: non ho tutti i ragazzi
-[98:31] Flama (Slurbel): non
+[98:31] Flama: non
 [98:32] Vanni: ce li vi lascia sono
-[98:33] Flama (Slurbel): mesi
+[98:33] Flama: mesi
 [98:34] Vanni: c 'è 6 di movimento? c 'è 4 quadretti qui no?
 [98:38] non attribuito: ecco
 [98:39] Vanni: qua lo vedo la miniatura
@@ -1974,25 +1974,25 @@
 [99:13] Custode: prendere
 [99:14] Claudia: questo?
 [99:14] Custode: adesso
-[99:15] Andrea (Oleggio): sì perché c 'ho tutti davanti io mi posso mettere a 4 zante o qua
+[99:15] Andrea: sì perché c 'ho tutti davanti io mi posso mettere a 4 zante o qua
 [99:20] non attribuito: vabbè non è necessario ok
 [99:25] non attribuito: beh beh
 [99:30] Claudia: ho esaurito i vivi buoni io
-[99:34] Andrea (Oleggio): penso che lo vedo quello lì quello che ha attaccato Panni prima
+[99:34] Andrea: penso che lo vedo quello lì quello che ha attaccato Panni prima
 [99:39] Custode: però
-[99:40] Andrea (Oleggio): devi cucinare cioè giusto giusto giusto
+[99:40] Andrea: devi cucinare cioè giusto giusto giusto
 [99:45] Custode: però
-[99:46] Andrea (Oleggio): non ci arrivo vedi?
+[99:46] Andrea: non ci arrivo vedi?
 [99:48] Vanni: c 'ha lì poi fa 4 quadretti 1, 2, 3 3 se vai nella diagonale si può mettere qua
 [99:54] Claudia: oh no e
 [99:55] Vanni: qui hai rotto il campo del battaglio
 [99:56] Claudia: nooo no no era più piccolo era più grande era più grande
 [100:03] Vanni: positivo? si era positivo
 [100:07] SCONOSCIUTO: si
-[100:07] Andrea (Oleggio): si? si vabbè io sto su quel quadretto qui qua
+[100:07] Andrea: si? si vabbè io sto su quel quadretto qui qua
 [100:10] SCONOSCIUTO: ti
 [100:10] Vanni: mettevi in diagonale si
-[100:12] Andrea (Oleggio): ok ciri
+[100:12] Andrea: ok ciri
 [100:13] Custode: tento vai
 [100:16] non attribuito: ciri tento e
 [100:17] Custode: adesso non c 'hai c 'è solo il bonus di scio dell 'acqua si si si c 'ho tutto tutto
@@ -2014,19 +2014,19 @@
 [100:54] non attribuito: il cilio non l 'ho capito
 [100:55] Custode: io si l 'ho preso
 [100:59] Custode: tu hai il cilio si è
-[101:01] Andrea (Oleggio): sempre così quindi
+[101:01] Andrea: sempre così quindi
 [101:05] Custode: questi sono 3 metri e questi sono 6 quindi vado al goblin numero 2 e lo tocca sulla testa sulla testolina lo prende 18 quindi fa
 [101:22] Custode: 4 danni e pure questo muore in carta no non è vero
 [101:28] non attribuito: no è vero
 [101:30] Custode: in carta
 [101:33] Custode: secca tutta e muore
-[101:34] Andrea (Oleggio): è
+[101:34] Andrea: è
 [101:35] Custode: rimasto solo quello che c 'è c 'è solo è una cosa tra te due
-[101:43] Andrea (Oleggio): 4 ma non hai fatto rotolastro non hai fatto un attacco
+[101:43] Andrea: 4 ma non hai fatto rotolastro non hai fatto un attacco
 [101:51] Custode: allora il goblin si
 [101:53] SCONOSCIUTO: è
 [101:53] Vanni: una coppia un po' pacifista
-[101:57] Flama (Slurbel): un attacco l 'ho fatto un anno allora l
+[101:57] Flama: un attacco l 'ho fatto un anno allora l
 [102:04] Custode: 'ultimo goblin è spaventato perché è rimasto da solo quindi quindi
 [102:10] Claudia: quindi
 [102:12] Custode: quindi ha più male del sforzo alza le zampe il braccio quello che è e vi chiede
@@ -2038,37 +2038,37 @@
 [102:28] Custode: un goblin
 [102:29] Vanni: fortuna che non sono nano che fate?
 [102:34] Claudia: non fate alcun errore no
-[102:36] Andrea (Oleggio): no io guardo esercitio io guardo
+[102:36] Andrea: no io guardo esercitio io guardo
 [102:39] Vanni: esercitio io
 [102:39] SCONOSCIUTO: guardo esercitio
-[102:44] Andrea (Oleggio): allora
-[102:48] Andrea (Oleggio): ma sopra fa l 'ultimo attacco posso questo è diciamo fuori dai
+[102:44] Andrea: allora
+[102:48] Andrea: ma sopra fa l 'ultimo attacco posso questo è diciamo fuori dai
 [102:54] Custode: turni
-[102:56] Andrea (Oleggio): voglio
+[102:56] Andrea: voglio
 [102:56] Custode: attaccare va
-[102:58] Flama (Slurbel): bene
-[103:01] Andrea (Oleggio): qualsiasi attacco non devi
+[102:58] Flama: bene
+[103:01] Andrea: qualsiasi attacco non devi
 [103:03] Custode: fare nessun tipo di prova perché stai nel mellano quindi a meno che quindi
-[103:08] Andrea (Oleggio): non devo tirare colpi tira
+[103:08] Andrea: non devo tirare colpi tira
 [103:10] Custode: se fai uno che casca la spada e con la spada tutto il resto lo uccide se superi la prova lo uccidi perché lo
-[103:17] Andrea (Oleggio): uccidi
+[103:17] Andrea: uccidi
 [103:18] Vanni: da
 [103:18] Custode: due in
 [103:19] Vanni: su
 [103:19] Custode: c
-[103:20] Andrea (Oleggio): 'è rischio se fai uno no
+[103:20] Andrea: 'è rischio se fai uno no
 [103:22] Vanni: dai un piede
-[103:24] Andrea (Oleggio): 11 ah 1 se riuscivo a uccidere un goblin enorme 4 sarebbe quindi e
+[103:24] Andrea: 11 ah 1 se riuscivo a uccidere un goblin enorme 4 sarebbe quindi e
 [103:33] Custode: lo uccidi lo passi a fil di spada e sono tutti morti
-[103:44] Andrea (Oleggio): prende qualcosa se volete io mi
+[103:44] Andrea: prende qualcosa se volete io mi
 [103:49] Custode: prendo una spada allora lo goblin e tra una spada lunga
 [103:56] Custode: tutti gli altri c 'hanno spade corte
 [104:01] Custode: la la foggia qualcuno era la spada lunga
-[104:10] Andrea (Oleggio): la
+[104:10] Andrea: la
 [104:10] Custode: foggia del !
 [104:20] Custode: la
 [104:21] Vanni: spada lunga fa un di otto
-[104:26] Andrea (Oleggio): più forza
+[104:26] Andrea: più forza
 [104:31] Vanni: che
 [104:32] Custode: sono tutte armi tutte quelle che prendete qua di ferro algido quindi fanno più un danno contro fate e semi fate
 [104:53] Custode: se chi ha
@@ -2090,18 +2090,18 @@
 [105:49] Claudia: Si.
 [105:49] Custode: Allora, faccia accompagnare la mezza.
 [105:52] Claudia: Io penso
-[105:52] Andrea (Oleggio): al di... Ah, ah, ah, entriamo e facciamo un cliffhanger. Facciamo un cliffhanger all 'interno. Ce l 'hai? Ce l 'hai?
+[105:52] Andrea: al di... Ah, ah, ah, entriamo e facciamo un cliffhanger. Facciamo un cliffhanger all 'interno. Ce l 'hai? Ce l 'hai?
 [106:03] SCONOSCIUTO: Hai
-[106:04] Flama (Slurbel): detto più volte cliffhanger e che attacchi.
-[106:08] Andrea (Oleggio): Attacchi, attacchi, attacchi, attacchi. Che attacchi non è da segno.
+[106:04] Flama: detto più volte cliffhanger e che attacchi.
+[106:08] Andrea: Attacchi, attacchi, attacchi, attacchi. Che attacchi non è da segno.
 [106:12] SCONOSCIUTO: Oh.
-[106:15] Andrea (Oleggio): Ah, per
+[106:15] Andrea: Ah, per
 [106:16] Custode: farvi un breve, manca solo da esplorare la torre e c 'è il finale. Unico un 'altra sessione
 [106:21] SCONOSCIUTO: e
 [106:21] Custode: vi diamo.
-[106:22] Andrea (Oleggio): Ok.
+[106:22] Andrea: Ok.
 [106:22] Custode: Quindi vi spiego solo che il piano terra della torre, ovviamente è tutto, immaginatevi, tutto curato, tutto ciò che vi descriverò è tutto nuovo. Quindi non è come la tomba che... che avete trovato prima che era tutto distrutto, eccetera, eccetera. Ma è messo tutto molto bene. Quindi, per esempio, i pannelli sono di noce tutta lucidata e il pavimento è di assi lucidati, di noce scura, specificato.
-[106:58] Flama (Slurbel): Esposizione?
+[106:58] Flama: Esposizione?
 [106:58] Custode: L 'atmosfera è tutta norda. È 360 gradi. È
 [107:03] non attribuito: tutta norda a 360 gradi.
 [107:05] Custode: Perché
@@ -2123,7 +2123,7 @@
 [107:38] Vanni: bene.
 [107:39] SCONOSCIUTO: Ok.
 [107:39] Vanni: Noi a fatica ne abbiamo chiesi quattro.
-[107:42] Andrea (Oleggio): Esatto.
+[107:42] Andrea: Esatto.
 [107:47] non attribuito: A fatica.
 [107:50] non attribuito: Dava fatica.
 [107:56] non attribuito: Grazie.
@@ -2133,14 +2133,14 @@
 [108:04] non attribuito: Ok?
 [108:05] Custode: Ok. E... Quindi, quello... tutto quello che vi ho descritto è quello che avete davanti.
 [108:15] Custode: E... Non so se ci
-[108:16] Flama (Slurbel): abbatto questo, ci dobbiamo tagliare le spalle. Beh, non vi dico tutto quello
+[108:16] Flama: abbatto questo, ci dobbiamo tagliare le spalle. Beh, non vi dico tutto quello
 [108:20] SCONOSCIUTO: che
-[108:20] Flama (Slurbel): vi
+[108:20] Flama: vi
 [108:20] SCONOSCIUTO: ho detto.
-[108:20] Flama (Slurbel): Ma la descrizione del... del parquet che c 'è qua, quindi non
+[108:20] Flama: Ma la descrizione del... del parquet che c 'è qua, quindi non
 [108:23] SCONOSCIUTO: è
-[108:23] Flama (Slurbel): così.
-[108:25] Flama (Slurbel): Ho quantomeno chiederlo prima di entrare.
+[108:23] Flama: così.
+[108:25] Flama: Ho quantomeno chiederlo prima di entrare.
 [108:33] Custode: E sentite un leggero bociare da oltre la metà
 [108:38] SCONOSCIUTO: della piazza,
 [108:38] Custode: diciamo, del piano.
@@ -2154,9 +2154,9 @@
 [109:18] SCONOSCIUTO: lo
 [109:18] Vanni: chiedete?
 [109:20] Vanni: Ce lo chiediamo così tanto da andare a controllare. Tu
-[109:23] Flama (Slurbel): lo sai, no? Tu lo sai, no? Andiamo.
+[109:23] Flama: lo sai, no? Tu lo sai, no? Andiamo.
 [109:25] Vanni: Cioè siamo in realtà abbattati. Sì. Ok. Ci
-[109:28] Andrea (Oleggio): siamo.
+[109:28] Andrea: siamo.
 [109:37] non attribuito: Che c 'è? Che c 'è? Che c 'è? Allora,
 [109:41] Custode: come aprite la porta... Non lo so, non lo
 [109:43] SCONOSCIUTO: so.
@@ -2167,7 +2167,7 @@
 [110:07] non attribuito: Sopra
 [110:07] Custode: la sua testa c 'è un goblin.
 [110:09] SCONOSCIUTO: Che cazzo.
-[110:11] Flama (Slurbel): Che la manovra per cucinare. Sì. Che
+[110:11] Flama: Che la manovra per cucinare. Sì. Che
 [110:15] Custode: sta cucinando, cioè insomma si sta muovendo tra i fornelli. Esatto.
 [110:22] Custode: E come vedi, il troll è enorme, è proprio grasso, eccetera.
 [110:28] Custode: Solo che ha la borsa, ha una borsa davanti strapiena di cose.
@@ -2183,16 +2183,16 @@
 [111:00] SCONOSCIUTO: Che
 [111:00] Custode: bellissimo.
 [111:02] SCONOSCIUTO: Non
-[111:03] Andrea (Oleggio): è così. Non è
+[111:03] Andrea: è così. Non è
 [111:04] non attribuito: così.
-[111:05] Andrea (Oleggio): Siamo... Non
+[111:05] Andrea: Siamo... Non
 [111:05] SCONOSCIUTO: c 'è
-[111:05] Andrea (Oleggio): dubbio.
-[111:07] Andrea (Oleggio): Invitati.
-[111:08] Flama (Slurbel): Invitati? Per il cibo.
+[111:05] Andrea: dubbio.
+[111:07] Andrea: Invitati.
+[111:08] Flama: Invitati? Per il cibo.
 [111:10] SCONOSCIUTO: Auto.
-[111:11] Andrea (Oleggio): Auto.
-[111:12] Flama (Slurbel): Siamo tre auto.
+[111:11] Andrea: Auto.
+[111:12] Flama: Siamo tre auto.
 [111:13] non attribuito: Auto. Brum brum. Brum. Brum.
 [111:18] Vanni: Gli rispondiamo così, brum brum.
 [111:19] non attribuito: Brum brum. Ok.
@@ -2209,25 +2209,25 @@
 [111:37] non attribuito: E... Siete
 [111:38] Vanni: cibo o
 [111:38] Custode: siete
-[111:39] Flama (Slurbel): invitati.
+[111:39] Flama: invitati.
 [111:41] SCONOSCIUTO: Il
-[111:41] Flama (Slurbel): fratello, con le semente trampola, legge Venimo Stilton. Nonostante non sono l 'avessero emulato, è un carattere.
-[111:48] Andrea (Oleggio): Oddio, sì, è vero. Ma chi era il cugino?
-[111:51] Flama (Slurbel): No, il cugino legge Venimo Stilton era trampola.
-[111:54] Andrea (Oleggio): Eh.
-[111:55] Flama (Slurbel): Eh. Però il fratello di Remy assomiglia a un campano.
-[111:59] Andrea (Oleggio): Sì, il fratello. Non era un amico. Metti la
-[112:01] Flama (Slurbel): mano.
-[112:02] Andrea (Oleggio): Non era un amico. Ma noi eravamo tutti, veramente, tutti... Ehi, erano... Era una madre di tutti. Però non era fratello. È il fratello che
-[112:11] Flama (Slurbel): ha avuto i
+[111:41] Flama: fratello, con le semente trampola, legge Venimo Stilton. Nonostante non sono l 'avessero emulato, è un carattere.
+[111:48] Andrea: Oddio, sì, è vero. Ma chi era il cugino?
+[111:51] Flama: No, il cugino legge Venimo Stilton era trampola.
+[111:54] Andrea: Eh.
+[111:55] Flama: Eh. Però il fratello di Remy assomiglia a un campano.
+[111:59] Andrea: Sì, il fratello. Non era un amico. Metti la
+[112:01] Flama: mano.
+[112:02] Andrea: Non era un amico. Ma noi eravamo tutti, veramente, tutti... Ehi, erano... Era una madre di tutti. Però non era fratello. È il fratello che
+[112:11] Flama: ha avuto i
 [112:12] SCONOSCIUTO: papi.
-[112:12] Flama (Slurbel): È
+[112:12] Flama: È
 [112:12] SCONOSCIUTO: anche
-[112:12] Flama (Slurbel): il padre. Il topaglio. E'
-[112:14] Andrea (Oleggio): tutta una famiglia. Una topaglia.
+[112:12] Flama: il padre. Il topaglio. E'
+[112:14] Andrea: tutta una famiglia. Una topaglia.
 [112:17] SCONOSCIUTO: Eh,
 [112:18] Claudia: no.
-[112:19] Andrea (Oleggio): Topificio.
+[112:19] Andrea: Topificio.
 [112:21] Claudia: Topaglio. Topazio era una città di giornale. Sì.
 [112:25] non attribuito: Così, dove? Topagliolo.
 [112:30] Vanni: Ma che rimba topagliolo.
@@ -2269,13 +2269,13 @@
 [113:24] SCONOSCIUTO: In che
 [113:24] non attribuito: caso?
 [113:25] Custode: Mentre...
-[113:26] Andrea (Oleggio): Sembra che dai 650 al passo del livello. Sì. 650. Esatto.
-[113:32] Andrea (Oleggio): Perché con 500 vado a 2100.
+[113:26] Andrea: Sembra che dai 650 al passo del livello. Sì. 650. Esatto.
+[113:32] Andrea: Perché con 500 vado a 2100.
 [113:36] non attribuito: 2100, vedi?
-[113:38] Andrea (Oleggio): Perché l 'ultima volta... Guerriero 2100. Due volte fa...
+[113:38] Andrea: Perché l 'ultima volta... Guerriero 2100. Due volte fa...
 [113:42] non attribuito: Guerriero 2100? ...t
 [113:43] SCONOSCIUTO: 'hai preso
-[113:43] Andrea (Oleggio): 700... Guerriero? ...e lei ha dato 600.
+[113:43] Andrea: 700... Guerriero? ...e lei ha dato 600.
 [113:48] Custode: Io? Vedi a quanto arrivi?
 [113:50] non attribuito: Ehm...
 [113:50] Custode: Arrivo
@@ -2283,11 +2283,11 @@
 [113:51] Custode: più di 1000. Tu
 [113:52] SCONOSCIUTO: e lei ho preso 700. Ok.
 [113:53] Custode: Allora, prendo un talento.
-[113:57] Flama (Slurbel): Prendo un talento?
+[113:57] Flama: Prendo un talento?
 [113:58] Custode: Eh sì. Sì,
 [113:59] SCONOSCIUTO: lo
 [113:59] Custode: faccio una prossima volta.
-[114:00] Flama (Slurbel): Ok.
+[114:00] Flama: Ok.
 [114:01] Custode: E mentre in mano... Ok. ...ho
 [114:03] SCONOSCIUTO: preso i
 [114:03] Custode: mani.
@@ -2296,7 +2296,7 @@
 [114:05] Custode: matto un campatore.
 [114:06] SCONOSCIUTO: No,
 [114:06] Custode: no,
-[114:07] Flama (Slurbel): no.
+[114:07] Flama: no.
 [114:10] Custode: Guarda, tu sei matto un campatore, non mi ricordo.
 [114:13] non attribuito: Guarda, tu
 [114:14] SCONOSCIUTO: sei matto un campatore, non mi ricordo.
@@ -2330,21 +2330,21 @@
 [114:47] Custode: L 'avete fatto. Eh, ma stai ovviamente... Una
 [114:48] SCONOSCIUTO: cosa
 [114:48] Custode: fatta bene, quel Goblin... Però tu,
-[114:50] Andrea (Oleggio): di base, di natura, passi via le prime. Le mele?
+[114:50] Andrea: di base, di natura, passi via le prime. Le mele?
 [114:55] Vanni: E poi... Abbiamo tirato le cose, se ne erano allontanati, abbiamo nascosto la roba che si è spaventata.
-[115:01] Andrea (Oleggio): Scusa, ma quindi i... Scusa,
+[115:01] Andrea: Scusa, ma quindi i... Scusa,
 [115:02] SCONOSCIUTO: ma quindi i...
-[115:02] Andrea (Oleggio): Io che sono Cavaliere, quindi passerei a 2250. Sì. Sì, ricontro... Io ricontrovo...
+[115:02] Andrea: Io che sono Cavaliere, quindi passerei a 2250. Sì. Sì, ricontro... Io ricontrovo...
 [115:14] SCONOSCIUTO: Io
-[115:14] Flama (Slurbel): vorrei sapere...
+[115:14] Flama: vorrei sapere...
 [115:16] non attribuito: Sì.
-[115:16] Flama (Slurbel): ...se
+[115:16] Flama: ...se
 [115:16] SCONOSCIUTO: sono 250.
-[115:17] Andrea (Oleggio): No, mi
+[115:17] Andrea: No, mi
 [115:18] SCONOSCIUTO: sono...
-[115:18] Andrea (Oleggio): Così riarrivare a cinque punti ferita,
+[115:18] Andrea: Così riarrivare a cinque punti ferita,
 [115:20] Vanni: invece. Io
-[115:20] Andrea (Oleggio): sono 2100.
+[115:20] Andrea: sono 2100.
 [115:23] non attribuito: E
 [115:24] Vanni: sta scritto come si prendono i punti ferita.
 [115:27] Claudia: E
@@ -2353,7 +2353,7 @@
 [115:32] Custode: scritto che... Ora
 [115:32] SCONOSCIUTO: penso ancora qua
 [115:32] Custode: nel Passaggio degli Yoggli...
-[115:35] Andrea (Oleggio): Dumbildung
+[115:35] Andrea: Dumbildung
 [115:36] Custode: buenas
 [115:37] Vanni: Lit awakenWhite
 [115:51] Custode: código no dopo il livello 10 costituzione non ti prendi dopo il livello ah si? no

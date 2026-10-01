@@ -159,11 +159,22 @@ Custode, che non aveva campione, veniva battezzato «Vanni» perché era il nome
 meno lontano (0,48); e i due campioni di Vanni — voce normale e voce di Andante —
 si facevano concorrenza, lasciando senza nome il parlante che era davvero suo.
 
-Misurato sulla sessione 5, con i campioni di due persone su cinque: Vanni
-riconosciuto a 0,74 e Claudia a 0,64, mentre il migliore dei falsi accostamenti
-si ferma a 0,48. Il margine è ampio, ma dipende dal modello di impronte: con
+Misurato sulla sessione 5, con i campioni di quattro persone su cinque (manca il
+Custode): Vanni a 0,74, Andrea a 0,68, Flama a 0,70, Claudia a 0,64, mentre il
+migliore dei falsi accostamenti si ferma a 0,52. Il Custode, che non ha campione,
+viene correttamente lasciato senza nome: è proprio per questo che serve la
+preferenza reciproca. Il margine dipende dal modello di impronte: con
 `pyannote/embedding` i due gruppi si sovrapponevano, con
 `pyannote/wespeaker-voxceleb-resnet34-LM` si separano nettamente.
+
+**Un controllo che ha pagato.** Con i primi due campioni di Andrea e Flama la
+voce attribuiva i nomi *al contrario* rispetto al contenuto: nel cluster che
+diceva «sono un cavaliere» e «rivale in amore» — cioè Oleggio, di Andrea — il
+campione riconosceva Flama. Non era un errore del modello: i due file avevano i
+nomi scambiati. Quando voce e contenuto discordano, la voce non va né
+scavalcata né creduta alla cieca: va fatto un controllo incrociato, e il modo
+più rapido è cercare nella trascrizione frasi che identificano il personaggio in
+modo univoco.
 
 ### La diarizzazione viene riusata
 
