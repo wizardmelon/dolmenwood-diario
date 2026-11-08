@@ -38,6 +38,7 @@ Uso tipico:
 import argparse
 import json
 import os
+import re
 
 # Alcune operazioni di pyannote non hanno un kernel Metal: senza questo
 # fallback su CPU la pipeline si ferma con un errore invece di proseguire.
@@ -340,6 +341,14 @@ def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.45):
     cos = lambda a, b: torch.nn.functional.cosine_similarity(a, b, dim=0).item()
     punteggi = {(p, n): cos(v, w) for p, v in medie.items() for n, w in note.items()}
 
+    # matrice completa: utile quando un parlante resta senza nome e serve capire quanto
+    # ci è andato vicino (e a quale campione) prima di decidere a mano
+    nomi_campioni = sorted(note)
+    print("    somiglianza (righe: parlanti; colonne: campioni)")
+    print("      " + " " * 12 + "".join(f"{n[:10]:>12}" for n in nomi_campioni))
+    for parlante in sorted(medie):
+        print(f"      {parlante:<12}" + "".join(f"{punteggi[(parlante, n)]:>12.2f}" for n in nomi_campioni))
+
     mappa = {}
     for parlante in medie:
         candidati = sorted(note, key=lambda n: -punteggi[(parlante, n)])
@@ -355,8 +364,10 @@ def assegna_nomi(wav: Path, battute, note, token: str, soglia=0.45):
             print(f"    {parlante} → nessun nome ({nome} {valore:.2f}, ma «{nome}» "
                   f"somiglia di più a {preferito})")
         else:
-            mappa[parlante] = nome
-            print(f"    {parlante} → {nome} ({valore:.2f})")
+            # «Vanni (Andante)» è la voce di scena dello stesso giocatore: nella
+            # trascrizione l'etichetta è chi parla davvero, quindi «Vanni»
+            mappa[parlante] = re.sub(r"\s*\(.*\)\s*$", "", nome)
+            print(f"    {parlante} → {mappa[parlante]} ({valore:.2f})")
     return mappa
 
 

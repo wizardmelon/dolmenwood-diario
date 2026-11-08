@@ -1,0 +1,406 @@
+{
+  "numero": 6,
+  "slug": "sessione-06",
+  "titolo": "Il banchetto dei fantasmi",
+  "sottotitolo": "In cui si mangiano funghi che non si dovrebbero mangiare, si media fra un morto e la sua amata e ci si risveglia fuori da una tomba",
+  "avventura": "Winter's Daughter",
+  "durata": "1h 38m di registrazione, con due microfoni",
+  "occhiello": "Sessione registrata con due microfoni sincronizzati (centro tavolo e vicino al Custode), trascritta con Whisper large-v3 e con le voci riconosciute da pyannote. Ricostruita incrociando le registrazioni e il diario parziale scritto al tavolo, che arriva fino al risveglio fuori dalla tomba. Gli appunti preliminari sono stati preparati con un modello linguistico locale e ricontrollati a mano sulle trascrizioni.",
+  "capitoli": [
+    {
+      "titolo": "Dove eravamo rimasti",
+      "testo": [
+        "La sessione comincia dopo una decina di minuti di chiacchiere fuori gioco, che qui non si riportano. Il riepilogo lo fa Andante, per rimettere in sesto la memoria del tavolo: hanno trovato il fantasma di Sir Cidio, hanno scoperto che la sua amata sembra promessa al «nostro caprone» — cioè a Oleggio — e hanno accompagnato il fantasma fin dentro la torre.",
+        "Nessuno ricorda bene l'ingresso. Il Custode li aiuta e poi riapre la scena dove si era interrotta la volta scorsa: un troll gigantesco con la parannanza, un goblin appollaiato sulla sua testa e la domanda di rito."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Andante Tagliaserpi",
+          "cosa": "Abbiamo trovato il fantasma di Sir Cidio. Il problema è che la sua amata sembra promessa al nostro caprone."
+        },
+        {
+          "chi": "Custode",
+          "cosa": "Non vi ricordate l'ingresso alla torre?"
+        },
+        {
+          "chi": "Andante Tagliaserpi",
+          "cosa": "C'era un odore di roba buona da mangiare."
+        }
+      ]
+    },
+    {
+      "titolo": "Cibo o invitati?",
+      "testo": [
+        "Il gruppo ha risposto «invitati». Il goblin non si accontenta: vuole i nomi, uno per uno, perché senza non c'è modo di metterli in lista. Intorno c'è un'anticamera linda e festosa: ghirlande appese, cappotti invernali tenuti benissimo, stivali e pattini da ghiaccio per terra, un caminetto che scoppietta.",
+        "Slurbel propone di chiedere a Sir Cidio un nome adatto a degli invitati. I giocatori preferiscono arrangiarsi: Oleggio si dà un cognome inventato, *Grullo Grano*, che il goblin storpia subito; Slurbel conferma di essere Slurbel; Secchio di Brodo, con una certa coerenza, tiene a precisare di non essere cibo.",
+        "Il troll annusa l'aria, sfoglia un taccuino e constata che i loro nomi non ci sono. Per entrare, dicono, bisogna mangiare."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Goblin",
+          "nota": "sulla testa del troll",
+          "cosa": "I nomi sono tutto. Dovete dirmeli, se no come faccio a farvi entrare nella lista?"
+        },
+        {
+          "chi": "Slurbel Piedemuffo",
+          "cosa": "Possiamo chiedere a Sir Cidio se ci suggerisce dei nomi che potrebbero essere invitati?"
+        },
+        {
+          "chi": "Oleggio Brucaboschi",
+          "cosa": "Oleggio… Grullo Grano."
+        },
+        {
+          "chi": "Secchio di Brodo",
+          "cosa": "Io sono Secchio di Brodo, ma non sono cibo."
+        },
+        {
+          "chi": "Troll",
+          "cosa": "Sento un profumo… di elfo."
+        },
+        {
+          "chi": "Troll",
+          "cosa": "I vostri nomi qui non ci sono. Per entrare, dovete mangiare."
+        }
+      ]
+    },
+    {
+      "titolo": "I funghi più belli del Dolmenwood",
+      "testo": [
+        "Da un posto che nessuno ha visto — forse dietro la schiena — il troll tira fuori un sacchetto di funghi: «i più belli che abbiate mai visto». Il Custode chiede una prova di Sopravvivenza o di Intelligenza per riconoscerli, e il tavolo si trasforma in un convegno di micologia. Slurbel, che di funghi è letteralmente ricoperto, ha 5 in Sopravvivenza; si scambiano opinioni su amanite, ovuli e cesaree, con Andante che osserva come a Dolmenwood non crescano necessariamente le stesse specie.",
+        "Dopo una serie di tiri il Custode scioglie il dubbio: la magia della borsa è flebile ma molto antica, e la borsa è più grande di quello che sembra. Ogni volta che si prende un fungo, ne ricresce un altro. È infinita.",
+        "Oleggio decide di fare finta di mangiare, e ne prende una quantità minuscola. Gli altri, a quanto pare, no."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Troll",
+          "cosa": "Sono i funghi più belli che abbiate mai visto."
+        },
+        {
+          "chi": "Slurbel Piedemuffo",
+          "cosa": "Ho 5 in Sopravvivenza."
+        },
+        {
+          "chi": "Custode",
+          "cosa": "La magia è flebile, ma molto antica. Ogni volta che prendi un fungo, se ne crea un altro: la borsa è infinita."
+        }
+      ]
+    },
+    {
+      "titolo": "Taleggio e gli altri",
+      "testo": [
+        "Gli effetti arrivano all'istante. Ad Andante crescono peli su tutto il corpo, fino a tre metri. Secchio di Brodo tira un 8: gli occhi si ingrandiscono ed emettono una luce gialla nel raggio di nove metri. La corteccia di Slurbel diventa viola, e il Custode precisa: permanentemente. A Oleggio cresce il naso a dismisura, finché diventa un volto senziente che risponde, commenta e critica tutto quello che dice e che fa. Lui decide di chiamarlo **Taleggio**.",
+        "Intanto i padroni di casa si scansano: il goblin ride così tanto da perdere la presa sul troll, che rovina a terra."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Custode",
+          "nota": "ad Andante",
+          "cosa": "Istantaneamente i peli del tuo corpo crescono fino a tre metri."
+        },
+        {
+          "chi": "Custode",
+          "nota": "a Secchio di Brodo",
+          "cosa": "Hai fatto 8. I tuoi occhi si ingrandiscono ed emettono una luce gialla nel raggio di nove metri."
+        }
+      ]
+    },
+    {
+      "titolo": "La cucina degli elfi del gelo",
+      "testo": [
+        "Il goblin, ancora in preda alle risate, apre la porta di una cucina con un altro caminetto acceso e una stufetta di ghisa. Da dentro arriva il vociare concitato di due persone che lavorano. Sir Cidio non aspetta nessuno e va avanti. Taleggio, che ha fiutato odore di roba buona, tira Oleggio dietro di lui: il Custode riconosce che, in fatto di odori, un naso così può dare dei vantaggi.",
+        "In cucina lavorano frenetici degli elfi del gelo, gli stessi che il gruppo ha visto negli affreschi del tumulo, con cappello da cuoco e parannanza. Non degnano di uno sguardo i visitatori, tranne quando vedono Sir Cidio: allora si fermano un attimo, lo salutano e tornano a lavorare. Sir Cidio si comporta come se fosse tutto normale, come se stessero preparando la cena per lui: lo aspettavano tutti, il principe è tornato.",
+        "Andante gli chiede se conosca quegli esseri, visto che secondo la storia dovrebbe averli combattuti. Sir Cidio si fa drammatico e racconta quello che il gruppo non sapeva: da quando ha conosciuto lei, in quella torre, ha smesso di combattere."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Oleggio Brucaboschi",
+          "nota": "ai compagni, sul proprio naso",
+          "cosa": "Ragazzi, non ci fate caso: è solo un naso."
+        },
+        {
+          "chi": "Oleggio Brucaboschi",
+          "nota": "traducendo Taleggio",
+          "cosa": "Che cos'è questo odore di roba buona? Andiamo, andiamo!"
+        },
+        {
+          "chi": "Elfi del gelo",
+          "nota": "vedendo Sir Cidio",
+          "cosa": "Ah, Sir Cidio, finalmente è qui. Si sbrighi, la stanno aspettando."
+        },
+        {
+          "chi": "Andante Tagliaserpi",
+          "nota": "a Sir Cidio",
+          "cosa": "Ma lei conosce questi esseri? Dovrebbe averli combattuti, da quello che la storia ci ha raccontato."
+        },
+        {
+          "chi": "Sir Cidio",
+          "cosa": "Ho vissuto con la mia amata per tutto questo tempo, in questa torre."
+        },
+        {
+          "chi": "Sir Cidio",
+          "cosa": "Il nostro amore era impossibile. Per questo siamo rimasti qui, lontano da tutti, lontano da lui, lontano dagli altri."
+        }
+      ]
+    },
+    {
+      "titolo": "Il banchetto muto",
+      "testo": [
+        "Gli elfi aprono una porticina che porta al piano di sopra. Slurbel osserva che è strano e pure scomodo avere il banchetto sopra la cucina; Andante chiede cosa devono aspettarsi, e il Custode chiede tiri sulle caratteristiche, fra una discussione sui modificatori e l'altra.",
+        "La sala è gelida e avvolta nel silenzio. Siede a tavola un gruppo di sette elfi del gelo nobili, riccamente vestiti, e ai bordi stanno guardie elfiche. Quando Sir Cidio entra le guardie sbattono la lancia per terra in segno di saluto, e uno degli invitati dice soltanto «era ora», per tornare a fissare il vuoto. Nessuno bada ai nuovi arrivati.",
+        "Sulla tavola ci sono cigni arrosto ripieni di merli, montagne di frutta gocciolante di sciroppi, vini ghiacciati e liquori viola. Tutti tirano su Intelligenza: il cibo è reale, ma a chi supera la prova qualcosa non quadra. Gli invitati, scopre il gruppo, sono fantasmi: anche le guardie."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Invitato",
+          "cosa": "Era ora."
+        },
+        {
+          "chi": "Sir Cidio",
+          "cosa": "È giusto che stiate aspettando!"
+        },
+        {
+          "chi": "Andante Tagliaserpi",
+          "cosa": "Posso fare un tiro sulle guardie? Sono fantasmi anche le guardie?"
+        }
+      ]
+    },
+    {
+      "titolo": "L'anello accanto al cigno",
+      "testo": [
+        "Sir Cidio guarda con insistenza delle scale che salgono ancora più su. Il gruppo decide di salire senza di lui, e il modo più semplice è lasciare l'anello: finché l'anello sta a tavola, Sir Cidio non può allontanarsene.",
+        "Andante appoggia l'anello sul tavolo e propone di salire senza il fantasma. Oleggio lo lascia accanto a un cigno arrosto, avendo cura di farsi vedere da Sir Cidio: vuole che capisca cosa sta facendo. Sir Cidio non dice niente. Secchio di Brodo, intanto, fa la sua figura nella sala con gli occhi gialli, e il Custode non manca di notarlo."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Andante Tagliaserpi",
+          "cosa": "Va be', Sir Cidio, tu fai compagnia ai tuoi amici: noi saliamo."
+        },
+        {
+          "chi": "Oleggio Brucaboschi",
+          "cosa": "Devo andare da lei."
+        },
+        {
+          "chi": "Custode",
+          "cosa": "Sir Cidio non dice nulla: evidentemente capisce quello che stai facendo."
+        }
+      ]
+    },
+    {
+      "titolo": "La dama dei sogni",
+      "testo": [
+        "In cima alle scale il silenzio è ancora più assurdo: gli elfi sono ammutoliti, quindi tutto ciò che si sente è il gruppo che fa cose. C'è una finestra e, di spalle, una donna con i capelli del colore del sole d'inverno — «un biondo cenere, chiaro», precisa Slurbel.",
+        "Quando li sente arrivare si volta, al rallentatore, solo lei, come nei film, con i capelli che si muovono anche se non c'è vento. Occhi blu come il cristallo, un vestito bianco, una stella sulla fronte e una collanina con una pietra scintillante. È la donna dei sogni di Oleggio, che la conosce benissimo.",
+        "Chiede scusa per averlo ingannato e gli promette tutto ciò che vorrà. Poi guarda oltre di lui e domanda dov'è Sir Cidio. Oleggio manda Andante a prendere l'anello e a risalire con il fantasma; Slurbel raccomanda prudenza sulle scale, con tre metri di peli addosso.",
+        "Il Custode ha una novità per il tavolo: ci sarà un tiro di d4, e da quel tiro dipende il finale. Con 1 e 3 succede una cosa, con 2 e 4 un'altra."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Oleggio Brucaboschi",
+          "cosa": "Gli occhi blu mi sono sempre piaciuti. Pallidi."
+        },
+        {
+          "chi": "Nevicata al Crepuscolo",
+          "cosa": "Ti chiedo scusa per averti ingannato. Ti darò tutto ciò che vorrai."
+        },
+        {
+          "chi": "Nevicata al Crepuscolo",
+          "cosa": "E lui dov'è?"
+        },
+        {
+          "chi": "Oleggio Brucaboschi",
+          "nota": "ad Andante",
+          "cosa": "Devi fare questo per me: corri a prendere l'anello e risali con Sir Cidio."
+        }
+      ]
+    },
+    {
+      "titolo": "Chi ha tradito chi",
+      "testo": [
+        "Andrea teme che Sir Cidio salga le scale e lo decapiti. Sir Cidio sale, invece, e Nevicata ci rimane male: il Custode le fa dire che non è come lui crede, non è così che doveva andare, è stato lui a voler chiudere la porta fra i mondi e a ucciderla.",
+        "Andante si mette in mezzo e chiede ai due di spiegarsi. Un tiro di abilità stabilisce se i tentativi di bloccare il fantasma sono abbastanza convincenti: lo sono. Sir Cidio racconta la sua versione: vivevano felici in quella torre, finché lei ha chiamato il Principe Gelido rivelandogli dove si nascondeva. Nevicata nega: non è andata così, è stato lui a trovarlo.",
+        "Il tavolo, con grande serietà, prende le parti di tutti. Andante fa notare che per la storia a chiudere la porta è stato Sir Cidio, non il Principe; il fantasma ribatte di averlo fatto per vivere con lei per sempre, in cambio di un'immortalità che lei gli aveva promesso. Andante insiste, con il suo argomento preferito: Sir Cidio è un umano mortale come lui — lo era — e adesso, morto, potrà finalmente vivere.",
+        "Nevicata ha la sua difesa: i mortali hanno distrutto gli eserciti degli elfi, che altre prove servono? Sir Cidio vuole che i personaggi scelgano da che parte stare. Andante propone di risolverla con una sfida fra Oleggio e il fantasma, il primo che trapassa l'altro decide anche della signora; Sir Cidio non ha alcun interesse a far del male a «questa capra», e Oleggio, a sua volta, assicura che la violenza non serve a nulla.",
+        "La spunta Slurbel con un ragionamento: se la principessa avesse avuto davvero qualcosa da nascondere, non si sarebbe presentata, e invece è rimasta lì, a rischio della vita. Il Custode, ammirato, chiede una prova di Carisma. Slurbel non ha modificatore e deve superare 6 sul d20; a giudicare da come prosegue la scena, il tiro riesce."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Nevicata al Crepuscolo",
+          "cosa": "Non è come credi. Non è così che doveva andare. È stato lui a volerlo: a chiudere la porta fra i mondi, a ucciderti. Non sono stata io."
+        },
+        {
+          "chi": "Andante Tagliaserpi",
+          "cosa": "Aspettate, aspettate. Prima mi spiegate tutti e due perché…"
+        },
+        {
+          "chi": "Sir Cidio",
+          "cosa": "Vi devo una spiegazione. Vivevamo felici in questa torre, quando lei ha chiamato il Principe Gelido e gli ha detto la mia posizione."
+        },
+        {
+          "chi": "Nevicata al Crepuscolo",
+          "cosa": "Non è vero, non è andata così. Non sono stata io: è lui che ti ha trovato."
+        },
+        {
+          "chi": "Andante Tagliaserpi",
+          "cosa": "La qui presente signorina dice che è stato il Principe Gelido a chiudere la porta. La storia ci insegna che è stato lei, Sir Cidio, per allontanare gli elfi dalla nostra terra."
+        },
+        {
+          "chi": "Sir Cidio",
+          "cosa": "Io l'ho fatto per stare con lei, e lei mi ha tradito! Ho chiuso la porta per vivere con lei per tutta la vita, mi aveva promesso l'immortalità, e ha fatto l'infame."
+        },
+        {
+          "chi": "Nevicata al Crepuscolo",
+          "cosa": "È lui che mi ha tradito."
+        },
+        {
+          "chi": "Andante Tagliaserpi",
+          "cosa": "Lei, come me, è uno stupido umano mortale. Era. Già morto. Adesso potrà vivere."
+        },
+        {
+          "chi": "Sir Cidio",
+          "cosa": "Amico mio, hai ragione. Ma come faccio a fidarmi di lei?"
+        },
+        {
+          "chi": "Nevicata al Crepuscolo",
+          "cosa": "La prova? I mortali hanno ucciso e distrutto i nostri eserciti: che altre prove vuoi più di questo? Sono rimasta chiusa qui con te. Perché avrei dovuto tradirti, se la mia gente era già morta?"
+        },
+        {
+          "chi": "Andante Tagliaserpi",
+          "cosa": "Visto che lei è un grande condottiero, propongo una sfida con il mio amico Oleggio: il primo dei due che riuscirà a trapassare l'altro…"
+        },
+        {
+          "chi": "Sir Cidio",
+          "cosa": "Non ho nessun interesse a far del male a questa capra."
+        },
+        {
+          "chi": "Oleggio Brucaboschi",
+          "cosa": "La violenza non serve a nulla."
+        },
+        {
+          "chi": "Slurbel Piedemuffo",
+          "nota": "a Sir Cidio",
+          "cosa": "Se la signorina avesse avuto un minimo di rimorso per l'errore commesso anni e anni fa, non si sarebbe nemmeno presentata stasera. Invece, con la consapevolezza della sua presenza, è rimasta qui: non è forse una prova della sua buona fede?"
+        },
+        {
+          "chi": "Custode",
+          "cosa": "Bellissimo! Allora fai una prova di Carisma."
+        }
+      ]
+    },
+    {
+      "titolo": "L'amuleto e l'epilogo buono",
+      "testo": [
+        "Sir Cidio, che per tutto il tempo ha tenuto la spada sguainata verso l'elfa, si lascia convincere, e si conviene che i personaggi vadano ricompensati con tutto quello che vogliono. Oleggio ha ancora un conto in sospeso con la principessa: per lei ha parole ben meno piacevoli, perché sa di essere stato ingannato.",
+        "Nevicata si toglie l'amuleto che porta al collo. Il Custode spiega di cosa si tratta: contiene l'incantesimo *desiderio*, il più potente del gioco, e il gruppo può usarlo una volta sola per cambiare un aspetto qualsiasi del mondo o della campagna. Chi lo usa per scopi avidi vedrà il desiderio esaudito, ma con effetti poco piacevoli: conviene stare molto attenti a quello che si desidera. I dettagli, promette, alla prossima sessione.",
+        "Poi il Custode rivela cosa sarebbe successo altrimenti. Il d4 prevedeva un finale con scontro e vendetta di Sir Cidio; è stato l'intervento dei giocatori, che hanno fatto ragionare tutti, a ottenere quello che lui chiama «l'epilogo buono». Su chi dei due abbia ragione, il Custode lascia il finale aperto: la verità la scelgono i giocatori."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Oleggio Brucaboschi",
+          "cosa": "Riguardo a lei ho parole ben meno piacevoli, perché so che mi ha tratto in inganno. Ma saremo lautamente ricompensati."
+        },
+        {
+          "chi": "Custode",
+          "nota": "sull'amuleto",
+          "cosa": "Questo amuleto ha in sé un desiderio, e lo potrete usare come gruppo. Contiene l'incantesimo desiderio di D&D, il più potente del gioco: cambia un aspetto qualsiasi del mondo o della campagna. Una volta sola."
+        },
+        {
+          "chi": "Custode",
+          "cosa": "Se lo usate per scopi avidi vi esaudirà il desiderio, ma con effetti non proprio piacevoli. Dovete stare molto attenti a quello che desiderate."
+        },
+        {
+          "chi": "Custode",
+          "cosa": "Se non intervenivate, avreste combattuto e Sir Cidio avrebbe avuto la sua vendetta, senza sapere la verità. Quale sia la verità, scegietela voi: vi lascio il finale aperto."
+        }
+      ]
+    },
+    {
+      "titolo": "Fuori dalla tomba",
+      "testo": [
+        "Si celebra il banchetto, e il gruppo vi partecipa. Mangiano, bevono, si rifocillano — l'unico, tra gli invitati, a divertirsi davvero. Come nelle migliori storie, si divertono tanto da perdere i sensi.",
+        "La mattina dopo si ritrovano fuori dalla tomba. L'amuleto è ancora nelle mani di Slurbel. Davanti a loro, dove l'hanno portato con tanta fatica fino alla cima della torre, c'è l'anello. Andante lo prende e lo studia, mentre Slurbel gli suggerisce di metterlo in vendita su un sito di seconda mano, «Dolmenvinted»; Andante cerca una scritta, una data, qualcosa che dia un valore storico, e non trova niente. Il Custode: è solo un anello, molto costoso, che emette un leggero bagliore magico. Meglio scriverlo sulla scheda.",
+        "Andante lo indossa per non perderlo."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Custode",
+          "cosa": "Vi ritrovate la mattina dopo fuori dalla tomba. L'amuleto è ancora nelle mani di Slurbel."
+        },
+        {
+          "chi": "Custode",
+          "nota": "sull'anello",
+          "cosa": "Ti sembra solo molto costoso, ma non ha scritte né altro. Però emette un leggero bagliore: è magico. Ti invito a scriverlo sulla scheda."
+        },
+        {
+          "chi": "Andante Tagliaserpi",
+          "cosa": "Lo indosso, per non perderlo."
+        }
+      ]
+    },
+    {
+      "titolo": "Bottino, livelli e le parole del Custode",
+      "testo": [
+        "**Oggetti acquisiti:** l'amuleto del desiderio (un solo uso, per il gruppo; per ora nelle mani di Slurbel); l'anello di Sir Cidio, magico e con un leggero bagliore, che Andante porta al dito.",
+        "**Effetti dei funghi** (il Custode dice «permanente» solo per la pelle di Slurbel): peli di tre metri (Andante), occhi gialli e luminosi nel raggio di nove metri (Secchio di Brodo), corteccia viola (Slurbel), un naso senziente di nome Taleggio (Oleggio).",
+        "**Avanzamenti:** il Custode si è dimenticato di far fare il passaggio di livello, che per alcuni era già dovuto (erano già a livello 2), ma dato che non si è combattuto non è servito. Quando si riprende a giocare i personaggi ripartiranno direttamente dal livello 3, dal punto zero. Seguono calcoli ad alta voce sulle soglie di esperienza delle varie classi.",
+        "**Il Custode a fine partita:** il tiro di d4 con il doppio finale se l'è inventato lui, perché gli piaceva di più offrire una scelta; i personaggi li ha tirati tutti a caso, e alla prossima sessione si potrà cambiare classe; e, soprattutto, in giochi come questo non bisogna affezionarsi ai personaggi, perché muoiono con molta facilità. L'unica trappola davvero cattiva del modulo, spiega, era lo specchio: chi lo guardava e non superava il tiro moriva imprigionato nello specchio."
+      ],
+      "dialoghi": [
+        {
+          "chi": "Custode",
+          "cosa": "Quando rigiochiamo facciamo direttamente livello 3, dal punto zero del livello 3."
+        },
+        {
+          "chi": "Custode",
+          "cosa": "Il tiro di dado col doppio finale l'ho inventato io, perché mi piaceva di più avere la scelta."
+        },
+        {
+          "chi": "Custode",
+          "cosa": "In questo tipo di giochi non vi dovete affezionare ai personaggi, perché muoiono con molta facilità: ci sono tante trappole mortali."
+        }
+      ]
+    }
+  ],
+  "perle": [
+    {
+      "titolo": "Le capre e l'amanita muscaria",
+      "testo": "Davanti alla borsa di funghi, Flama pone una domanda di zoologia fantasy: essendo animali, le capre sono immuni all'amanita muscaria. Conclusione: la velenosa potrebbe mangiarla Oleggio."
+    },
+    {
+      "titolo": "«Slurber cannibale!»",
+      "testo": "Quando Slurbel, ricoperto di funghi, si mette a mangiare funghi, Flama si difende: «Cannibalismo? Sì, ma sono buoni». Andante annuncia di prendere una bomboletta spray e scrivere sul muro, a lettere cubitali, «Slurber cannibale». Claudia, intanto, avverte: con una borsa magica potrebbe continuare a mangiare all'infinito."
+    },
+    {
+      "titolo": "«Non ci fate naso»",
+      "testo": "Oleggio cerca di tranquillizzare i compagni sul suo naso senziente: «Ragazzi, non ci fate caso, è solo un naso». Il tavolo ne tira fuori il gioco di parole: «non ci fate naso». Nel diario è attribuito a Oleggio; nella registrazione a coniarlo sembra Vanni, e Andrea lo ripete. [da verificare con il gruppo]"
+    },
+    {
+      "titolo": "«Prima di andare avanti, dovremmo capire l'indietro»",
+      "testo": "Flama, davanti al racconto di Sir Cidio sul proprio passato, ha un lampo di logica retrospettiva: prima di andare avanti, bisognerebbe capire l'indietro."
+    },
+    {
+      "titolo": "«Aiutati che Sir Cidio ti aiuta»",
+      "testo": "Oleggio, riadattando un proverbio all'occasione: «Aiutati che Dio ti aiuta». E subito dopo, per precisione: «Aiutati che Sercidio ti aiuta»."
+    },
+    {
+      "titolo": "Godzilla",
+      "testo": "Davanti agli occhi gialli e luminosi di Secchio di Brodo, il Custode non può esimersi dal commento: è diventata tipo Godzilla, con quel laser giallo."
+    },
+    {
+      "titolo": "Dolmenvinted",
+      "testo": "Davanti all'anello, rinvenuto fuori dalla tomba senza una scritta né una data, Slurbel pone il problema nei termini giusti: sembra che li mettano su vintage. Nel diario diventa il nome di un sito, «Dolmenvinted». Flama aggiunge che il valore dipende da quanto valeva l'oro in quel periodo."
+    },
+    {
+      "titolo": "La spada che era già sua",
+      "testo": "Il Custode ricorda che la spada è ancora nelle mani di Andante. Andrea, che era convinto fosse sua — l'unica cosa che Sir Cidio gli aveva promesso oltre all'anello — la reclama; poi si accorge di averla già fra gli oggetti. «Prima perché hai detto Andante, quindi ti ho creduto.» [da verificare con il gruppo]"
+    }
+  ],
+  "note": [
+    "I primi dieci minuti della registrazione sono chiacchiere private del tavolo e non vengono riportati: il gioco comincia con il riepilogo di Andante, a 10:30.",
+    "Il diario scritto al tavolo è parziale e arriva fino al risveglio fuori dalla tomba. Per tutto il resto — i funghi, la cucina, il banchetto, il confronto fra Sir Cidio e Nevicata, l'amuleto — la fonte è l'audio, con le due registrazioni sincronizzate al secondo.",
+    "Non è chiaro chi abbia tirato il d4 né cosa sia uscito: il Custode dice che l'intervento dei giocatori ha dato «l'epilogo buono» nonostante il tiro. [da verificare con il gruppo]",
+    "Durante l'accusa di Sir Cidio il Custode pronuncia una frase su un'età, «undici anni», che la registrazione non permette di collocare con certezza. [da verificare con il gruppo]",
+    "Il Custode detta il nome dell'amuleto lettera per lettera, ma la trascrizione non lo restituisce. [da verificare con il gruppo]",
+    "Whisper ha reso «taccuino» con «tacchino», un errore corretto qui. Le voci del Custode quando interpreta Sir Cidio, Nevicata, il troll e il goblin sono spesso attribuite dal programma a un giocatore: nei dialoghi sono state controllate sul contenuto.",
+    "Dei funghi, il Custode dice esplicitamente «permanente» solo per la corteccia viola di Slurbel; per gli altri effetti la registrazione non dice se siano temporanei. [da verificare con il gruppo]"
+  ]
+}

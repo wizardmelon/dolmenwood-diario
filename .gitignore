@@ -9,3 +9,9 @@ build/
 
 # trascrizione grezza con timestamp per parola (2 MB, rigenerabile)
 fonti/*-grezza.json
+
+# Trascrizioni integrali della sessione 6: contengono chiacchiere private del tavolo
+# (casa, lavoro, nomi di terzi) e il repository è pubblico. Restano in locale.
+fonti/trascrizione-*sessione6*
+fonti/diario-sessione6.txt
+fonti/Dolmenwood Diario scritto al tavolo.pdf

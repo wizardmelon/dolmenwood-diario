@@ -33,6 +33,7 @@ PDF = RADICE / "pdf"
 ORDINE = [
     "sessioni-01-04.json",
     "sessione-05.json",
+    "sessione-06.json",
 ]
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
@@ -252,6 +253,14 @@ def piede(campagna):
 # sito
 # --------------------------------------------------------------------------
 
+def prossimo_numero(sessioni):
+    """Numero della sessione successiva all'ultima in elenco (le sessioni 1-4 contano come 4)."""
+    ultima = sessioni[-1]["numero"]
+    if isinstance(ultima, str):          # «1-4»
+        ultima = int(ultima.split("-")[-1])
+    return int(ultima) + 1
+
+
 def genera_indice(campagna, sessioni):
     schede = []
     for s in sessioni:
@@ -266,9 +275,10 @@ def genera_indice(campagna, sessioni):
             f"</a></li>"
         )
     schede.append(
-        '<li><div class="scheda prossima"><span class="numero">6</span>'
-        "<h2>La torre</h2>"
-        '<p class="sottotitolo">Da giocare — il finale di Winter\'s Daughter</p>'
+        '<li><div class="scheda prossima">'
+        f'<span class="numero">{prossimo_numero(sessioni)}</span>'
+        "<h2>Prossima sessione</h2>"
+        '<p class="sottotitolo">Da giocare — la campagna continua, dal livello 3</p>'
         '<div class="meta"><span>prossimamente</span></div></div></li>'
     )
 

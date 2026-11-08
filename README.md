@@ -186,6 +186,70 @@ capo. Per rifarla davvero serve `--ricalcola`.
 Più di qualunque modello, però, conta il microfono: le voci vicine al telefono si
 separano bene, quelle in fondo al tavolo molto meno.
 
+## Aggiungere una nuova sessione: il flusso completo
+
+Pensato per consumare meno token possibile: il lavoro pesante lo fanno strumenti
+e un modello linguistico **locale** (Ollama), e chi scrive legge solo i passaggi
+che gli servono.
+
+1. **Audio → trascrizione con i nomi.** Con più registrazioni (per esempio una al
+   centro del tavolo e una vicino al Custode) si lancia `diarizza.py` su ciascuna,
+   con `--voci voci/`. Poi si dà un nome ai parlanti rimasti anonimi con `--nomi`
+   (vedi sotto: l'incrocio fra due registrazioni è il modo più sicuro).
+2. **Sincronizzare le registrazioni.** Si stima lo scarto fra i due microfoni per
+   correlazione dell'inviluppo sonoro; sulla sessione 6 era di 131,9 s, costante
+   dall'inizio alla fine (nessuna deriva). Il valore si salva in
+   `fonti/sync-audio-sessioneN.json`.
+3. **Appunti con il modello locale.** `riassumi_locale.py` spezza la trascrizione
+   in finestre di sei minuti e per ciascuna estrae eventi, dialoghi in gioco,
+   battute fuori gioco, nomi e dubbi; con `--sintesi-da` li fonde in un indice di
+   capitoli. Un'ora e mezza di sessione costa una quindicina di minuti di calcolo
+   e zero token a pagamento.
+4. **Leggere solo i tratti che contano.** `tratto.py` fonde le due registrazioni
+   (i giocatori dal microfono centrale, il Custode da quello vicino) e stampa un
+   intervallo di tempo o cerca una parola: serve a controllare i fatti
+   dell'indice e a ricostruire i dialoghi.
+5. **Scrivere `contenuti/sessione-NN.json`**, aggiungerlo a `ORDINE` in
+   `genera.py` e lanciare `python3 genera.py`.
+6. **Verificare le attribuzioni prima di pubblicare:**
+   `python3 verifica_attribuzioni.py contenuti/sessione-NN.json <trascrizione>.json`
+   segnala le battute che la voce attribuisce a una persona diversa da quella del
+   diario.
+
+### Due cose che ho imparato a mie spese
+
+- **Non dare il diario scritto al tavolo al modello locale, finestra per
+  finestra.** Provato: il modello ne ricopia la trama in *tutte* le finestre,
+  anche dove nell'audio succede altro, e l'indice che ne esce è lo stesso episodio
+  ripetuto dodici volte. Il diario va usato da chi scrive, per il controllo
+  incrociato. Per la stessa ragione il file di contesto
+  (`contenuti/contesto-llm.md`) non deve riassumere la sessione precedente.
+- **Il modello locale inventa i dettagli.** Su una sessione vera ha prodotto «una
+  bambina di undici anni», «Sercidio che decapita Oleggio» (era Andrea che
+  ipotizzava ad alta voce) e «effetti permanenti» (detto una sola volta, per un
+  solo personaggio). Va usato come un **indice con gli orari**, e ogni dettaglio
+  controllato con `tratto.py --cerca` prima di finire nel diario.
+
+### Identificare i parlanti incrociando due registrazioni
+
+Quando un parlante resta senza nome, si confrontano i due audio: spostati dello
+scarto di sincronizzazione, i gruppi di voci che parlano nello stesso istante
+devono coincidere. Sulla sessione 6 il Custode — che non ha un campione — è
+risultato il gruppo che nei due audio si sovrappone al 76%, e Claudia, il cui
+campione WhatsApp compresso somiglia poco a qualsiasi cosa (0,34–0,43 contro 0,6–0,7
+degli altri), è stata riconosciuta perché era la più vicina al proprio campione in
+**entrambe** le registrazioni e i due gruppi coincidono al 67%.
+
+`diarizza.py` stampa la matrice completa delle somiglianze (parlanti per
+campioni): serve a vedere quanto ci è andato vicino un parlante rimasto senza nome.
+
+### Riservatezza
+
+Il repository è pubblico, e le registrazioni di un tavolo contengono anche
+chiacchiere private. Le trascrizioni integrali della sessione 6 **non** sono
+nel repository (vedi `.gitignore`): restano in locale. Quelle della sessione 5
+furono pubblicate in origine e contengono qualche passaggio personale.
+
 ## Note su diritti e materiali
 
 Dolmenwood e *Winter's Daughter* sono opere di Necrotic Gnome. Questo repository
