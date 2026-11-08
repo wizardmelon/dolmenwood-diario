@@ -246,9 +246,10 @@ campioni): serve a vedere quanto ci è andato vicino un parlante rimasto senza n
 ### Riservatezza
 
 Il repository è pubblico, e le registrazioni di un tavolo contengono anche
-chiacchiere private. Le trascrizioni integrali della sessione 6 **non** sono
-nel repository (vedi `.gitignore`): restano in locale. Quelle della sessione 5
-furono pubblicate in origine e contengono qualche passaggio personale.
+chiacchiere private. Le trascrizioni integrali **non** sono nel repository (vedi
+`.gitignore`): restano in locale, e qui c'è solo il testo ricostruito. Quelle
+della sessione 5 furono pubblicate in origine e poi ritirate: restano visibili
+nei commit più vecchi.
 
 ## Note su diritti e materiali
 
