@@ -42,14 +42,16 @@ def giocatori_per_personaggio():
 def main():
     ap = argparse.ArgumentParser(description="Verifica le attribuzioni dei dialoghi.")
     ap.add_argument("sessione", type=Path, help="contenuti/sessione-NN.json")
-    ap.add_argument("trascrizione", type=Path, help="JSON diarizzato")
+    ap.add_argument("trascrizione", type=Path, nargs="+",
+                    help="uno o più JSON diarizzati (per esempio centro e master): una battuta "
+                         "concorda se concorda in almeno uno")
     ap.add_argument("--tutto", action="store_true", help="mostra anche le discordanze poco affidabili")
     args = ap.parse_args()
 
     sessione = json.loads(args.sessione.read_text("utf-8"))
-    battute = json.loads(args.trascrizione.read_text("utf-8"))
+    indici = [[(norma(b["testo"]), b) for b in json.loads(f.read_text("utf-8"))]
+              for f in args.trascrizione]
     attesi = giocatori_per_personaggio()
-    indice = [(norma(b["testo"]), b) for b in battute]
 
     controllate = ok = 0
     alte, basse, custode = [], [], []
@@ -58,20 +60,27 @@ def main():
             chiavi = [w for w in norma(d["cosa"]).split() if len(w) > 4]
             if len(chiavi) < 3:
                 continue
-            migliore, n = None, 0
-            for testo, b in indice:
-                k = sum(1 for c in chiavi if c in testo)
-                if k > n:
-                    migliore, n = b, k
-            copertura = n / len(chiavi)
-            if copertura < 0.5:
+            # per ogni trascrizione, la battuta che contiene più parole chiave
+            candidati = []
+            for indice in indici:
+                migliore, n = None, 0
+                for testo, b in indice:
+                    k = sum(1 for c in chiavi if c in testo)
+                    if k > n:
+                        migliore, n = b, k
+                if migliore and n / len(chiavi) >= 0.5:
+                    candidati.append((n, migliore))
+            if not candidati:
                 continue
             controllate += 1
             atteso = attesi.get(d["chi"], "Custode")
-            trovato = migliore["parlante"]
-            if atteso in trovato or "non attribuito" in trovato or trovato == "SCONOSCIUTO":
+            if any(atteso in b["parlante"] or "non attribuito" in b["parlante"]
+                   or b["parlante"] == "SCONOSCIUTO" for _, b in candidati):
                 ok += 1
                 continue
+            n, migliore = max(candidati, key=lambda x: x[0])
+            copertura = n / len(chiavi)
+            trovato = migliore["parlante"]
             durata = migliore["fine"] - migliore["inizio"]
             voce = (f"[{int(migliore['inizio']) // 60:02d}:{int(migliore['inizio']) % 60:02d}] "
                     f"«{d['cosa'][:60]}…»\n      diario: {d['chi']} ({atteso})  |  voce: {trovato}  "

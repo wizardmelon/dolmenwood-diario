@@ -224,11 +224,40 @@ che gli servono.
   ripetuto dodici volte. Il diario va usato da chi scrive, per il controllo
   incrociato. Per la stessa ragione il file di contesto
   (`contenuti/contesto-llm.md`) non deve riassumere la sessione precedente.
-- **Il modello locale inventa i dettagli.** Su una sessione vera ha prodotto «una
-  bambina di undici anni», «Sercidio che decapita Oleggio» (era Andrea che
-  ipotizzava ad alta voce) e «effetti permanenti» (detto una sola volta, per un
-  solo personaggio). Va usato come un **indice con gli orari**, e ogni dettaglio
-  controllato con `tratto.py --cerca` prima di finire nel diario.
+- **Il modello locale perde e inventa dettagli.** Sulla sessione 6 ha prodotto
+  «Sercidio che decapita Oleggio» (era Andrea che ipotizzava ad alta voce) e ha
+  perso quasi tutte le battute migliori di Sir Cidio, perché il tetto di otto
+  dialoghi a finestra le tagliava. Va usato come un **indice con gli orari**: i
+  dettagli si leggono a mano con `tratto.py` a soglia bassa (5 parole, non 10) e si
+  controllano con `--cerca`.
+- **Il controllo va fatto sulla frase, non sul segmento.** Un segmento della
+  diarizzazione può contenere due persone: «Ma non è un po' cannibalismo, da parte
+  tua?» (Vanni) e «Sì, ma sono buoni» erano un solo segmento etichettato Flama. Per
+  i casi dubbi si ritaglia l'audio della singola frase (con i tempi per parola di
+  Whisper) e se ne confronta il timbro con la voce media di ciascun parlante *nello
+  stesso microfono*.
+- **Il parlato di un microfono lontano non si classifica.** Nel master i giocatori
+  sono troppo lontani: per loro conta il centro; per il Custode conta il master.
+
+### Buchi e fusione dei due microfoni
+
+- Whisper può girare a vuoto per minuti producendo solo sequenze di numeri
+  (sessione 6: da 26:30 a 29:45 al centro). `tratto.py --buchi` li elenca; la
+  fusione li scarta e il tratto si legge dall'altro microfono.
+- Dal master la fusione prende anche le righe **senza etichetta**, marcate
+  «Custode?»: lì la diarizzazione mette il secondo registro del Custode. Scartarle
+  faceva perdere battute decisive (la ricompensa in livelli per il naso, la
+  conferma che gli effetti dei funghi sono permanenti, «lo concedo, amico mio»).
+- `verifica_attribuzioni.py` accetta più trascrizioni: una battuta concorda se
+  concorda in almeno una.
+
+### Idee provate che non funzionano
+
+- **Riconoscere il Custode dalla posizione** (rapporto di livello fra i due
+  microfoni): 78% e 74% di classificazioni giuste, con distribuzioni sovrapposte.
+  Troppo poco per sostituire la voce; al più un indizio.
+- **Il disaccordo fra le etichette dei due microfoni** come segnale delle voci di
+  scena del Custode: un solo caso su 271 battute.
 
 ### Identificare i parlanti incrociando due registrazioni
 
